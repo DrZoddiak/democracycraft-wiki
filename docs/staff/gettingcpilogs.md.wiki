@@ -1,0 +1,143 @@
+<span id="getting-cpi-data"></span>
+= Getting CPI Data =
+
+Once a month, the DOC will open a system ticket requesting Chest Shop data for the CPI. This is an '''Admin+''' task.
+
+<span id="step-1-finding-the-log-file."></span>
+=== Step 1: Finding the log file. ===
+
+Going to your DemocracyCraft dashboard, you’ll go to '''File Manager''' on the sidebar on the right, then click the '''plugins''' folder.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/q0CLZs0.png|Image]]
+
+</div>
+Next, locate the '''ChestShop''' folder. These folders are in alphabetical order.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/L9rUnlz.png|Image]]
+
+</div>
+Finally, '''DOWNLOAD''' the '''ChestShop.log''' near the top by clicking the 3 dots in it’s row and clicking '''download'''.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/C9YIqdG.png|Image]]
+
+</div>
+<span id="step-2-collecting-that-months-data"></span>
+=== Step 2: Collecting that month’s data ===
+
+Once you download the logs, open them. Notepad works great.
+
+Next, '''find''' the month you’re looking for by doing '''yyyy/mm/01'''. Find on Windows is ctrl+f; Find on Mac is cmd+f.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/a8m1MrC.png|Image]]
+
+</div>
+Now you’ll select all of that month’s bar. This is a lot. (Tip: put an extra space or two between the start of the month and end of the month for a more distinct start and end.)
+
+Select all of the month’s transactions. You can click and drag, or put your cursor at the very start of the month, move down to the end, hold shift, and click the very end and it will highlight everything inbetween. (Tip: do this in sections.)
+
+<div class="figure">
+
+[[File:https://i.imgur.com/TDDg1Ii.gif|Image]]
+
+</div>
+Once you’ve selected all of the month you’d like, copy and paste it into it’s own document. (Windows: ctrl+c / ctrl+v ; Mac: cmd+c / cmd+v)
+
+<div class="figure">
+
+[[File:https://i.imgur.com/KBXzufM.gif|Image]]
+
+</div>
+<span id="step-3-save-send"></span>
+=== Step 3: Save &amp; send ===
+
+Save the document as '''Month Year CPI Data'''.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/hMiZNJC.png|Image]]
+
+</div>
+Then just send it to the DOC in the ticket they’ve opened.
+
+<span id="tadah-youve-completed-this-months-cpi-data."></span>
+== Tadah! You’ve completed this month’s CPI data. ==
+
+<span id="getting-cpi-data-1"></span>
+= Getting CPI Data =
+
+Once a month, the DOC will open a system ticket requesting Chest Shop data for the CPI. This is an '''Admin+''' task.
+
+<span id="step-1-finding-the-log-file.-1"></span>
+=== Step 1: Finding the log file. ===
+
+Going to your DemocracyCraft dashboard, you’ll go to '''File Manager''' on the sidebar on the right, then click the '''plugins''' folder.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/q0CLZs0.png|Image]]
+
+</div>
+Next, locate the '''ChestShop''' folder. These folders are in alphabetical order.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/L9rUnlz.png|Image]]
+
+</div>
+Finally, '''DOWNLOAD''' the '''ChestShop.log''' near the top by clicking the 3 dots in it’s row and clicking '''download'''.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/C9YIqdG.png|Image]]
+
+</div>
+<span id="step-2-collecting-that-months-data-1"></span>
+=== Step 2: Collecting that month’s data ===
+
+Once you download the logs, open them. Notepad works great.
+
+Next, '''find''' the month you’re looking for by doing '''yyyy/mm/01'''. Find on Windows is ctrl+f; Find on Mac is cmd+f.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/a8m1MrC.png|Image]]
+
+</div>
+Now you’ll select all of that month’s bar. This is a lot. (Tip: put an extra space or two between the start of the month and end of the month for a more distinct start and end.)
+
+Select all of the month’s transactions. You can click and drag, or put your cursor at the very start of the month, move down to the end, hold shift, and click the very end and it will highlight everything inbetween. (Tip: do this in sections.)
+
+<div class="figure">
+
+[[File:https://i.imgur.com/TDDg1Ii.gif|Image]]
+
+</div>
+Once you’ve selected all of the month you’d like, copy and paste it into it’s own document. (Windows: ctrl+c / ctrl+v ; Mac: cmd+c / cmd+v)
+
+<div class="figure">
+
+[[File:https://i.imgur.com/KBXzufM.gif|Image]]
+
+</div>
+<span id="step-3-save-send-1"></span>
+=== Step 3: Save &amp; send ===
+
+Save the document as '''Month Year CPI Data'''.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/hMiZNJC.png|Image]]
+
+</div>
+Then just send it to the DOC in the ticket they’ve opened.
+
+<span id="tadah-youve-completed-this-months-cpi-data.-1"></span>
+== Tadah! You’ve completed this month’s CPI data. ==

@@ -1,0 +1,73 @@
+<span id="server-branding"></span>
+= Server Branding =
+
+<span id="emblem"></span>
+== Emblem ==
+
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/logo.png|image]]
+
+</div>
+<span id="icon"></span>
+== Icon ==
+
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/dc-icon-white.png|image]]
+
+</div>
+<span id="special-icons"></span>
+== Special Icons ==
+
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/icon_xmas.png|image]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/icon_halloween.png|image]]
+
+</div>
+<span id="staff-team"></span>
+== Staff Team ==
+
+[[File:https://www.democracycraft.net/images/staff.png|image]] [[File:https://i.imgur.com/1xiWDK3.png|image]]
+
+<span id="server-branding-1"></span>
+= Server Branding =
+
+<span id="emblem-1"></span>
+== Emblem ==
+
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/logo.png|image]]
+
+</div>
+<span id="icon-1"></span>
+== Icon ==
+
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/dc-icon-white.png|image]]
+
+</div>
+<span id="special-icons-1"></span>
+== Special Icons ==
+
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/icon_xmas.png|image]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/icon_halloween.png|image]]
+
+</div>
+<span id="staff-team-1"></span>
+== Staff Team ==
+
+[[File:https://www.democracycraft.net/images/staff.png|image]] [[File:https://i.imgur.com/1xiWDK3.png|image]]

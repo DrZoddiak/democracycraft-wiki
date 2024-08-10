@@ -1,0 +1,149 @@
+<span id="finding-chat-logs"></span>
+= Finding Chat Logs =
+
+<span id="windows"></span>
+== Windows ==
+
+<ol style="list-style-type: decimal;">
+<li><p>Type <code>%appdata%</code> into your Windows search bar and press <code>ENTER</code>.</p>
+<div class="figure">
+
+[[File:https://i.imgur.com/ohmZjIr.png|Windows Search]]
+
+</div></li>
+<li><p>Open the <code>.minecraft</code> folder.</p>
+<div class="figure">
+
+[[File:https://i.imgur.com/bXLd345.png|Minecraft Folder]]
+
+</div></li>
+<li><p>Access the <code>logs</code> folder.</p>
+<div class="figure">
+
+[[File:https://i.imgur.com/A8puxmw.png|Logs Folder]]
+
+</div></li>
+<li><p>View recent logs under the <code>latest</code> file or older logs under the dated files. The older logs are at the bottom, depending on your file sorting settings.</p>
+<div class="figure">
+
+[[File:https://i.imgur.com/T1mn9Wi.png|Logs]]
+
+</div></li>
+<li><p>You can open the <code>latest</code> file without extracting it. For dated files, you’ll need to extract them using file extractors like WinRAR or 7Zip.</p></li>
+<li><p>To search for a specific phrase (word, message, username, etc.), press <code>CTRL + F</code> in the text document to initiate a search.</p></li></ol>
+
+<span id="mac"></span>
+== Mac ==
+
+''Supplied by: [https://creativefun.net/threads/how-to-get-mc-chatlogs-mac.79671/ Official - How to get MC Chatlogs (Mac)]''
+
+<ol style="list-style-type: decimal;">
+<li><p>First, go to ‘Finder,’ which is located at the bottom of your screen.</p></li>
+<li><p>In the ‘Recents’ folder, you’ll see a toolbar at the top of the screen. Click on ‘Help.’</p></li>
+<li><p>In the ‘Help’ menu, search for ‘Library.’ It should be the first result. Click on it. ''(Alternatively, instead of using ‘Help,’ you can go to ‘Go,’ press the ‘Option’ key on your keyboard, and choose ‘Library’).''</p>
+<div class="figure">
+
+[[File:https://i.imgur.com/oFBgTjk.png|Finder]]
+
+</div></li>
+<li><p>This will take you to a page with all your ‘hidden’ folders. Look for ‘Application Support’ and open that folder.</p>
+<div class="figure">
+
+[[File:https://i.imgur.com/sTM3P8l.png|Application Support]]
+
+</div></li>
+<li><p>Double click on ‘Application Support,’ which will take you to all your application folders. Here, find the ‘Minecraft’ folder.</p></li>
+<li><p>Once you’re in the ‘Minecraft’ folder, locate the ‘Logs’ folder. You might need to scroll to find it.</p>
+<div class="figure">
+
+[[File:https://i.imgur.com/v9c3XPw.png|Minecraft Logs]]
+
+</div></li>
+<li><p>In the ‘Logs’ folder, you’ll find all your chatlogs. To find logs from a specific date, use the search bar on the right. The log from your most recent Minecraft session is named ‘latest.log.’</p>
+<div class="figure">
+
+[[File:https://i.imgur.com/2zl6wid.png|Chatlogs]]
+
+</div></li>
+<li><p>To unzip or load files, simply double-click on them.</p></li>
+<li><p>If you need to find specific messages in chatlogs with many messages, look in the top right corner. You’ll see a search bar—just enter the time of the message or the message text.</p>
+<div class="figure">
+
+[[File:https://i.imgur.com/NX9PMkK.png|Search]]
+
+</div></li></ol>
+
+<span id="finding-chat-logs-1"></span>
+= Finding Chat Logs =
+
+<span id="windows-1"></span>
+== Windows ==
+
+<ol style="list-style-type: decimal;">
+<li><p>Type <code>%appdata%</code> into your Windows search bar and press <code>ENTER</code>.</p>
+<div class="figure">
+
+[[File:https://i.imgur.com/ohmZjIr.png|Windows Search]]
+
+</div></li>
+<li><p>Open the <code>.minecraft</code> folder.</p>
+<div class="figure">
+
+[[File:https://i.imgur.com/bXLd345.png|Minecraft Folder]]
+
+</div></li>
+<li><p>Access the <code>logs</code> folder.</p>
+<div class="figure">
+
+[[File:https://i.imgur.com/A8puxmw.png|Logs Folder]]
+
+</div></li>
+<li><p>View recent logs under the <code>latest</code> file or older logs under the dated files. The older logs are at the bottom, depending on your file sorting settings.</p>
+<div class="figure">
+
+[[File:https://i.imgur.com/T1mn9Wi.png|Logs]]
+
+</div></li>
+<li><p>You can open the <code>latest</code> file without extracting it. For dated files, you’ll need to extract them using file extractors like WinRAR or 7Zip.</p></li>
+<li><p>To search for a specific phrase (word, message, username, etc.), press <code>CTRL + F</code> in the text document to initiate a search.</p></li></ol>
+
+<span id="mac-1"></span>
+== Mac ==
+
+''Supplied by: [https://creativefun.net/threads/how-to-get-mc-chatlogs-mac.79671/ Official - How to get MC Chatlogs (Mac)]''
+
+<ol style="list-style-type: decimal;">
+<li><p>First, go to ‘Finder,’ which is located at the bottom of your screen.</p></li>
+<li><p>In the ‘Recents’ folder, you’ll see a toolbar at the top of the screen. Click on ‘Help.’</p></li>
+<li><p>In the ‘Help’ menu, search for ‘Library.’ It should be the first result. Click on it. ''(Alternatively, instead of using ‘Help,’ you can go to ‘Go,’ press the ‘Option’ key on your keyboard, and choose ‘Library’).''</p>
+<div class="figure">
+
+[[File:https://i.imgur.com/oFBgTjk.png|Finder]]
+
+</div></li>
+<li><p>This will take you to a page with all your ‘hidden’ folders. Look for ‘Application Support’ and open that folder.</p>
+<div class="figure">
+
+[[File:https://i.imgur.com/sTM3P8l.png|Application Support]]
+
+</div></li>
+<li><p>Double click on ‘Application Support,’ which will take you to all your application folders. Here, find the ‘Minecraft’ folder.</p></li>
+<li><p>Once you’re in the ‘Minecraft’ folder, locate the ‘Logs’ folder. You might need to scroll to find it.</p>
+<div class="figure">
+
+[[File:https://i.imgur.com/v9c3XPw.png|Minecraft Logs]]
+
+</div></li>
+<li><p>In the ‘Logs’ folder, you’ll find all your chatlogs. To find logs from a specific date, use the search bar on the right. The log from your most recent Minecraft session is named ‘latest.log.’</p>
+<div class="figure">
+
+[[File:https://i.imgur.com/2zl6wid.png|Chatlogs]]
+
+</div></li>
+<li><p>To unzip or load files, simply double-click on them.</p></li>
+<li><p>If you need to find specific messages in chatlogs with many messages, look in the top right corner. You’ll see a search bar—just enter the time of the message or the message text.</p>
+<div class="figure">
+
+[[File:https://i.imgur.com/NX9PMkK.png|Search]]
+
+</div></li></ol>

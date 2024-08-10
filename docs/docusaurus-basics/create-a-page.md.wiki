@@ -1,0 +1,73 @@
+<span id="create-a-page"></span>
+= Create a Page =
+
+Add '''Markdown or React''' files to <code>src/pages</code> to create a '''standalone page''':
+
+* <code>src/pages/index.js</code> → <code>localhost:3000/</code>
+* <code>src/pages/foo.md</code> → <code>localhost:3000/foo</code>
+* <code>src/pages/foo/bar.js</code> → <code>localhost:3000/foo/bar</code>
+
+<span id="create-your-first-react-page"></span>
+== Create your first React Page ==
+
+Create a file at <code>src/pages/my-react-page.js</code>:
+
+```jsx title=“src/pages/my-react-page.js” import React from ‘react’; import Layout from ‘@theme/Layout’;
+
+export default function MyReactPage() { return ( <Layout>
+<h1>
+My React page
+</h1>
+<pre>  &lt;p&gt;This is a React page&lt;/p&gt;
+&lt;/Layout&gt;</pre>
+); }
+
+<pre>
+A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
+
+## Create your first Markdown Page
+
+Create a file at `src/pages/my-markdown-page.md`:
+
+```mdx title=&quot;src/pages/my-markdown-page.md&quot;
+# My Markdown page
+
+This is a Markdown page</pre>
+A new page is now available at http://localhost:3000/my-markdown-page.
+
+<span id="create-a-page-1"></span>
+= Create a Page =
+
+Add '''Markdown or React''' files to <code>src/pages</code> to create a '''standalone page''':
+
+* <code>src/pages/index.js</code> → <code>localhost:3000/</code>
+* <code>src/pages/foo.md</code> → <code>localhost:3000/foo</code>
+* <code>src/pages/foo/bar.js</code> → <code>localhost:3000/foo/bar</code>
+
+<span id="create-your-first-react-page-1"></span>
+== Create your first React Page ==
+
+Create a file at <code>src/pages/my-react-page.js</code>:
+
+```jsx title=“src/pages/my-react-page.js” import React from ‘react’; import Layout from ‘@theme/Layout’;
+
+export default function MyReactPage() { return ( <Layout>
+<h1>
+My React page
+</h1>
+<pre>  &lt;p&gt;This is a React page&lt;/p&gt;
+&lt;/Layout&gt;</pre>
+); }
+
+<pre>
+A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
+
+## Create your first Markdown Page
+
+Create a file at `src/pages/my-markdown-page.md`:
+
+```mdx title=&quot;src/pages/my-markdown-page.md&quot;
+# My Markdown page
+
+This is a Markdown page</pre>
+A new page is now available at http://localhost:3000/my-markdown-page.

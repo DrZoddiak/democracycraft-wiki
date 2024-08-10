@@ -1,0 +1,129 @@
+<span id="welcome"></span>
+= Welcome =
+
+Welcome back and welcome in to this weeks release of the rolling Changelog. We are a week behind in getting this posted but are excited to getting it published for you all to view!
+
+<span id="features"></span>
+= Features =
+
+* Bedrock users are now able to create chestshops!
+* Elixir Side Effects
+** When logging out after excessively consuming Elixirs the user may experience slow or grogginess upon logging back into the server. This is a side effect of the Elixir consumption.
+** The side effect has been lowered from a '''7''' day duration to a '''2''' day duration.
+* Application Sync to forums and discord! The creation of #applications channel within each department discord now allows departments to see applications without having to go on the forums everyday!
+
+<div class="note">
+
+We have been working on this feature for '''6''' months. It started out as an idea, utilizing Google forms and then transitioning to webhooks. These ideas are what keep DemocracyCraft current and up to date!
+
+
+</div>
+* Modern BBCode Messages
+** <code>[accepted]&lt;message&gt;[/accepted]</code> - Government Department
+** <code>[denied]&lt;message&gt;[/denied]</code> - Government Department
+** <code>[sign]&lt;message&gt;[/sign]</code> - Executive Office
+** <code>[ownerveto]&lt;message&gt;[/ownerveto]</code> - Staff Team
+** <code>[veto]&lt;message&gt;[/veto]</code> - Executive Office
+** <code>[verdict]&lt;message&gt;[/verdict]</code> - Judiciary
+* Respawn anchors can no longer be lit/engaged in Reveille.
+* This was actioned to prevent grief.
+* Taxes on bounties have been removed. Happy Hunting!
+* ChestShops now support long business names!
+** Notice your old shop does not work? Open a ticket in-game and a staff member can assist.
+
+<span id="government"></span>
+= Government =
+
+* Public Affairs Department
+** Added the role ‘Event Designer’ - focuses on building the event locations!
+* Construction &amp; Trnasportation Department
+** Building Inspectors can now utilize <code>/dct-eviction-notice &lt;username&gt; &lt;region&gt; &lt;link&gt;</code> to notify users of pending evictions.
+* Members of the public can now speak within #bills (Within the DC Discord)
+* Interior Department
+** Rangers/Seinor Rangers can now utilize <code>/doi-unclaimed &lt;player&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;month&gt; &lt;day&gt; &lt;year&gt;</code> is now available for the Interior Department to use when mailing players about unclaimed wild builds.
+
+<span id="staff"></span>
+= Staff =
+
+* ChestShops, properly sell items in pairs properly
+* Music Bots have been re-enabled across the DemocracyCraft platform.
+* Role Syncs
+** Epidemiologist &amp; Event Designer - now support role syncing to discord and forums.
+* Being kick while painting (ArtMap Plugin) has been toggled!
+* Crates Updated to provide specific chances within the store!
+* Automated messages in chat have been sorted to no longer blend with the government automated messages.
+** In-Game Reminder messages are '''''ALL''''' staggered and will occur less frequently. Targeted to reduce spam in chat.
+* Vehicle Trucnks have been temprarily disabled within MTVehicles until moved to the new new plugin.
+** If you require something out of your truck such as a hug for Tech please open a #Support ticket and a staff memeber can assist further.
+* DemocracryCrafts ‘News’ discord bot renamed to ‘Utilities’
+** Specifically as the bot is used for various things throughout the platform.
+
+<span id="summary"></span>
+= Summary =
+
+It sure was a busy week! Thank you to Tech as well as the other system administrators for working through and pushing out various patches as well as features! We look forward to see what next week has installed for us!
+
+<span id="welcome-1"></span>
+= Welcome =
+
+Welcome back and welcome in to this weeks release of the rolling Changelog. We are a week behind in getting this posted but are excited to getting it published for you all to view!
+
+<span id="features-1"></span>
+= Features =
+
+* Bedrock users are now able to create chestshops!
+* Elixir Side Effects
+** When logging out after excessively consuming Elixirs the user may experience slow or grogginess upon logging back into the server. This is a side effect of the Elixir consumption.
+** The side effect has been lowered from a '''7''' day duration to a '''2''' day duration.
+* Application Sync to forums and discord! The creation of #applications channel within each department discord now allows departments to see applications without having to go on the forums everyday!
+
+<div class="note">
+
+We have been working on this feature for '''6''' months. It started out as an idea, utilizing Google forms and then transitioning to webhooks. These ideas are what keep DemocracyCraft current and up to date!
+
+
+</div>
+* Modern BBCode Messages
+** <code>[accepted]&lt;message&gt;[/accepted]</code> - Government Department
+** <code>[denied]&lt;message&gt;[/denied]</code> - Government Department
+** <code>[sign]&lt;message&gt;[/sign]</code> - Executive Office
+** <code>[ownerveto]&lt;message&gt;[/ownerveto]</code> - Staff Team
+** <code>[veto]&lt;message&gt;[/veto]</code> - Executive Office
+** <code>[verdict]&lt;message&gt;[/verdict]</code> - Judiciary
+* Respawn anchors can no longer be lit/engaged in Reveille.
+* This was actioned to prevent grief.
+* Taxes on bounties have been removed. Happy Hunting!
+* ChestShops now support long business names!
+** Notice your old shop does not work? Open a ticket in-game and a staff member can assist.
+
+<span id="government-1"></span>
+= Government =
+
+* Public Affairs Department
+** Added the role ‘Event Designer’ - focuses on building the event locations!
+* Construction &amp; Trnasportation Department
+** Building Inspectors can now utilize <code>/dct-eviction-notice &lt;username&gt; &lt;region&gt; &lt;link&gt;</code> to notify users of pending evictions.
+* Members of the public can now speak within #bills (Within the DC Discord)
+* Interior Department
+** Rangers/Seinor Rangers can now utilize <code>/doi-unclaimed &lt;player&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;month&gt; &lt;day&gt; &lt;year&gt;</code> is now available for the Interior Department to use when mailing players about unclaimed wild builds.
+
+<span id="staff-1"></span>
+= Staff =
+
+* ChestShops, properly sell items in pairs properly
+* Music Bots have been re-enabled across the DemocracyCraft platform.
+* Role Syncs
+** Epidemiologist &amp; Event Designer - now support role syncing to discord and forums.
+* Being kick while painting (ArtMap Plugin) has been toggled!
+* Crates Updated to provide specific chances within the store!
+* Automated messages in chat have been sorted to no longer blend with the government automated messages.
+** In-Game Reminder messages are '''''ALL''''' staggered and will occur less frequently. Targeted to reduce spam in chat.
+* Vehicle Trucnks have been temprarily disabled within MTVehicles until moved to the new new plugin.
+** If you require something out of your truck such as a hug for Tech please open a #Support ticket and a staff memeber can assist further.
+* DemocracryCrafts ‘News’ discord bot renamed to ‘Utilities’
+** Specifically as the bot is used for various things throughout the platform.
+
+<span id="summary-1"></span>
+= Summary =
+
+It sure was a busy week! Thank you to Tech as well as the other system administrators for working through and pushing out various patches as well as features! We look forward to see what next week has installed for us!

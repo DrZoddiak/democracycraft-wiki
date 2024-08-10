@@ -1,0 +1,285 @@
+<span id="networks"></span>
+= Networks =
+
+DemocracyCraft has one of the most expansive in-game player-to-player economies on Minecraft, this naturally means a lot of shops to buy from and sell to.
+
+However, with several thousand entities in-game, this becomes laggy for the players more than it does for the server. For that reason, we’ve implemented a networking system to sort and filter your chests '''without''' the use of hoppers!
+
+<span id="create-your-components"></span>
+== Create your components ==
+
+In any network, you will need '''input, sorting and miscellaneous''' containers, and a '''network wand''' to configure them.
+
+<span id="network-wand"></span>
+=== Network Wand ===
+
+This wand will be used to configure the filters for your sorting containers, and view more information about your network components. - '''Right Click''' on any network container with the wand in your main hand to view details. - '''Sneak + Left Click''' on any sorting container to add a filter. - You must have the item you are filtering in your off-hand, and the wand in your main hand. - The sorting container will “filter” the item you specified in your off-hand, by grabbing them from input containers that are part of the same network. - '''Left Click''' to toggle the wand to Priority mode, or back to Filter mode. - If you are in Priority mode, you can choose which sorting containers are to be filled the quickest. - '''Shift + Right Click''' with the wand to increase the priority of a container. - '''Shift + Left Click''' with the wand to decrease the priority of a container.
+
+<span id="recipe"></span>
+==== Recipe ====
+
+<div class="figure">
+
+[[File:../../static/img/features/networks/network_wand.png|Network Wand Recipe]]
+
+</div>
+<span id="containers"></span>
+=== Containers ===
+
+See below for a description per container type.
+
+:::tip Containers are not just barrels You can ''also'' use Hoppers, Dispensers, and Droppers, just swap out the '''Barrel''' in the recipes below. :::
+
+<span id="input-containers"></span>
+==== Input Containers ====
+
+These containers are the start of your network, and require the least configuration. You put any items in here for them to be sorted into your sorting containers.
+
+<span id="recipe-1"></span>
+===== Recipe =====
+
+<div class="figure">
+
+[[File:../../static/img/features/networks/input_container.png|Input Containers Recipe]]
+
+</div>
+<span id="sorting-containers"></span>
+==== Sorting Containers ====
+
+These containers look at your input containers and take items from them according to their set filters. You can use the '''Network Wand''' to set these filters.
+
+On their own, '''without filters''', sorting container will remain empty. You need to specify your filters!
+
+<span id="recipe-2"></span>
+===== Recipe =====
+
+<div class="figure">
+
+[[File:../../static/img/features/networks/sorting_container.png|Sorting Containers Recipe]]
+
+</div>
+<span id="miscellaneous-containers"></span>
+==== Miscellaneous Containers ====
+
+These containers look for items that haven’t been assigned to sorting chests, and takes them. This is useful for when you want to put a bunch of random items in your input containers and filter out rubbish.
+
+<span id="recipe-3"></span>
+===== Recipe =====
+
+<div class="figure">
+
+[[File:../../static/img/features/networks/miscellaneous_container.png|Miscellaneous Containers Recipe]]
+
+</div>
+<span id="upgrades"></span>
+=== Upgrades ===
+
+You are able to upgrade the range of your containers using <code>Upgrade Antennas</code>! Craft them using the below recipes, then '''right click with then in your hand''' to the container you want upgraded, to extend their range.
+
+<div class="tip">
+
+You cannot apply the same Tier upgrade more than once. This is a good way to check what Tier a current container is on (until we make an easier method).
+
+
+</div>
+<span id="tier-1-50-blocks"></span>
+==== Tier 1 (50 blocks) ====
+
+Requires no prior tiers.
+
+<div class="figure">
+
+[[File:../../static/img/features/networks/tier_1_antenna.png|Tier 1 Antenna]]
+
+</div>
+<span id="tier-2-100-blocks"></span>
+==== Tier 2 (100 blocks) ====
+
+Requires Tier 1.
+
+<div class="figure">
+
+[[File:../../static/img/features/networks/tier_2_antenna.png|Tier 2 Antenna]]
+
+</div>
+<span id="tier-3-500-blocks"></span>
+==== Tier 3 (500 blocks) ====
+
+Requires Tier 2.
+
+<div class="figure">
+
+[[File:../../static/img/features/networks/tier_3_antenna.png|Tier 3 Antenna]]
+
+</div>
+<span id="tier-4-multi-dimensional"></span>
+==== Tier 4 (Multi-dimensional) ====
+
+Requires Tier 2.
+
+<div class="figure">
+
+[[File:../../static/img/features/networks/tier_4_antenna.png|Tier 4 Antenna]]
+
+</div>
+<span id="how-do-i-create-my-first-network"></span>
+== How do I create my first network? ==
+
+Run the command <code>/net create &lt;network_name&gt;</code>, please use a descriptive name for your reference! You can then place down the containers you crafted, and use your Network Wand on them.
+
+:::tip Need to edit a network? Do <code>/net select &lt;network_name&gt;</code>, then place your containers and use your Network Wand to your heart’s desire! :::
+
+<span id="all-available-commands"></span>
+== All Available Commands ==
+
+* <code>/net create &lt;name&gt;</code> - Create a storage network.
+* <code>/net delete &lt;name&gt;</code> - Delete a storage network.
+* <code>/net rename &lt;name&gt; &lt;newName&gt;</code> - Rename a network.
+* <code>/net select &lt;name&gt;</code> - Select a storage network.
+* <code>/net list</code> - List all networks you have permissions for.
+* <code>/net info</code> - Show information about the selected network.
+* <code>/net items</code> - List all your network’s items.
+* <code>/net user add &lt;player&gt;</code> - Give or revoke a player access to your network.
+
+<span id="networks-1"></span>
+= Networks =
+
+DemocracyCraft has one of the most expansive in-game player-to-player economies on Minecraft, this naturally means a lot of shops to buy from and sell to.
+
+However, with several thousand entities in-game, this becomes laggy for the players more than it does for the server. For that reason, we’ve implemented a networking system to sort and filter your chests '''without''' the use of hoppers!
+
+<span id="create-your-components-1"></span>
+== Create your components ==
+
+In any network, you will need '''input, sorting and miscellaneous''' containers, and a '''network wand''' to configure them.
+
+<span id="network-wand-1"></span>
+=== Network Wand ===
+
+This wand will be used to configure the filters for your sorting containers, and view more information about your network components. - '''Right Click''' on any network container with the wand in your main hand to view details. - '''Sneak + Left Click''' on any sorting container to add a filter. - You must have the item you are filtering in your off-hand, and the wand in your main hand. - The sorting container will “filter” the item you specified in your off-hand, by grabbing them from input containers that are part of the same network. - '''Left Click''' to toggle the wand to Priority mode, or back to Filter mode. - If you are in Priority mode, you can choose which sorting containers are to be filled the quickest. - '''Shift + Right Click''' with the wand to increase the priority of a container. - '''Shift + Left Click''' with the wand to decrease the priority of a container.
+
+<span id="recipe-4"></span>
+==== Recipe ====
+
+<div class="figure">
+
+[[File:../../static/img/features/networks/network_wand.png|Network Wand Recipe]]
+
+</div>
+<span id="containers-1"></span>
+=== Containers ===
+
+See below for a description per container type.
+
+:::tip Containers are not just barrels You can ''also'' use Hoppers, Dispensers, and Droppers, just swap out the '''Barrel''' in the recipes below. :::
+
+<span id="input-containers-1"></span>
+==== Input Containers ====
+
+These containers are the start of your network, and require the least configuration. You put any items in here for them to be sorted into your sorting containers.
+
+<span id="recipe-5"></span>
+===== Recipe =====
+
+<div class="figure">
+
+[[File:../../static/img/features/networks/input_container.png|Input Containers Recipe]]
+
+</div>
+<span id="sorting-containers-1"></span>
+==== Sorting Containers ====
+
+These containers look at your input containers and take items from them according to their set filters. You can use the '''Network Wand''' to set these filters.
+
+On their own, '''without filters''', sorting container will remain empty. You need to specify your filters!
+
+<span id="recipe-6"></span>
+===== Recipe =====
+
+<div class="figure">
+
+[[File:../../static/img/features/networks/sorting_container.png|Sorting Containers Recipe]]
+
+</div>
+<span id="miscellaneous-containers-1"></span>
+==== Miscellaneous Containers ====
+
+These containers look for items that haven’t been assigned to sorting chests, and takes them. This is useful for when you want to put a bunch of random items in your input containers and filter out rubbish.
+
+<span id="recipe-7"></span>
+===== Recipe =====
+
+<div class="figure">
+
+[[File:../../static/img/features/networks/miscellaneous_container.png|Miscellaneous Containers Recipe]]
+
+</div>
+<span id="upgrades-1"></span>
+=== Upgrades ===
+
+You are able to upgrade the range of your containers using <code>Upgrade Antennas</code>! Craft them using the below recipes, then '''right click with then in your hand''' to the container you want upgraded, to extend their range.
+
+<div class="tip">
+
+You cannot apply the same Tier upgrade more than once. This is a good way to check what Tier a current container is on (until we make an easier method).
+
+
+</div>
+<span id="tier-1-50-blocks-1"></span>
+==== Tier 1 (50 blocks) ====
+
+Requires no prior tiers.
+
+<div class="figure">
+
+[[File:../../static/img/features/networks/tier_1_antenna.png|Tier 1 Antenna]]
+
+</div>
+<span id="tier-2-100-blocks-1"></span>
+==== Tier 2 (100 blocks) ====
+
+Requires Tier 1.
+
+<div class="figure">
+
+[[File:../../static/img/features/networks/tier_2_antenna.png|Tier 2 Antenna]]
+
+</div>
+<span id="tier-3-500-blocks-1"></span>
+==== Tier 3 (500 blocks) ====
+
+Requires Tier 2.
+
+<div class="figure">
+
+[[File:../../static/img/features/networks/tier_3_antenna.png|Tier 3 Antenna]]
+
+</div>
+<span id="tier-4-multi-dimensional-1"></span>
+==== Tier 4 (Multi-dimensional) ====
+
+Requires Tier 2.
+
+<div class="figure">
+
+[[File:../../static/img/features/networks/tier_4_antenna.png|Tier 4 Antenna]]
+
+</div>
+<span id="how-do-i-create-my-first-network-1"></span>
+== How do I create my first network? ==
+
+Run the command <code>/net create &lt;network_name&gt;</code>, please use a descriptive name for your reference! You can then place down the containers you crafted, and use your Network Wand on them.
+
+:::tip Need to edit a network? Do <code>/net select &lt;network_name&gt;</code>, then place your containers and use your Network Wand to your heart’s desire! :::
+
+<span id="all-available-commands-1"></span>
+== All Available Commands ==
+
+* <code>/net create &lt;name&gt;</code> - Create a storage network.
+* <code>/net delete &lt;name&gt;</code> - Delete a storage network.
+* <code>/net rename &lt;name&gt; &lt;newName&gt;</code> - Rename a network.
+* <code>/net select &lt;name&gt;</code> - Select a storage network.
+* <code>/net list</code> - List all networks you have permissions for.
+* <code>/net info</code> - Show information about the selected network.
+* <code>/net items</code> - List all your network’s items.
+* <code>/net user add &lt;player&gt;</code> - Give or revoke a player access to your network.

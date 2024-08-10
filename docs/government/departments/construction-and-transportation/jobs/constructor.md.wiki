@@ -1,0 +1,129 @@
+<span id="constructor"></span>
+= Constructor =
+
+Constructors are experts on building and play a key role in the infrastructural development of the city. They are allowed access to the DCT world, which enables them to build these projects in creative.
+
+Constructors are commission based. The pay for Constructors will vary depending on the building project.
+
+<div class="figure">
+
+[[File:https://media.discordapp.net/attachments/838356841217916989/1165658732093522091/2022-09-17_19.13.23.png?ex=6547a74a&is=6535324a&hm=5d33772337e2ab8e766c7d90732de37eb5572195f11b38e386e1be4fffe51797&=&width=1266&height=671|Image]]
+
+</div>
+<span id="duties"></span>
+== Duties ==
+
+As a Constructor, your main duty is construction. Your responsibilities include: - Constructing buildings for the government. - Receiving assigned projects suitable for your skills. - Access to Worldedit in the construction world. - Collaborating with other Constructors on projects. - Participating in training when needed/requested. - Exploring various architectural styles.
+
+<span id="structure"></span>
+== Structure ==
+
+The Department of Construction and Transport (DCT) has a structured hierarchy. It includes the following roles:
+
+<div class="figure">
+
+[[File:https://media.discordapp.net/attachments/838356841217916989/1165660537615564840/2023-03-12_18.16.14.png?ex=6547a8f9&is=653533f9&hm=477610f9e2470b0d884fe8e6f3dc27cc1ea2aa6ef2a4c9f46753e859a9bc25b8&=&width=1266&height=671|Image]]
+
+</div>
+<span id="protocols"></span>
+== Protocols ==
+
+<span id="expectations"></span>
+=== Expectations ===
+
+The expectation for this department is to ensure everyone is contributing to either constructing new buildings for the government by taking on DCT construction projects or reporting player plots to keep the city active and lively.
+
+<span id="activity"></span>
+=== Activity ===
+
+Constructors and Building Inspectors must meet basic standards of in-game activity and job commitment. The full protocols and policies of the DCT are linked [https://www.democracycraft.net/forums/information-policy.43/ here].
+
+<span id="application-process"></span>
+== Application Process ==
+
+In order to apply for Constructor, you will have to fill out an application and meet the appropriate requirements outlined [https://www.democracycraft.net/threads/application-information.8/ here].
+
+<span id="application-steps"></span>
+=== Application Steps ===
+
+<ol style="list-style-type: decimal;">
+<li><p>Go to the Forums -&gt; Department of Construction and Transport -&gt; Applications.</p>
+<div class="figure">
+
+[[File:https://i.imgur.com/5FIdjZk.png|Forum Application]]
+
+</div></li>
+<li><p>Click on ‘Applications’ &amp; ‘Apply’.</p>
+<div class="figure">
+
+[[File:https://i.imgur.com/CDWowgw.png|Click Apply]]
+
+</div></li>
+<li><p>Fill in your details and submit the application.</p></li></ol>
+
+Should you have any questions about the application, be sure to go to #government-support on the main Discord and open a ticket in relation to the department you are applying under.
+
+<span id="constructor-1"></span>
+= Constructor =
+
+Constructors are experts on building and play a key role in the infrastructural development of the city. They are allowed access to the DCT world, which enables them to build these projects in creative.
+
+Constructors are commission based. The pay for Constructors will vary depending on the building project.
+
+<div class="figure">
+
+[[File:https://media.discordapp.net/attachments/838356841217916989/1165658732093522091/2022-09-17_19.13.23.png?ex=6547a74a&is=6535324a&hm=5d33772337e2ab8e766c7d90732de37eb5572195f11b38e386e1be4fffe51797&=&width=1266&height=671|Image]]
+
+</div>
+<span id="duties-1"></span>
+== Duties ==
+
+As a Constructor, your main duty is construction. Your responsibilities include: - Constructing buildings for the government. - Receiving assigned projects suitable for your skills. - Access to Worldedit in the construction world. - Collaborating with other Constructors on projects. - Participating in training when needed/requested. - Exploring various architectural styles.
+
+<span id="structure-1"></span>
+== Structure ==
+
+The Department of Construction and Transport (DCT) has a structured hierarchy. It includes the following roles:
+
+<div class="figure">
+
+[[File:https://media.discordapp.net/attachments/838356841217916989/1165660537615564840/2023-03-12_18.16.14.png?ex=6547a8f9&is=653533f9&hm=477610f9e2470b0d884fe8e6f3dc27cc1ea2aa6ef2a4c9f46753e859a9bc25b8&=&width=1266&height=671|Image]]
+
+</div>
+<span id="protocols-1"></span>
+== Protocols ==
+
+<span id="expectations-1"></span>
+=== Expectations ===
+
+The expectation for this department is to ensure everyone is contributing to either constructing new buildings for the government by taking on DCT construction projects or reporting player plots to keep the city active and lively.
+
+<span id="activity-1"></span>
+=== Activity ===
+
+Constructors and Building Inspectors must meet basic standards of in-game activity and job commitment. The full protocols and policies of the DCT are linked [https://www.democracycraft.net/forums/information-policy.43/ here].
+
+<span id="application-process-1"></span>
+== Application Process ==
+
+In order to apply for Constructor, you will have to fill out an application and meet the appropriate requirements outlined [https://www.democracycraft.net/threads/application-information.8/ here].
+
+<span id="application-steps-1"></span>
+=== Application Steps ===
+
+<ol style="list-style-type: decimal;">
+<li><p>Go to the Forums -&gt; Department of Construction and Transport -&gt; Applications.</p>
+<div class="figure">
+
+[[File:https://i.imgur.com/5FIdjZk.png|Forum Application]]
+
+</div></li>
+<li><p>Click on ‘Applications’ &amp; ‘Apply’.</p>
+<div class="figure">
+
+[[File:https://i.imgur.com/CDWowgw.png|Click Apply]]
+
+</div></li>
+<li><p>Fill in your details and submit the application.</p></li></ol>
+
+Should you have any questions about the application, be sure to go to #government-support on the main Discord and open a ticket in relation to the department you are applying under.

@@ -1,0 +1,189 @@
+<span id="block-protection"></span>
+= Block Protection =
+
+DemocracyCraft features a simple block protection plugin to protect all your valuable goods. Take a few minutes to read this guide so you know how to best protect your loot!
+
+<div class="figure">
+
+[[File:https://i.imgur.com/9nLNWUB.png|Image]]
+
+</div>
+<span id="commands"></span>
+== Commands ==
+
+<span id="lock"></span>
+=== Lock ===
+
+Usage: <code>/bolt lock [type] (alias: /lock [type])</code> Description: Lock something. Optionally provide a protection type to lock with (defaults to private).
+
+<span id="unlock"></span>
+=== Unlock ===
+
+Usage: <code>/bolt unlock (alias: /unlock)</code> Description: Unlock something.
+
+<span id="edit"></span>
+=== Edit ===
+
+Usage: <code>/bolt edit (add|remove) &lt;player&gt;</code> Description: Edit a protection to add or remove a player’s access.
+
+<span id="modify"></span>
+=== Modify ===
+
+Usage: <code>/bolt modify (add|remove) &lt;access&gt; &lt;source-type&gt; &lt;sources...&gt;</code> Description: Add or remove sources with given access to a protection’s access list (ACL).
+
+<span id="group"></span>
+=== Group ===
+
+Usage: <code>/bolt group (create|delete|add|remove|list) &lt;group&gt; [players...]</code> Description: Manage custom player groups, which can be used in access lists (ACLs).
+
+<span id="trust"></span>
+=== Trust ===
+
+Usage: <code>/bolt trust [list|confirm|add|remove] [player]</code> Description: Prompt, list, or confirm changes to your trust access list.
+
+<span id="transfer"></span>
+=== Transfer ===
+
+Usage: <code>/bolt transfer &lt;player&gt;</code> Description: Transfer a protection that you own to another player.
+
+<span id="password"></span>
+=== Password ===
+
+Usage: <code>/bolt password &lt;password&gt;</code> Description: Enter a password for a protection that has a password source added.
+
+<span id="mode"></span>
+=== Mode ===
+
+Usage: <code>/bolt mode &lt;mode&gt;</code> Description: Toggle a player mode. For example: persist, no lock, no spam.
+
+:::info Example <code>/bolt persist</code> - Toggles persistent mode which let you perform your last action (command) on all blocks you left click without needing to re-type the command. Run this command again to toggle this mode off. <code>/bolt nolock</code> - Toggles nolock mode which lets you place down all blocks without any of them locking by default. Run this command again to toggle this mode off. <code>/bolt nospam</code> - Toggles nospam mode which reduces messages that you see in game, such as when you interact with a protection it will no longer say who it is protected by in chat (including your own protections). Run this command again to toggle this mode off. :::
+
+<span id="help"></span>
+=== Help ===
+
+Usage: <code>/bolt help [command]</code> Description: Displays help.
+
+<span id="info"></span>
+=== Info ===
+
+Usage: <code>/bolt info</code> Description: Display protection information.
+
+<span id="what-can-i-protect"></span>
+== What Can I Protect? ==
+
+You can protect the following:
+
+* Chests
+* Barrels
+* Furnaces
+* Lecterns
+* Buttons
+* Levers
+* Hoppers
+* ChestShop
+* Doors
+
+<span id="container-guarentee"></span>
+== Container Guarentee ==
+
+Any container that is stolen from in a regioned area (i.e. Wild or Urban) is covered by this staff guarantee. Staff will recover the items and investigate those who stole from the container. The container does not have to be locked, however, we strongly recommend you lock your containers to prevent this from occurring. If your chest is siphoned with a hopper or stolen from by someone with permissions to the chest, it will also be investigated and covered by the guarantee.
+
+<span id="conclusion"></span>
+== Conclusion ==
+
+Hopefully this guide has helped you navigate the fun world of block protection! If you have any questions, join our Discord Server, we’ll be more than happy to help you there!
+
+<span id="block-protection-1"></span>
+= Block Protection =
+
+DemocracyCraft features a simple block protection plugin to protect all your valuable goods. Take a few minutes to read this guide so you know how to best protect your loot!
+
+<div class="figure">
+
+[[File:https://i.imgur.com/9nLNWUB.png|Image]]
+
+</div>
+<span id="commands-1"></span>
+== Commands ==
+
+<span id="lock-1"></span>
+=== Lock ===
+
+Usage: <code>/bolt lock [type] (alias: /lock [type])</code> Description: Lock something. Optionally provide a protection type to lock with (defaults to private).
+
+<span id="unlock-1"></span>
+=== Unlock ===
+
+Usage: <code>/bolt unlock (alias: /unlock)</code> Description: Unlock something.
+
+<span id="edit-1"></span>
+=== Edit ===
+
+Usage: <code>/bolt edit (add|remove) &lt;player&gt;</code> Description: Edit a protection to add or remove a player’s access.
+
+<span id="modify-1"></span>
+=== Modify ===
+
+Usage: <code>/bolt modify (add|remove) &lt;access&gt; &lt;source-type&gt; &lt;sources...&gt;</code> Description: Add or remove sources with given access to a protection’s access list (ACL).
+
+<span id="group-1"></span>
+=== Group ===
+
+Usage: <code>/bolt group (create|delete|add|remove|list) &lt;group&gt; [players...]</code> Description: Manage custom player groups, which can be used in access lists (ACLs).
+
+<span id="trust-1"></span>
+=== Trust ===
+
+Usage: <code>/bolt trust [list|confirm|add|remove] [player]</code> Description: Prompt, list, or confirm changes to your trust access list.
+
+<span id="transfer-1"></span>
+=== Transfer ===
+
+Usage: <code>/bolt transfer &lt;player&gt;</code> Description: Transfer a protection that you own to another player.
+
+<span id="password-1"></span>
+=== Password ===
+
+Usage: <code>/bolt password &lt;password&gt;</code> Description: Enter a password for a protection that has a password source added.
+
+<span id="mode-1"></span>
+=== Mode ===
+
+Usage: <code>/bolt mode &lt;mode&gt;</code> Description: Toggle a player mode. For example: persist, no lock, no spam.
+
+:::info Example <code>/bolt persist</code> - Toggles persistent mode which let you perform your last action (command) on all blocks you left click without needing to re-type the command. Run this command again to toggle this mode off. <code>/bolt nolock</code> - Toggles nolock mode which lets you place down all blocks without any of them locking by default. Run this command again to toggle this mode off. <code>/bolt nospam</code> - Toggles nospam mode which reduces messages that you see in game, such as when you interact with a protection it will no longer say who it is protected by in chat (including your own protections). Run this command again to toggle this mode off. :::
+
+<span id="help-1"></span>
+=== Help ===
+
+Usage: <code>/bolt help [command]</code> Description: Displays help.
+
+<span id="info-1"></span>
+=== Info ===
+
+Usage: <code>/bolt info</code> Description: Display protection information.
+
+<span id="what-can-i-protect-1"></span>
+== What Can I Protect? ==
+
+You can protect the following:
+
+* Chests
+* Barrels
+* Furnaces
+* Lecterns
+* Buttons
+* Levers
+* Hoppers
+* ChestShop
+* Doors
+
+<span id="container-guarentee-1"></span>
+== Container Guarentee ==
+
+Any container that is stolen from in a regioned area (i.e. Wild or Urban) is covered by this staff guarantee. Staff will recover the items and investigate those who stole from the container. The container does not have to be locked, however, we strongly recommend you lock your containers to prevent this from occurring. If your chest is siphoned with a hopper or stolen from by someone with permissions to the chest, it will also be investigated and covered by the guarantee.
+
+<span id="conclusion-1"></span>
+== Conclusion ==
+
+Hopefully this guide has helped you navigate the fun world of block protection! If you have any questions, join our Discord Server, we’ll be more than happy to help you there!

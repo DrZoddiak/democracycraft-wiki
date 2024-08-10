@@ -1,0 +1,99 @@
+<span id="businesses"></span>
+= Businesses =
+
+DemocracyBusiness is a trading plugin that enables players to establish their businesses, hire other players, and set wages. Employees can complete jobs for businesses and generate revenue by producing items for chest shops.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/xEMORwN.png|image]]
+
+</div>
+<span id="note"></span>
+== Note ==
+
+This plugin uses the command <code>/democracybusiness</code> officially, but alternatives are available for ease of access. Use whichever you like: - <code>/democracybusiness</code> - <code>/db</code> - <code>/business</code> - <code>/firm</code> - <code>/company</code>
+
+After creating a company, most commands are available via a GUI in <code>/democracybusiness menu &lt;business&gt;</code>.
+
+<span id="starting-a-company"></span>
+== Starting a Company ==
+
+To create a business, players must obtain the Entrepreneur qualification at the university, register their business with the government, and secure approval from the Department of Commerce [https://www.democracycraft.net/business-portal/ here].
+
+* <code>/democracybusiness create &lt;businessname&gt;</code> to create a business.
+* <code>/democracybusiness deposit &lt;businessname&gt; &lt;amount&gt;</code> or <code>/democracybusiness withdraw &lt;businessname&gt; &lt;amount&gt;</code> to manage business funds.
+* <code>/democracybusiness pay &lt;businessname&gt; &lt;user&gt; &lt;amount&gt;</code> to pay employees.
+* <code>/democracybusiness disband &lt;businessname&gt;</code> to disband a business.
+* <code>/democracybusiness list &lt;user&gt;</code>, <code>/democracybusiness info &lt;businessname&gt;</code>, and <code>/democracybusiness list all &lt;page&gt;</code> to view firm details.
+
+<span id="managing-employees"></span>
+== Managing Employees ==
+
+To hire another player for your business: - <code>/democracybusiness offer &lt;business&gt; &lt;user&gt;</code> to offer a job. - <code>/democracybusiness accept &lt;business&gt;</code> or <code>/democracybusiness deny &lt;business&gt;</code> for the other player to accept or deny the offer. - <code>/democracybusiness staff list &lt;business&gt;</code> to view staff and their ranks. - Promote, demote, or fire employees using relevant commands. - <code>/democracybusiness resign &lt;business&gt;</code> to resign as an employee. - <code>/democracybusiness transferproprietorship &lt;business&gt;&lt;user&gt;</code> to transfer proprietorship.
+
+<span id="types-of-employees"></span>
+== Types of Employees ==
+
+Available roles in a business hierarchy: Proprietor - Complete permissions and control Co-Proprietor - Shares unlimited access with proprietor (including management of funds and management of employees) Manager - Able to access all financial information Supervisor - Able to access firm ChestShops Employee - Simply hired with no special permissions
+
+Custom roles can be created and edited with specific permissions. Permissions include Administrator, Financial, ChestShop, and Default.
+
+<span id="balance-tracking"></span>
+== Balance Tracking ==
+
+Track a business’s balance and transactions using <code>/democracybusiness transactions &lt;business&gt; &lt;page&gt;</code>.
+
+<span id="chest-shop-integration"></span>
+== Chest Shop Integration ==
+
+Players can create chest shops under a company’s name. Add <code>b:&lt;businessname&gt;</code> to the first line of the chest shop sign to log sales accordingly. - <code>/csn history b:&lt;business&gt;</code> to view chest shop history. - <code>/business sales &lt;business&gt; &lt;page&gt;</code> to access sales history.
+
+<span id="businesses-1"></span>
+= Businesses =
+
+DemocracyBusiness is a trading plugin that enables players to establish their businesses, hire other players, and set wages. Employees can complete jobs for businesses and generate revenue by producing items for chest shops.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/xEMORwN.png|image]]
+
+</div>
+<span id="note-1"></span>
+== Note ==
+
+This plugin uses the command <code>/democracybusiness</code> officially, but alternatives are available for ease of access. Use whichever you like: - <code>/democracybusiness</code> - <code>/db</code> - <code>/business</code> - <code>/firm</code> - <code>/company</code>
+
+After creating a company, most commands are available via a GUI in <code>/democracybusiness menu &lt;business&gt;</code>.
+
+<span id="starting-a-company-1"></span>
+== Starting a Company ==
+
+To create a business, players must obtain the Entrepreneur qualification at the university, register their business with the government, and secure approval from the Department of Commerce [https://www.democracycraft.net/business-portal/ here].
+
+* <code>/democracybusiness create &lt;businessname&gt;</code> to create a business.
+* <code>/democracybusiness deposit &lt;businessname&gt; &lt;amount&gt;</code> or <code>/democracybusiness withdraw &lt;businessname&gt; &lt;amount&gt;</code> to manage business funds.
+* <code>/democracybusiness pay &lt;businessname&gt; &lt;user&gt; &lt;amount&gt;</code> to pay employees.
+* <code>/democracybusiness disband &lt;businessname&gt;</code> to disband a business.
+* <code>/democracybusiness list &lt;user&gt;</code>, <code>/democracybusiness info &lt;businessname&gt;</code>, and <code>/democracybusiness list all &lt;page&gt;</code> to view firm details.
+
+<span id="managing-employees-1"></span>
+== Managing Employees ==
+
+To hire another player for your business: - <code>/democracybusiness offer &lt;business&gt; &lt;user&gt;</code> to offer a job. - <code>/democracybusiness accept &lt;business&gt;</code> or <code>/democracybusiness deny &lt;business&gt;</code> for the other player to accept or deny the offer. - <code>/democracybusiness staff list &lt;business&gt;</code> to view staff and their ranks. - Promote, demote, or fire employees using relevant commands. - <code>/democracybusiness resign &lt;business&gt;</code> to resign as an employee. - <code>/democracybusiness transferproprietorship &lt;business&gt;&lt;user&gt;</code> to transfer proprietorship.
+
+<span id="types-of-employees-1"></span>
+== Types of Employees ==
+
+Available roles in a business hierarchy: Proprietor - Complete permissions and control Co-Proprietor - Shares unlimited access with proprietor (including management of funds and management of employees) Manager - Able to access all financial information Supervisor - Able to access firm ChestShops Employee - Simply hired with no special permissions
+
+Custom roles can be created and edited with specific permissions. Permissions include Administrator, Financial, ChestShop, and Default.
+
+<span id="balance-tracking-1"></span>
+== Balance Tracking ==
+
+Track a business’s balance and transactions using <code>/democracybusiness transactions &lt;business&gt; &lt;page&gt;</code>.
+
+<span id="chest-shop-integration-1"></span>
+== Chest Shop Integration ==
+
+Players can create chest shops under a company’s name. Add <code>b:&lt;businessname&gt;</code> to the first line of the chest shop sign to log sales accordingly. - <code>/csn history b:&lt;business&gt;</code> to view chest shop history. - <code>/business sales &lt;business&gt; &lt;page&gt;</code> to access sales history.

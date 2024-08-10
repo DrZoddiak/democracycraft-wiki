@@ -1,0 +1,48 @@
+<span id="pilots-license"></span>
+= Pilot’s License =
+
+The Pilot job allows you to fly helicopters and planes!
+
+Once you pass the exam, its your qualification to keep!
+
+<div class="figure">
+
+[[File:https://i.imgur.com/oXNc9O7.png|Image]]
+
+</div>
+<span id="information"></span>
+== Information ==
+
+You need to have this qualification in order to fly an aircraft; flying without one is illegal.
+
+Vehicles such as the Helicopter can be obtained in mystery boxes.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/ozdUvdP.png|Image]]
+
+</div>
+<span id="pilots-license-1"></span>
+= Pilot’s License =
+
+The Pilot job allows you to fly helicopters and planes!
+
+Once you pass the exam, its your qualification to keep!
+
+<div class="figure">
+
+[[File:https://i.imgur.com/oXNc9O7.png|Image]]
+
+</div>
+<span id="information-1"></span>
+== Information ==
+
+You need to have this qualification in order to fly an aircraft; flying without one is illegal.
+
+Vehicles such as the Helicopter can be obtained in mystery boxes.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/ozdUvdP.png|Image]]
+
+</div>

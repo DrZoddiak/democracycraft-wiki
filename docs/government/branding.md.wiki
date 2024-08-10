@@ -1,0 +1,392 @@
+<span id="government-branding"></span>
+= Government Branding =
+
+<span id="judiciary"></span>
+== Judiciary ==
+
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Judiciary.png|COURTS]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Chief_Justice.png|CJ]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_SC.png|SC]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_FC.png|FC]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_DC.png|DC]]
+
+</div>
+<span id="public-defender-program"></span>
+=== Public Defender Program ===
+
+[[File:https://i.imgur.com/0zdanxM.png|PD]] <!---
+Well not technically a seprate part of the judiciary, it just seems like something that should be seprate, feel free to remove
+-->
+
+<span id="legislative"></span>
+== Legislative ==
+
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Congress.png|CON]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_OCA.png|OCA]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Senate.png|SEN]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_HOR.png|HOR]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Senate_President.png|POS]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Speaker.png|SOH]]
+
+</div>
+<span id="executive"></span>
+== Executive ==
+
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_President_Small.png|PR]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Vice_President_Small.png|VP]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Cabinet_Small.png|CAB]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_DCT.png|DCT]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_DLA.png|DLA]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_DOC.png|DOC]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_DOE.png|DOE]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_DOH.png|DOH]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_DOI.png|DOI]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_DOJ.png|DOJ]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_DPA.png|DPA]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_DOS.png|DOS]]
+
+</div>
+<span id="flag"></span>
+== Flag ==
+
+<div class="figure">
+
+[[File:https://i.imgur.com/AXxMDcS.png|Flag]]
+
+</div>
+<span id="coat-of-arms"></span>
+== Coat of Arms ==
+
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/CoatofArms.png|Coat of Arms]]
+
+</div>
+<span id="extra-governmental"></span>
+== Extra-Governmental ==
+
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_RBA.png|RBA]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_UN.png|UN]]
+
+</div>
+<span id="towns"></span>
+== Towns ==
+
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Oakridge.png|OR]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Aventura.png|AV]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Willow.png|WL]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Klondike.png|KL]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Reveille.png|RV]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Hamilton.png|HM]]
+
+</div>
+<span id="government-branding-1"></span>
+= Government Branding =
+
+<span id="judiciary-1"></span>
+== Judiciary ==
+
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Judiciary.png|COURTS]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Chief_Justice.png|CJ]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_SC.png|SC]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_FC.png|FC]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_DC.png|DC]]
+
+</div>
+<span id="public-defender-program-1"></span>
+=== Public Defender Program ===
+
+[[File:https://i.imgur.com/0zdanxM.png|PD]] <!---
+Well not technically a seprate part of the judiciary, it just seems like something that should be seprate, feel free to remove
+-->
+
+<span id="legislative-1"></span>
+== Legislative ==
+
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Congress.png|CON]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_OCA.png|OCA]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Senate.png|SEN]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_HOR.png|HOR]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Senate_President.png|POS]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Speaker.png|SOH]]
+
+</div>
+<span id="executive-1"></span>
+== Executive ==
+
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_President_Small.png|PR]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Vice_President_Small.png|VP]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Cabinet_Small.png|CAB]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_DCT.png|DCT]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_DLA.png|DLA]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_DOC.png|DOC]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_DOE.png|DOE]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_DOH.png|DOH]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_DOI.png|DOI]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_DOJ.png|DOJ]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_DPA.png|DPA]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_DOS.png|DOS]]
+
+</div>
+<span id="flag-1"></span>
+== Flag ==
+
+<div class="figure">
+
+[[File:https://i.imgur.com/AXxMDcS.png|Flag]]
+
+</div>
+<span id="coat-of-arms-1"></span>
+== Coat of Arms ==
+
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/CoatofArms.png|Coat of Arms]]
+
+</div>
+<span id="extra-governmental-1"></span>
+== Extra-Governmental ==
+
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_RBA.png|RBA]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_UN.png|UN]]
+
+</div>
+<span id="towns-1"></span>
+== Towns ==
+
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Oakridge.png|OR]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Aventura.png|AV]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Willow.png|WL]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Klondike.png|KL]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Reveille.png|RV]]
+
+</div>
+<div class="figure">
+
+[[File:https://www.democracycraft.net/images/Seal_Hamilton.png|HM]]
+
+</div>

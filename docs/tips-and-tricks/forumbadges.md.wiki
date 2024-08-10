@@ -1,0 +1,129 @@
+<span id="forum-badges"></span>
+= Forum Badges =
+
+Badges are a way to track your career on the server and forums. They are awarded to recognize players’ commitment to the community.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/8UMr1kF.png|image]]
+
+</div>
+<span id="presidential-commendation"></span>
+== Presidential Commendation ==
+
+Receiving one of three presidential commendations per Presidential Administration; for exceptional achievement and/or outstanding service to the community.
+
+<span id="president"></span>
+== President ==
+
+For serving as President of Redmont.
+
+<span id="powerbroker"></span>
+== Powerbroker ==
+
+For serving as both Speaker of the House of Representatives and the President of the Senate.
+
+<span id="impeached"></span>
+== Impeached ==
+
+For having been impeached by the House of Representatives.
+
+<span id="statesman"></span>
+== Statesman ==
+
+For serving in the Legislative branch; as Vice President; or as President of Democracycraft.
+
+<span id="change-maker"></span>
+== Change Maker ==
+
+100 posts on the forums!
+
+<span id="legal-eagle"></span>
+== Legal Eagle ==
+
+Serve as an Attorney General, Magistrate, Judge, and/or Justice.
+
+<span id="popular-in-the-polls"></span>
+== Popular in the Polls ==
+
+Receive a reaction score of at least 20 on one of your posts!
+
+<span id="staff"></span>
+== Staff ==
+
+For serving as a staff member.
+
+<span id="trifecta"></span>
+== Trifecta ==
+
+Achieved upon serving as the most senior leader across all branches of Government. (Chief Justice, Speaker OR President of the Senate, President)
+
+<span id="other-badges"></span>
+== Other Badges ==
+
+Other badges can be seen in the Honours and Awards Act.
+
+<span id="forum-badges-1"></span>
+= Forum Badges =
+
+Badges are a way to track your career on the server and forums. They are awarded to recognize players’ commitment to the community.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/8UMr1kF.png|image]]
+
+</div>
+<span id="presidential-commendation-1"></span>
+== Presidential Commendation ==
+
+Receiving one of three presidential commendations per Presidential Administration; for exceptional achievement and/or outstanding service to the community.
+
+<span id="president-1"></span>
+== President ==
+
+For serving as President of Redmont.
+
+<span id="powerbroker-1"></span>
+== Powerbroker ==
+
+For serving as both Speaker of the House of Representatives and the President of the Senate.
+
+<span id="impeached-1"></span>
+== Impeached ==
+
+For having been impeached by the House of Representatives.
+
+<span id="statesman-1"></span>
+== Statesman ==
+
+For serving in the Legislative branch; as Vice President; or as President of Democracycraft.
+
+<span id="change-maker-1"></span>
+== Change Maker ==
+
+100 posts on the forums!
+
+<span id="legal-eagle-1"></span>
+== Legal Eagle ==
+
+Serve as an Attorney General, Magistrate, Judge, and/or Justice.
+
+<span id="popular-in-the-polls-1"></span>
+== Popular in the Polls ==
+
+Receive a reaction score of at least 20 on one of your posts!
+
+<span id="staff-1"></span>
+== Staff ==
+
+For serving as a staff member.
+
+<span id="trifecta-1"></span>
+== Trifecta ==
+
+Achieved upon serving as the most senior leader across all branches of Government. (Chief Justice, Speaker OR President of the Senate, President)
+
+<span id="other-badges-1"></span>
+== Other Badges ==
+
+Other badges can be seen in the Honours and Awards Act.

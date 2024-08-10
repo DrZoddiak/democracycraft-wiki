@@ -1,0 +1,3159 @@
+<span id="law-review"></span>
+= 2023 Law Review =
+
+Correct as at 24 Feb 24
+
+Authored by: kaidecro
+
+'''Total Bills Introduced:''' 180<br />
+'''Passed:''' 0<br />
+'''Rejected:''' 136<br />
+'''Vetoed:''' 16<br />
+'''Rescinded:''' 24<br />
+'''Repealed:''' 2<br />
+'''Redundant:''' 2
+
+<span id="january"></span>
+== JANUARY ==
+
+'''11 Bills Introduced'''<br />
+'''Passed:''' 0<br />
+'''Rejected:''' 6<br />
+'''Vetoed:''' 2<br />
+'''Rescinded:''' 3<br />
+'''Repealed:''' 0<br />
+'''Redundant:''' 0
+
+<span id="fair-compensation-act"></span>
+=== Fair Compensation Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Psypio
+* '''Bill introduction date:''' Jan 11, 2023
+* '''Purpose:''' Gradually Increase the Minimum Commission to 70%
+
+<span id="criminal-roleplay-reform-act-crra"></span>
+=== Criminal Roleplay Reform Act (CRRA) ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' Jan 11, 2023
+* '''Purpose:''' Encourage Criminal Roleplay
+
+<span id="business-corporations-definition-and-regulation-act"></span>
+=== Business Corporations Definition and Regulation Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' AsunaYuukiSAO
+* '''Bill introduction date:''' Jan 12, 2023
+* '''Purpose:''' [rescinded]
+
+<span id="land-reclamation-act"></span>
+=== Land Reclamation Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' Jan 13, 2023
+* '''Purpose:''' Encourage Players to Return to DC.
+
+<span id="repeal-minimum-commission"></span>
+=== Repeal Minimum Commission ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' BlogWorldExpo
+* '''Bill introduction date:''' Jan 14, 2023
+* '''Purpose:''' To Repeal Minimum Commission
+
+<span id="monetary-loss-act"></span>
+=== Monetary Loss Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' Jan 20, 2023
+* '''Purpose:''' Prevent courts from being exploited for a high amount of cash.
+
+<span id="application-time-bill"></span>
+=== Application Time Bill ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' Gertis
+* '''Bill introduction date:''' Jan 20, 2023
+* '''Purpose:''' Speed up application times
+
+<span id="rescinded"></span>
+=== [Rescinded] ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' Jan 24, 2023
+* '''Purpose:''' [Rescinded]
+
+<span id="residency-requirement-act"></span>
+=== Residency Requirement Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' RandomIntruder
+* '''Bill introduction date:''' Jan 24, 2023
+* '''Purpose:''' Require residency for citizens of Redmont
+
+<span id="wilderness-towns-act"></span>
+=== Wilderness Towns Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' AB6A5SI
+* '''Bill introduction date:''' Jan 27, 2023
+* '''Purpose:''' Establish a System for Wilderness Settlements​
+
+<span id="let-the-dct-decide-act"></span>
+=== Let the DCT Decide Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' RandomIntruder
+* '''Bill introduction date:''' Jan 29, 2023
+* '''Purpose:''' Let the DCT decide
+
+<span id="february"></span>
+== February ==
+
+'''16 Bills Introduced'''<br />
+'''Passed:''' 0<br />
+'''Rejected:''' 12<br />
+'''Vetoed:''' 1<br />
+'''Rescinded:''' 3<br />
+'''Repealed:''' 0<br />
+'''Redundant:''' 0
+
+<span id="rescinded-1"></span>
+=== [Rescinded] ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' Feb 4, 2023
+* '''Purpose:''' [Rescinded]
+
+<span id="town-tax-act"></span>
+=== Town Tax Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' AB6A5SI
+* '''Bill introduction date:''' Feb 5, 2023
+* '''Purpose:''' Help Increase Town Funding
+
+<span id="economic-planning-committee-act"></span>
+=== Economic Planning Committee Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Tonga1
+* '''Bill introduction date:''' Feb 7, 2023
+* '''Purpose:''' This will be a Committee that will plan a unified economic agenda so that no one will be left behind nor pushed out.
+
+<span id="real-estate-investment-trust-act"></span>
+=== Real Estate Investment Trust Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' AsunaYuukiSAO
+* '''Bill introduction date:''' Feb 7, 2023
+* '''Purpose:''' Create real estate investment trusts to help regulate real estate based investment organizations.
+
+<span id="corporations-act"></span>
+=== Corporations Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' AsunaYuukiSAO
+* '''Bill introduction date:''' Feb 7, 2023
+* '''Purpose:''' Define and regulate corporations in Redmont in more detail to promote the creation of more robust and complex corporations.
+
+<span id="partnership-act"></span>
+=== Partnership Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' AsunaYuukiSAO
+* '''Bill introduction date:''' Feb 7, 2023
+* '''Purpose:''' Define partnerships and types of partnerships in the context of Redmont.
+
+<span id="trespassing-and-theft-offense-amendment-act"></span>
+=== Trespassing and Theft Offense Amendment Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' ko531
+* '''Bill introduction date:''' Feb 8, 2023
+* '''Purpose:''' Amend The Trespassing and Theft Offense Act
+
+<span id="reasonable-judicial-activity-act"></span>
+=== Reasonable Judicial Activity Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' nnmc
+* '''Bill introduction date:''' Feb 12, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="fix-the-empty-city-act"></span>
+=== Fix the Empty City Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' Feb 13, 2023
+* '''Purpose:''' Amend the Property Standards Act
+
+<span id="commission-expansion-amendment-act"></span>
+=== Commission Expansion Amendment Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Izzibaby
+* '''Bill introduction date:''' Feb 14, 2023
+* '''Purpose:''' Amend the Commission Expansion Act of 2021
+
+<span id="judicial-rights-expansion-act"></span>
+=== Judicial Rights Expansion Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' ElainaThomas29
+* '''Bill introduction date:''' Feb 17, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="resisting-arrest-clarification-act"></span>
+=== Resisting Arrest Clarification Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' pepper5980
+* '''Bill introduction date:''' Feb 24, 2023
+* '''Purpose:''' Clarify Resisting Arrest to include Invisibility and not coming to spawn
+
+<span id="aac-clarification-act"></span>
+=== AAC Clarification Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' pepper5980
+* '''Bill introduction date:''' Feb 24, 2023
+* '''Purpose:''' Clarify the Meanings of Accomplice, Accessory, and Conspiracy
+
+<span id="rescinded-2"></span>
+=== [Rescinded] ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' Feb 25, 2023
+* '''Purpose:''' [Rescinded]
+
+<span id="mandatory-senate-confirmation-hearing-act"></span>
+=== Mandatory Senate Confirmation Hearing Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' Feb 26, 2023
+* '''Purpose:''' Amend the legislative standards act
+
+<span id="extortion-act-of-2023"></span>
+=== Extortion Act of 2023 ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' pepper5980
+* '''Bill introduction date:''' Feb 28, 2023
+* '''Purpose:''' Make Extortion a Crime
+
+<span id="march"></span>
+== March ==
+
+'''13 Bills Introduced''' '''Passed:''' 0<br />
+'''Rejected:''' 11<br />
+'''Vetoed:''' 1<br />
+'''Rescinded:''' 0<br />
+'''Repealed:''' 1<br />
+'''Redundant:''' 0
+
+<span id="congressional-inactivity-act"></span>
+=== Congressional Inactivity Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Izzibaby
+* '''Bill introduction date:''' Mar 14, 2023
+* '''Purpose:''' Enact the Congressional Inactivity Act to reduce inactivity within Congressional Chambers.
+
+<span id="budget-tracking-act"></span>
+=== Budget Tracking Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' Izzibaby
+* '''Bill introduction date:''' Mar 14, 2023
+* '''Purpose:''' Properly keep track of Departments’ Spending Habits in reference to their budget assigned.
+
+<span id="pet-freedom-act"></span>
+=== Pet Freedom Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Mar 15, 2023
+* '''Purpose:''' Protect pets and establish private animal shelters.​
+
+<span id="redmont-tax-code"></span>
+=== Redmont Tax Code ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' xLayzur
+* '''Bill introduction date:''' Mar 15, 2023
+* '''Purpose:''' Structure a proper Tax Code within The Commonwealth of Redmont
+
+<span id="ftgwop-national-treasure-act"></span>
+=== FTGWop National Treasure Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Mar 16, 2023
+* '''Purpose:''' Classify Player FTGWop as a National Treasure
+
+<span id="ethics-commission-act"></span>
+=== Ethics Commission Act ===
+
+* '''Status:''' Repealed
+* '''Publisher:''' nanicholls
+* '''Bill introduction date:''' Mar 16, 2023
+* '''Purpose:''' Establish a Redmont Office of Ethics
+
+<span id="bring-back-dcbids-act"></span>
+=== Bring Back DCBids Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Mar 16, 2023
+* '''Purpose:''' Re-establish DCBids​
+
+<span id="repeal-commission-expansion-act-of-2021"></span>
+=== Repeal Commission Expansion Act of 2021 ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Vernicia
+* '''Bill introduction date:''' Mar 23, 2023
+* '''Purpose:''' Repeal Commission Expansion Act of 2021
+
+<span id="my-house-my-castle-act"></span>
+=== My House My Castle Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Vernicia
+* '''Bill introduction date:''' Mar 24, 2023
+* '''Purpose:''' Make your house your Castle
+
+<span id="respect-my-authoritah-act"></span>
+=== Respect My Authoritah Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Vernicia
+* '''Bill introduction date:''' Mar 24, 2023
+* '''Purpose:''' Arm DoJ
+
+<span id="mass-murder-act"></span>
+=== Mass Murder Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Mar 24, 2023
+* '''Purpose:''' Create the crime of Mass Murder
+
+<span id="new-player-fraud-clarification-act"></span>
+=== New Player Fraud Clarification Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Mar 28, 2023
+* '''Purpose:''' Prevent Loopholes of New Player Fraud
+
+<span id="inflation-reduction-act"></span>
+=== Inflation Reduction Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' nanicholls
+* '''Bill introduction date:''' Mar 29, 2023
+* '''Purpose:''' Control Rapidly Increasing Inflation
+
+<span id="april"></span>
+== April ==
+
+'''9 Bills Introduced''' '''Passed:''' 0<br />
+'''Rejected:''' 5<br />
+'''Vetoed:''' 0<br />
+'''Rescinded:''' 4<br />
+'''Repealed:''' 0<br />
+'''Redundant:''' 0
+
+<span id="substances-act"></span>
+=== Substances Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' AB6A5SI
+* '''Bill introduction date:''' Apr 2, 2023
+* '''Purpose:''' Outlaw Harmful Substances
+
+<span id="resisting-arrest-act"></span>
+=== Resisting Arrest Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Apr 2, 2023
+* '''Purpose:''' Amend the Miscellaneous Offences Act
+
+<span id="murder-wanted-point-expiration-act"></span>
+=== Murder Wanted Point Expiration Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Apr 8, 2023
+* '''Purpose:''' Expire wanted points of murder after 6 hours of playtime
+
+<span id="too-many-empty-plots-act-12"></span>
+=== Too Many Empty Plots Act 1/2 ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Pugsy
+* '''Bill introduction date:''' Apr 10, 2023
+* '''Purpose:''' Amend the Property Standards Act
+
+<span id="too-many-empty-plots-act-22"></span>
+=== Too Many Empty Plots Act (2/2) ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' nanicholls
+* '''Bill introduction date:''' Apr 10, 2023
+* '''Purpose:''' Amend the Taxation Act
+
+<span id="reasonable-health-act"></span>
+=== Reasonable Health Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' Tonga1
+* '''Bill introduction date:''' Apr 11, 2023
+* '''Purpose:''' Help the Doctor role be more valuable instead of just being there to give cures out
+
+<span id="murder-wanted-point-expiration-act-1"></span>
+=== Murder Wanted Point Expiration Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Apr 13, 2023
+* '''Purpose:''' Expire wanted points of murder after 1 hour of playtime
+
+<span id="secretary-application-requirements-act"></span>
+=== Secretary Application Requirements Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Apr 18, 2023
+* '''Purpose:''' Allow secretaries to change application requirements for government jobs of their respective department
+
+<span id="free-public-transport-act"></span>
+=== Free Public Transport Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Apr 23, 2023
+* '''Purpose:''' Make the cost of public transport free
+
+<span id="may"></span>
+== MAY ==
+
+'''17 Bills Introduced'''<br />
+'''Passed:''' 0<br />
+'''Rejected:''' 15<br />
+'''Vetoed:''' 1<br />
+'''Rescinded:''' 1<br />
+'''Repealed:''' 0<br />
+'''Redundant:''' 0
+
+<span id="kidnapping-act"></span>
+=== Kidnapping Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' May 1, 2023
+* '''Purpose:''' Amend the Violent Offences Act​
+
+<span id="censure-limitation-act"></span>
+=== Censure Limitation Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' May 1, 2023
+* '''Purpose:''' Amend the LSA to fix censure loopholes.​
+
+<span id="arrest-wanted-players"></span>
+=== Arrest Wanted Players ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' May 11, 2023
+* '''Purpose:''' Make it illegal to not arrest wanted players
+
+<span id="residential-adjustment-act"></span>
+=== Residential Adjustment Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' v__d
+* '''Bill introduction date:''' May 12, 2023
+* '''Purpose:''' Allow players to own 4 homes.
+
+<span id="fix-the-legislature-act"></span>
+=== Fix the Legislature Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' May 13, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="renaming-sus-secretaries"></span>
+=== Renaming Sus Secretaries ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' AB6A5SI
+* '''Bill introduction date:''' May 15, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="cheaper-dealership-vehicles-act"></span>
+=== Cheaper Dealership Vehicles Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' May 17, 2023
+* '''Purpose:''' make the vehicles at the dealership cheaper
+
+<span id="amend-the-legislative-standards-act"></span>
+=== Amend the Legislative Standards Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Aladeen
+* '''Bill introduction date:''' May 17, 2023
+* '''Purpose:''' Amend the Legislative Standards Act
+
+<span id="budget-priority-act"></span>
+=== Budget Priority Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' May 19, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="reformed-foundation-of-contract-law-act"></span>
+=== Reformed Foundation of Contract Law Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' andreasp15
+* '''Bill introduction date:''' May 19, 2023
+* '''Purpose:''' Reform the Foundation of Contract Law Act
+
+<span id="new-player-demilitarization-amendment-act"></span>
+=== New Player Demilitarization Amendment Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' andreasp15
+* '''Bill introduction date:''' May 19, 2023
+* '''Purpose:''' Amend New Player Demilitarization Act
+
+<span id="dc-government-plots-act"></span>
+=== DC Government Plots Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' May 20, 2023
+* '''Purpose:''' start the selling of plots still owned by the government
+
+<span id="rentable-utility-blocks-act"></span>
+=== Rentable Utility Blocks Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' May 20, 2023
+* '''Purpose:''' create rentable utility blocks
+
+<span id="free-public-transport-act-1"></span>
+=== Free Public Transport Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' May 25, 2023
+* '''Purpose:''' Make our public transport free
+
+<span id="protect-the-wild-towns-act"></span>
+=== Protect the Wild Towns Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' May 26, 2023
+* '''Purpose:''' Make protection for the wild towns
+
+<span id="judicial-adjustment-act"></span>
+=== Judicial Adjustment Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Rurge
+* '''Bill introduction date:''' May 30, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="prison-escape-act"></span>
+=== Prison Escape Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' Justa_Dumpling
+* '''Bill introduction date:''' May 31, 2023
+* '''Purpose:''' Prison Escape Act
+
+<span id="june"></span>
+== JUNE ==
+
+'''22 Bills Introduced''' '''Passed:''' 0<br />
+'''Rejected:''' 17<br />
+'''Vetoed:''' 0<br />
+'''Rescinded:''' 4<br />
+'''Repealed:''' 1<br />
+'''Redundant:''' 0
+
+<span id="fit-act-amendment"></span>
+=== FIT Act Amendment ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' crytiee
+* '''Bill introduction date:''' Jun 1, 2023
+* '''Purpose:''' Improve the Financial Institutions Tax Act Amendment with common sense.
+
+<span id="companies-act"></span>
+=== Companies Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' Jun 6, 2023
+* '''Purpose:''' Make it easier for new companies to be successful
+
+<span id="employee-act"></span>
+=== Employee Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' Jun 6, 2023
+* '''Purpose:''' Make it easier and better to hire employees
+
+<span id="suspended-punishment-act"></span>
+=== Suspended Punishment Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' Jun 8, 2023
+* '''Purpose:''' To Establish the Suspended Punishment System.
+
+<span id="farmers-act"></span>
+=== Farmers Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' Jun 8, 2023
+* '''Purpose:''' Make better it better for our farmers
+
+<span id="wild-bases-update-act"></span>
+=== Wild Bases Update Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' v__d
+* '''Bill introduction date:''' Jun 9, 2023
+* '''Purpose:''' Wild bases shouldn’t be close to each other
+
+<span id="creating-villages-act"></span>
+=== Creating Villages Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' Jun 9, 2023
+* '''Purpose:''' Create villages in the Reveille world
+
+<span id="voting-information-protection-act"></span>
+=== Voting Information Protection Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Aladeen
+* '''Bill introduction date:''' Jun 9, 2023
+* '''Purpose:''' Prohibit the Disclosure of Voting Information
+
+<span id="perjury-expansion-act"></span>
+=== Perjury Expansion Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' Jun 10, 2023
+* '''Purpose:''' Amend the Corruption and Espionage Offenses Act and expand the definition of Perjury.
+
+<span id="renters-rights-act"></span>
+=== Renters Rights Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' nanicholls
+* '''Bill introduction date:''' Jun 10, 2023
+* '''Purpose:''' Protect the Rights of parties in a Rental Agreement
+
+<span id="lowering-members-of-hor-act"></span>
+=== Lowering Members of HoR Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' andreasp15
+* '''Bill introduction date:''' Jun 17, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="wild-plot-increase-act"></span>
+=== Wild Plot Increase Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' andreasp15
+* '''Bill introduction date:''' Jun 18, 2023
+* '''Purpose:''' Amend the Third WAP Act
+
+<span id="harsher-presidential-requirements-act"></span>
+=== Harsher Presidential Requirements Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' andreasp15
+* '''Bill introduction date:''' Jun 18, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="term-limits-act"></span>
+=== Term Limits Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' andreasp15
+* '''Bill introduction date:''' Jun 18, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="banking-act"></span>
+=== Banking Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' nanicholls
+* '''Bill introduction date:''' Jun 21, 2023
+* '''Purpose:''' Consolidate financial laws
+
+<span id="residential-revamp-act"></span>
+=== Residential Revamp Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' nanicholls
+* '''Bill introduction date:''' Jun 21, 2023
+* '''Purpose:''' Amend the Property Standards Act​
+
+<span id="back-in-black-act"></span>
+=== Back in Black Act ===
+
+* '''Status:''' Repealed
+* '''Publisher:''' nanicholls
+* '''Bill introduction date:''' Jun 21, 2023
+* '''Purpose:''' Amend Financial Institution Taxation and the Taxation Act​
+
+<span id="grammarly-act"></span>
+=== Grammarly Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Jun 22, 2023
+* '''Purpose:''' Amend the LSA​
+
+<span id="modified-organization-act"></span>
+=== Modified Organization Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Jun 22, 2023
+* '''Purpose:''' Amend the Legislative Standards Act​
+
+<span id="no-medical-and-health-offense-act"></span>
+=== No Medical and Health Offense Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' Jun 29, 2023
+* '''Purpose:''' Amend the Health and Medical offense act
+
+<span id="let-corporations-vote-act"></span>
+=== Let Corporations Vote Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' Jun 29, 2023
+* '''Purpose:''' create so that corporations also can vote
+
+<span id="lower-the-bank-robbery-fine-act"></span>
+=== Lower the Bank Robbery Fine Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Jun 30, 2023
+* '''Purpose:''' Lower the fine for Bank Robbery​
+
+<span id="july"></span>
+== JULY ==
+
+'''24 Bills Introduced''' '''Passed:''' 0<br />
+'''Rejected:''' 16<br />
+'''Vetoed:''' 3<br />
+'''Rescinded:''' 5<br />
+'''Repealed:''' 0<br />
+'''Redundant:''' 0
+
+<span id="private-police-forces-act"></span>
+=== Private Police Forces Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' Jul 1, 2023
+* '''Purpose:''' Create private police forces
+
+<span id="july-2023-budget-proposal"></span>
+=== July 2023 Budget Proposal ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' v__d
+* '''Bill introduction date:''' Jul 2, 2023
+* '''Purpose:''' Propose a Budget for the Month of July
+
+<span id="july-2023-budget-reproposal"></span>
+=== July 2023 Budget “Reproposal” ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' v__d
+* '''Bill introduction date:''' Jul 3, 2023
+* '''Purpose:''' Fix the Budget for the Month of July
+
+<span id="witnesses-are-evidence-too-act"></span>
+=== Witnesses Are Evidence Too Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' bigpappa140
+* '''Bill introduction date:''' Jul 14, 2023
+* '''Purpose:''' Allow Witness Testimony in DOJ Tickets
+
+<span id="chip-vanity-repeal-act"></span>
+=== Chip Vanity Repeal Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Jul 16, 2023
+* '''Purpose:''' Amend the Legislative Standards Act
+
+<span id="repeal-the-free-public-transport-act"></span>
+=== Repeal the Free Public Transport Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Jul 17, 2023
+* '''Purpose:'''
+
+<span id="residential-revamp-act-1"></span>
+=== Residential Revamp Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' huney69
+* '''Bill introduction date:''' Jul 17, 2023
+* '''Purpose:''' Repeal the Free Public Transport Act
+
+<span id="recognition-act"></span>
+=== Recognition Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' v__d
+* '''Bill introduction date:''' Jul 18, 2023
+* '''Purpose:''' Recognize National Service and Greatness​
+
+<span id="repeal-stupid-laws-act"></span>
+=== Repeal Stupid Laws Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' v__d
+* '''Bill introduction date:''' Jul 19, 2023
+* '''Purpose:''' Clean up the laws a bit
+
+<span id="deported-tax-act"></span>
+=== Deported Tax Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' steveshat
+* '''Bill introduction date:''' Jul 19, 2023
+* '''Purpose:''' Stop the Taxation of Deported Citizens​
+
+<span id="buff-illegalization-act"></span>
+=== Buff Illegalization Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' bigpappa140
+* '''Bill introduction date:''' Jul 19, 2023
+* '''Purpose:''' Amend the Illicit Trafficking Offences Act
+
+<span id="bonus-busting-act"></span>
+=== Bonus Busting Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' Intercepticon
+* '''Bill introduction date:''' Jul 21, 2023
+* '''Purpose:''' Prohibit Bonuses
+
+<span id="back-in-black-act-1"></span>
+=== Back in Black Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Jul 25, 2023
+* '''Purpose:''' Amend Financial Institution Taxation and the Taxation Act​
+
+<span id="banking-act-1"></span>
+=== Banking Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Jul 25, 2023
+* '''Purpose:''' Consolidate financial laws​
+
+<span id="the-crb-abolition-act"></span>
+=== The CRB Abolition Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Krix
+* '''Bill introduction date:''' Jul 26, 2023
+* '''Purpose:''' Abolish the Commonwealth Reserve Bank
+
+<span id="anti-authoritarian-constitutional-amendment-act"></span>
+=== Anti Authoritarian Constitutional Amendment Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Krix
+* '''Bill introduction date:''' Jul 26, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="government-activity-act"></span>
+=== Government Activity Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' shadownba
+* '''Bill introduction date:''' Jul 26, 2023
+* '''Purpose:''' Make elected officials active
+
+<span id="judicial-fix-act"></span>
+=== Judicial Fix Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' huney69
+* '''Bill introduction date:''' Jul 27, 2023
+* '''Purpose:''' Amend the Constitution and the Judicial Standards Act
+
+<span id="crb-delete-act"></span>
+=== CRB Delete Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Jul 27, 2023
+* '''Purpose:''' Remove the Commonwealth Reserve Bank
+
+<span id="establish-guards-act"></span>
+=== Establish Guards Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' shadownba
+* '''Bill introduction date:''' Jul 27, 2023
+* '''Purpose:''' Establish guards to our jail
+
+<span id="dump-ubi-act"></span>
+=== Dump UBI Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Jul 27, 2023
+* '''Purpose:''' Repeal the Universal Basic Income Act​
+
+<span id="trademark-act"></span>
+=== Trademark Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' shadownba
+* '''Bill introduction date:''' Jul 28, 2023
+* '''Purpose:''' Give players the option to trademark their business name.
+
+<span id="threats-act"></span>
+=== Threats Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' shadownba
+* '''Bill introduction date:''' Jul 30, 2023
+* '''Purpose:''' Get a player fined if they makes a threat to kill a player
+
+<span id="government-activity-act-1"></span>
+=== Government Activity Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Rory
+* '''Bill introduction date:''' Jul 31, 2023
+* '''Purpose:''' Make elected officials active
+
+<span id="august"></span>
+== AUGUST ==
+
+'''7 Bills Introduced''' '''Passed:''' 0<br />
+'''Rejected:''' 5<br />
+'''Vetoed:''' 1<br />
+'''Rescinded:''' 1<br />
+'''Repealed:''' 0<br />
+'''Redundant:''' 0
+
+<span id="cbd-regulation-act"></span>
+=== CBD Regulation Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' steveshat
+* '''Bill introduction date:''' Aug 2, 2023
+* '''Purpose:''' Define and regulate inactive businesses in CBD plots​
+
+<span id="hamilton-roads-act"></span>
+=== Hamilton Roads Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Aug 7, 2023
+* '''Purpose:''' Rescind the Roads Act​
+
+<span id="criminal-negligence-act"></span>
+=== Criminal Negligence Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' steveshat
+* '''Bill introduction date:''' Aug 8, 2023
+* '''Purpose:'''
+
+<span id="heritage-act"></span>
+=== Heritage Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' steveshat
+* '''Bill introduction date:''' Aug 12, 2023
+* '''Purpose:''' Amend The Corruption and Espionage Offenses Act​
+
+<span id="animal-murder-amendment-act"></span>
+=== Animal Murder Amendment Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' bigpappa140
+* '''Bill introduction date:''' Aug 13, 2023
+* '''Purpose:''' Amend the Animal &amp; Pet Offences Act
+
+<span id="reit-formation-act"></span>
+=== REIT Formation Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Aug 18, 2023
+* '''Purpose:''' Establish a Real Estate Investment Trust (REIT)
+
+<span id="event-actions-act"></span>
+=== Event Actions Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' shadownba
+* '''Bill introduction date:''' Aug 20, 2023
+* '''Purpose:''' Add a minimum of 2 police officers at an event and include massive fines
+
+<span id="september"></span>
+== SEPTEMBER ==
+
+'''15 Bills Introduced'''<br />
+'''Passed:''' 0<br />
+'''Rejected:''' 13<br />
+'''Vetoed:''' 2<br />
+'''Rescinded:''' 0<br />
+'''Repealed:''' 0<br />
+'''Redundant:''' 0
+
+<span id="unorganization-act"></span>
+=== Unorganization Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Sep 13, 2023
+* '''Purpose:''' Repeal the Organization Act​
+
+<span id="the-dec-act"></span>
+=== The DEC Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Sep 13, 2023
+* '''Purpose:''' Bring Back the DEC​
+
+<span id="a-safer-safety-act"></span>
+=== A Safer Safety Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Sep 14, 2023
+* '''Purpose:''' Define and Establish Safe Zones​
+
+<span id="government-activity-act-2"></span>
+=== Government Activity Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' shadownba
+* '''Bill introduction date:''' Sep 14, 2023
+* '''Purpose:''' Make elected officials active
+
+<span id="city-council-2.0-resolution"></span>
+=== City Council 2.0 Resolution ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Sep 14, 2023
+* '''Purpose:''' Create a City Council of Reveille​
+
+<span id="stop-recognizing-vindex-resolution"></span>
+=== Stop Recognizing Vindex Resolution ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Sep 14, 2023
+* '''Purpose:''' Stop Recognizing Vindex Nation​
+
+<span id="constitutional-amendment-workers-rights-act-2023-cawr-act-2023"></span>
+=== Constitutional Amendment (Workers Rights) Act 2023 (CAWR Act 2023) ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' 1950Minecrafter
+* '''Bill introduction date:''' Sep 15, 2023
+* '''Purpose:''' Amend the Constitution​
+
+<span id="congress-members-wage-decrease-resolution-2023-cwd-resolution-2023"></span>
+=== Congress Members’ Wage Decrease Resolution 2023 (CWD Resolution 2023) ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' 1950Minecrafter
+* '''Bill introduction date:''' Sep 15, 2023
+* '''Purpose:''' Lower the Congress Members’ Wages​
+
+<span id="motion-of-referendum-act-2023-mor-act-2023"></span>
+=== Motion of Referendum Act 2023 (MoR Act 2023) ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' 1950Minecrafter
+* '''Bill introduction date:''' Sep 15, 2023
+* '''Purpose:''' Amend the Legislative Standards Act​
+
+<span id="residential-plot-height-limit-act-2023-rphl-act-2023"></span>
+=== Residential Plot Height Limit Act 2023 (RPHL Act 2023) ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' 1950Minecrafter
+* '''Bill introduction date:''' Sep 15, 2023
+* '''Purpose:''' Amend the Property Standards Act​
+
+<span id="skys-the-limit-resolution"></span>
+=== Sky’s the Limit Resolution ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Sep 15, 2023
+* '''Purpose:''' Promote the termination of Secretary Skywat4​
+
+<span id="balance-tax-reduction-act"></span>
+=== Balance Tax Reduction Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Sep 18, 2023
+* '''Purpose:''' Reduce Personal &amp; Corporate Balance Taxes​
+
+<span id="minimum-rent-act"></span>
+=== Minimum Rent Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Galavance
+* '''Bill introduction date:''' Sep 19, 2023
+* '''Purpose:''' To Introduce Minimum Rent
+
+<span id="town-update-act"></span>
+=== Town Update Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' shadownba
+* '''Bill introduction date:''' Sep 22, 2023
+* '''Purpose:''' Appoint Senators to Towns
+
+<span id="free-rental-unit-setup-act"></span>
+=== Free Rental Unit Setup Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Sep 30, 2023
+* '''Purpose:''' Repeal the Rental Unit Setup Fee Act​
+
+<span id="october"></span>
+== OCTOBER ==
+
+'''19 Bills Introduced''' '''Passed:''' 0<br />
+'''Rejected:''' 14<br />
+'''Vetoed:''' 2<br />
+'''Rescinded:''' 1<br />
+'''Repealed:''' 0<br />
+'''Redundant:''' 2
+
+<span id="jail-activities-limitation-act"></span>
+=== Jail Activities Limitation Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Oct 7, 2023
+* '''Purpose:''' Amend the Jail Activities Act​
+
+<span id="commercial-standards-act"></span>
+=== Commercial Standards Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Oct 10, 2023
+* '''Purpose:''' Establish a standards act for business
+
+<span id="four-more-months-act"></span>
+=== Four More Months Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Oct 11, 2023
+* '''Purpose:''' Amend the Constitution​
+
+<span id="no-presidents-in-congress-allowed-act"></span>
+=== No Presidents in Congress Allowed Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' 1950Minecrafter
+* '''Bill introduction date:''' Oct 17, 2023
+* '''Purpose:''' Amend the Constitution​
+
+<span id="capitalism-amendment-act"></span>
+=== Capitalism Amendment Act ===
+
+* '''Status:''' Redundant
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Oct 17, 2023
+* '''Purpose:''' Fix conflicting Acts in our Government​
+
+<span id="commercial-standards-act-1"></span>
+=== Commercial Standards Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Oct 20, 2023
+* '''Purpose:''' Establish a standards act for business
+
+<span id="town-representation-act"></span>
+=== Town Representation Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' shadownba
+* '''Bill introduction date:''' Oct 22, 2023
+* '''Purpose:''' Appoint Senators to Towns
+
+<span id="committees-are-broken-act"></span>
+=== Committees are Broken Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' PandaL0g1c
+* '''Bill introduction date:''' Oct 24, 2023
+* '''Purpose:''' Amend the Legislative Standards Act
+
+<span id="stromboli-act"></span>
+=== Stromboli Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Oct 24, 2023
+* '''Purpose:''' Amend the Electoral Act​
+
+<span id="jail-activity-limit-act"></span>
+=== Jail Activity Limit Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Anthony
+* '''Bill introduction date:''' Oct 24, 2023
+* '''Purpose:''' Amend the Jail Activities Act​
+
+<span id="universal-basic-income-increase-act"></span>
+=== Universal Basic Income Increase Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' itsBlazeX
+* '''Bill introduction date:''' Oct 26, 2023
+* '''Purpose:''' Increase Universal Basic Income​
+
+<span id="testing-act"></span>
+=== Testing Act ===
+
+* '''Status:''' Redundant
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Oct 27, 2023
+* '''Purpose:''' Test
+
+<span id="referendum-act"></span>
+=== Referendum Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' 1950Minecrafter
+* '''Bill introduction date:''' Oct 28, 2023
+* '''Purpose:''' Amend the Legislative Standards Act​
+
+<span id="congressional-wages-act"></span>
+=== Congressional Wages Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' 1950Minecrafter
+* '''Bill introduction date:''' Oct 28, 2023
+* '''Purpose:''' Amend the Economic Standards Act​
+
+<span id="height-limit-act"></span>
+=== Height Limit Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' 1950Minecrafter
+* '''Bill introduction date:''' Oct 28, 2023
+* '''Purpose:''' Amend the Property Standards Act​
+
+<span id="workers-rights-act"></span>
+=== Workers Rights Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' 1950Minecrafter
+* '''Bill introduction date:''' Oct 28, 2023
+* '''Purpose:''' Amend the Constitution​
+
+<span id="no-more-kidnapping-act"></span>
+=== No More Kidnapping Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Anthony
+* '''Bill introduction date:''' Oct 28, 2023
+* '''Purpose:''' Amend the Violent Offenses Act​
+
+<span id="arrest-on-private-property-act"></span>
+=== Arrest On Private Property Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Anthony
+* '''Bill introduction date:''' Oct 28, 2023
+* '''Purpose:''' Make arrests on citizen’s property illegal.​
+
+<span id="new-player-retention-act"></span>
+=== New Player Retention Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Snowy_Heart
+* '''Bill introduction date:''' Oct 28, 2023
+* '''Purpose:''' Increase new player retention and integration into the server.​
+
+<span id="november"></span>
+== NOVEMBER ==
+
+'''9 Bills Introduced'''<br />
+'''Passed:''' 0<br />
+'''Rejected:''' 9<br />
+'''Vetoed:''' 0<br />
+'''Rescinded:''' 0<br />
+'''Repealed:''' 0<br />
+'''Redundant:''' 0
+
+<span id="no-christmas-before-december-act"></span>
+=== No Christmas Before December Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Anthony
+* '''Bill introduction date:''' Nov 3, 2023
+* '''Purpose:''' Limit when Christmas decorations can be pasted​
+
+<span id="the-thwack-act"></span>
+=== The Thwack Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Snowy_Heart
+* '''Bill introduction date:''' Nov 24, 2023
+* '''Purpose:''' Amend the Electoral Act
+
+<span id="jail-time-removal-limit-act"></span>
+=== Jail Time Removal Limit Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Anthony
+* '''Bill introduction date:''' Nov 24, 2023
+* '''Purpose:''' Amend the Jail Activities Act​
+
+<span id="stromboli-act-1"></span>
+=== Stromboli Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Nov 25, 2023
+* '''Purpose:''' Amend the Electoral Act &amp; the Constitution​
+
+<span id="freedom-of-knowledge-act"></span>
+=== Freedom of Knowledge Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' YeetBoy1872325
+* '''Bill introduction date:''' Nov 26, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="arm-doj-act"></span>
+=== Arm DOJ Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Nov 26, 2023
+* '''Purpose:''' Arm the Department of Justice
+
+<span id="commercial-standards-act-2"></span>
+=== Commercial Standards Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Nov 29, 2023
+* '''Purpose:''' Establish a standards act for business
+
+<span id="no-more-contradictions-act"></span>
+=== No More Contradictions Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Nov 30, 2023
+* '''Purpose:''' Amend the Judicial Fix Act and Amend the Constitution
+
+<span id="committees-are-broken-act-1"></span>
+=== Committees are Broken Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Nov 30, 2023
+* '''Purpose:''' Amend the Legislative Standards Act
+
+<span id="december"></span>
+== DECEMBER ==
+
+'''18 Bills Introduced:''' '''Passed:''' 0<br />
+'''Rejected:''' 13<br />
+'''Vetoed:''' 3<br />
+'''Rescinded:''' 2<br />
+'''Repealed:''' 0<br />
+'''Redundant:''' 0
+
+<span id="gimme-information-act"></span>
+=== Gimme Information Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Dec 1, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="leave-no-rivers-incompleted-act"></span>
+=== Leave No Rivers Incompleted Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Dec 1, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="this-right-is-useless-act"></span>
+=== This Right is Useless Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Dec 1, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="this-is-never-gonna-happen-but-never-say-never-act"></span>
+=== This Is Never Gonna Happen But Never Say Never Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Dec 2, 2023
+* '''Purpose:''' Amend the Legislative Standards Act
+
+<span id="naughty-government-act"></span>
+=== Naughty Government Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' End
+* '''Bill introduction date:''' Dec 18, 2023
+* '''Purpose:''' Clarify Punitive Charges against the Government and Amend the Executive Standards Act
+
+<span id="make-your-choice-act"></span>
+=== Make Your Choice Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Snowy_Heart
+* '''Bill introduction date:''' Dec 18, 2023
+* '''Purpose:''' Amend the Electoral Act
+
+<span id="with-great-power-act"></span>
+=== With Great Power Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Snowy_Heart
+* '''Bill introduction date:''' Dec 18, 2023
+* '''Purpose:''' Define the Investigative Powers and Responsibilities of the DLA.
+
+<span id="in-game-elections-omnibus-act"></span>
+=== In Game Elections Omnibus Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' End
+* '''Bill introduction date:''' Dec 24, 2023
+* '''Purpose:''' Enable in-game voting and amend the Electoral Act, the Legislative Standards Act, and the Constitution
+
+<span id="lower-the-bank-robbery-fine-act-1"></span>
+=== Lower the Bank Robbery Fine Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Dec 25, 2023
+* '''Purpose:''' Lower the fine for Bank Robbery​
+
+<span id="endangered-species-act"></span>
+=== Endangered Species Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Dec 25, 2023
+* '''Purpose:''' Allow Mobs to become Endangered​
+
+<span id="jail-activities-limitation-act-1"></span>
+=== Jail Activities Limitation Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Dec 25, 2023
+* '''Purpose:''' Amend the Jail Activities Act​
+
+<span id="pie-act"></span>
+=== PIE Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Dec 25, 2023
+* '''Purpose:''' Start the Process for Private Insurance Companies​
+
+<span id="committees-are-broken-act-2"></span>
+=== Committees are Broken Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' End
+* '''Bill introduction date:''' Dec 27, 2023
+* '''Purpose:''' Amend the Legislative Standards Act
+
+<span id="impeachment-act"></span>
+=== Impeachment Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' End
+* '''Bill introduction date:''' Dec 27, 2023
+* '''Purpose:''' Consolidate and protect the impeachment process and amend the constitution.
+
+<span id="appropriations-act---jan-2024"></span>
+=== Appropriations Act - JAN 2024 ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Dec 28, 2023
+* '''Purpose:''' Propose a Budget for the Month of January​
+
+<span id="contracts-act"></span>
+=== Contracts Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' End
+* '''Bill introduction date:''' Dec 28, 2023
+* '''Purpose:''' Establish a better foundation for contract law.
+
+<span id="quorum-act"></span>
+=== Quorum Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' End
+* '''Bill introduction date:''' Dec 28, 2023
+* '''Purpose:''' Amend the Legislative Standards Act​
+
+<span id="doj-pay-per-arrest-resolution"></span>
+=== DOJ Pay Per Arrest Resolution ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' CopTop
+* '''Bill introduction date:''' Dec 30, 2023
+* '''Purpose:''' To Change the DOJ’s Pay
+
+<span id="law-review-1"></span>
+= 2023 Law Review =
+
+Correct as at 24 Feb 24
+
+Authored by: kaidecro
+
+'''Total Bills Introduced:''' 180<br />
+'''Passed:''' 0<br />
+'''Rejected:''' 136<br />
+'''Vetoed:''' 16<br />
+'''Rescinded:''' 24<br />
+'''Repealed:''' 2<br />
+'''Redundant:''' 2
+
+<span id="january-1"></span>
+== JANUARY ==
+
+'''11 Bills Introduced'''<br />
+'''Passed:''' 0<br />
+'''Rejected:''' 6<br />
+'''Vetoed:''' 2<br />
+'''Rescinded:''' 3<br />
+'''Repealed:''' 0<br />
+'''Redundant:''' 0
+
+<span id="fair-compensation-act-1"></span>
+=== Fair Compensation Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Psypio
+* '''Bill introduction date:''' Jan 11, 2023
+* '''Purpose:''' Gradually Increase the Minimum Commission to 70%
+
+<span id="criminal-roleplay-reform-act-crra-1"></span>
+=== Criminal Roleplay Reform Act (CRRA) ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' Jan 11, 2023
+* '''Purpose:''' Encourage Criminal Roleplay
+
+<span id="business-corporations-definition-and-regulation-act-1"></span>
+=== Business Corporations Definition and Regulation Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' AsunaYuukiSAO
+* '''Bill introduction date:''' Jan 12, 2023
+* '''Purpose:''' [rescinded]
+
+<span id="land-reclamation-act-1"></span>
+=== Land Reclamation Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' Jan 13, 2023
+* '''Purpose:''' Encourage Players to Return to DC.
+
+<span id="repeal-minimum-commission-1"></span>
+=== Repeal Minimum Commission ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' BlogWorldExpo
+* '''Bill introduction date:''' Jan 14, 2023
+* '''Purpose:''' To Repeal Minimum Commission
+
+<span id="monetary-loss-act-1"></span>
+=== Monetary Loss Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' Jan 20, 2023
+* '''Purpose:''' Prevent courts from being exploited for a high amount of cash.
+
+<span id="application-time-bill-1"></span>
+=== Application Time Bill ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' Gertis
+* '''Bill introduction date:''' Jan 20, 2023
+* '''Purpose:''' Speed up application times
+
+<span id="rescinded-3"></span>
+=== [Rescinded] ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' Jan 24, 2023
+* '''Purpose:''' [Rescinded]
+
+<span id="residency-requirement-act-1"></span>
+=== Residency Requirement Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' RandomIntruder
+* '''Bill introduction date:''' Jan 24, 2023
+* '''Purpose:''' Require residency for citizens of Redmont
+
+<span id="wilderness-towns-act-1"></span>
+=== Wilderness Towns Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' AB6A5SI
+* '''Bill introduction date:''' Jan 27, 2023
+* '''Purpose:''' Establish a System for Wilderness Settlements​
+
+<span id="let-the-dct-decide-act-1"></span>
+=== Let the DCT Decide Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' RandomIntruder
+* '''Bill introduction date:''' Jan 29, 2023
+* '''Purpose:''' Let the DCT decide
+
+<span id="february-1"></span>
+== February ==
+
+'''16 Bills Introduced'''<br />
+'''Passed:''' 0<br />
+'''Rejected:''' 12<br />
+'''Vetoed:''' 1<br />
+'''Rescinded:''' 3<br />
+'''Repealed:''' 0<br />
+'''Redundant:''' 0
+
+<span id="rescinded-4"></span>
+=== [Rescinded] ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' Feb 4, 2023
+* '''Purpose:''' [Rescinded]
+
+<span id="town-tax-act-1"></span>
+=== Town Tax Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' AB6A5SI
+* '''Bill introduction date:''' Feb 5, 2023
+* '''Purpose:''' Help Increase Town Funding
+
+<span id="economic-planning-committee-act-1"></span>
+=== Economic Planning Committee Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Tonga1
+* '''Bill introduction date:''' Feb 7, 2023
+* '''Purpose:''' This will be a Committee that will plan a unified economic agenda so that no one will be left behind nor pushed out.
+
+<span id="real-estate-investment-trust-act-1"></span>
+=== Real Estate Investment Trust Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' AsunaYuukiSAO
+* '''Bill introduction date:''' Feb 7, 2023
+* '''Purpose:''' Create real estate investment trusts to help regulate real estate based investment organizations.
+
+<span id="corporations-act-1"></span>
+=== Corporations Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' AsunaYuukiSAO
+* '''Bill introduction date:''' Feb 7, 2023
+* '''Purpose:''' Define and regulate corporations in Redmont in more detail to promote the creation of more robust and complex corporations.
+
+<span id="partnership-act-1"></span>
+=== Partnership Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' AsunaYuukiSAO
+* '''Bill introduction date:''' Feb 7, 2023
+* '''Purpose:''' Define partnerships and types of partnerships in the context of Redmont.
+
+<span id="trespassing-and-theft-offense-amendment-act-1"></span>
+=== Trespassing and Theft Offense Amendment Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' ko531
+* '''Bill introduction date:''' Feb 8, 2023
+* '''Purpose:''' Amend The Trespassing and Theft Offense Act
+
+<span id="reasonable-judicial-activity-act-1"></span>
+=== Reasonable Judicial Activity Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' nnmc
+* '''Bill introduction date:''' Feb 12, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="fix-the-empty-city-act-1"></span>
+=== Fix the Empty City Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' Feb 13, 2023
+* '''Purpose:''' Amend the Property Standards Act
+
+<span id="commission-expansion-amendment-act-1"></span>
+=== Commission Expansion Amendment Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Izzibaby
+* '''Bill introduction date:''' Feb 14, 2023
+* '''Purpose:''' Amend the Commission Expansion Act of 2021
+
+<span id="judicial-rights-expansion-act-1"></span>
+=== Judicial Rights Expansion Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' ElainaThomas29
+* '''Bill introduction date:''' Feb 17, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="resisting-arrest-clarification-act-1"></span>
+=== Resisting Arrest Clarification Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' pepper5980
+* '''Bill introduction date:''' Feb 24, 2023
+* '''Purpose:''' Clarify Resisting Arrest to include Invisibility and not coming to spawn
+
+<span id="aac-clarification-act-1"></span>
+=== AAC Clarification Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' pepper5980
+* '''Bill introduction date:''' Feb 24, 2023
+* '''Purpose:''' Clarify the Meanings of Accomplice, Accessory, and Conspiracy
+
+<span id="rescinded-5"></span>
+=== [Rescinded] ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' Feb 25, 2023
+* '''Purpose:''' [Rescinded]
+
+<span id="mandatory-senate-confirmation-hearing-act-1"></span>
+=== Mandatory Senate Confirmation Hearing Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' Feb 26, 2023
+* '''Purpose:''' Amend the legislative standards act
+
+<span id="extortion-act-of-2023-1"></span>
+=== Extortion Act of 2023 ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' pepper5980
+* '''Bill introduction date:''' Feb 28, 2023
+* '''Purpose:''' Make Extortion a Crime
+
+<span id="march-1"></span>
+== March ==
+
+'''13 Bills Introduced''' '''Passed:''' 0<br />
+'''Rejected:''' 11<br />
+'''Vetoed:''' 1<br />
+'''Rescinded:''' 0<br />
+'''Repealed:''' 1<br />
+'''Redundant:''' 0
+
+<span id="congressional-inactivity-act-1"></span>
+=== Congressional Inactivity Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Izzibaby
+* '''Bill introduction date:''' Mar 14, 2023
+* '''Purpose:''' Enact the Congressional Inactivity Act to reduce inactivity within Congressional Chambers.
+
+<span id="budget-tracking-act-1"></span>
+=== Budget Tracking Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' Izzibaby
+* '''Bill introduction date:''' Mar 14, 2023
+* '''Purpose:''' Properly keep track of Departments’ Spending Habits in reference to their budget assigned.
+
+<span id="pet-freedom-act-1"></span>
+=== Pet Freedom Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Mar 15, 2023
+* '''Purpose:''' Protect pets and establish private animal shelters.​
+
+<span id="redmont-tax-code-1"></span>
+=== Redmont Tax Code ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' xLayzur
+* '''Bill introduction date:''' Mar 15, 2023
+* '''Purpose:''' Structure a proper Tax Code within The Commonwealth of Redmont
+
+<span id="ftgwop-national-treasure-act-1"></span>
+=== FTGWop National Treasure Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Mar 16, 2023
+* '''Purpose:''' Classify Player FTGWop as a National Treasure
+
+<span id="ethics-commission-act-1"></span>
+=== Ethics Commission Act ===
+
+* '''Status:''' Repealed
+* '''Publisher:''' nanicholls
+* '''Bill introduction date:''' Mar 16, 2023
+* '''Purpose:''' Establish a Redmont Office of Ethics
+
+<span id="bring-back-dcbids-act-1"></span>
+=== Bring Back DCBids Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Mar 16, 2023
+* '''Purpose:''' Re-establish DCBids​
+
+<span id="repeal-commission-expansion-act-of-2021-1"></span>
+=== Repeal Commission Expansion Act of 2021 ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Vernicia
+* '''Bill introduction date:''' Mar 23, 2023
+* '''Purpose:''' Repeal Commission Expansion Act of 2021
+
+<span id="my-house-my-castle-act-1"></span>
+=== My House My Castle Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Vernicia
+* '''Bill introduction date:''' Mar 24, 2023
+* '''Purpose:''' Make your house your Castle
+
+<span id="respect-my-authoritah-act-1"></span>
+=== Respect My Authoritah Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Vernicia
+* '''Bill introduction date:''' Mar 24, 2023
+* '''Purpose:''' Arm DoJ
+
+<span id="mass-murder-act-1"></span>
+=== Mass Murder Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Mar 24, 2023
+* '''Purpose:''' Create the crime of Mass Murder
+
+<span id="new-player-fraud-clarification-act-1"></span>
+=== New Player Fraud Clarification Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Mar 28, 2023
+* '''Purpose:''' Prevent Loopholes of New Player Fraud
+
+<span id="inflation-reduction-act-1"></span>
+=== Inflation Reduction Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' nanicholls
+* '''Bill introduction date:''' Mar 29, 2023
+* '''Purpose:''' Control Rapidly Increasing Inflation
+
+<span id="april-1"></span>
+== April ==
+
+'''9 Bills Introduced''' '''Passed:''' 0<br />
+'''Rejected:''' 5<br />
+'''Vetoed:''' 0<br />
+'''Rescinded:''' 4<br />
+'''Repealed:''' 0<br />
+'''Redundant:''' 0
+
+<span id="substances-act-1"></span>
+=== Substances Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' AB6A5SI
+* '''Bill introduction date:''' Apr 2, 2023
+* '''Purpose:''' Outlaw Harmful Substances
+
+<span id="resisting-arrest-act-1"></span>
+=== Resisting Arrest Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Apr 2, 2023
+* '''Purpose:''' Amend the Miscellaneous Offences Act
+
+<span id="murder-wanted-point-expiration-act-2"></span>
+=== Murder Wanted Point Expiration Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Apr 8, 2023
+* '''Purpose:''' Expire wanted points of murder after 6 hours of playtime
+
+<span id="too-many-empty-plots-act-12-1"></span>
+=== Too Many Empty Plots Act 1/2 ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Pugsy
+* '''Bill introduction date:''' Apr 10, 2023
+* '''Purpose:''' Amend the Property Standards Act
+
+<span id="too-many-empty-plots-act-22-1"></span>
+=== Too Many Empty Plots Act (2/2) ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' nanicholls
+* '''Bill introduction date:''' Apr 10, 2023
+* '''Purpose:''' Amend the Taxation Act
+
+<span id="reasonable-health-act-1"></span>
+=== Reasonable Health Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' Tonga1
+* '''Bill introduction date:''' Apr 11, 2023
+* '''Purpose:''' Help the Doctor role be more valuable instead of just being there to give cures out
+
+<span id="murder-wanted-point-expiration-act-3"></span>
+=== Murder Wanted Point Expiration Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Apr 13, 2023
+* '''Purpose:''' Expire wanted points of murder after 1 hour of playtime
+
+<span id="secretary-application-requirements-act-1"></span>
+=== Secretary Application Requirements Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Apr 18, 2023
+* '''Purpose:''' Allow secretaries to change application requirements for government jobs of their respective department
+
+<span id="free-public-transport-act-2"></span>
+=== Free Public Transport Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Apr 23, 2023
+* '''Purpose:''' Make the cost of public transport free
+
+<span id="may-1"></span>
+== MAY ==
+
+'''17 Bills Introduced'''<br />
+'''Passed:''' 0<br />
+'''Rejected:''' 15<br />
+'''Vetoed:''' 1<br />
+'''Rescinded:''' 1<br />
+'''Repealed:''' 0<br />
+'''Redundant:''' 0
+
+<span id="kidnapping-act-1"></span>
+=== Kidnapping Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' May 1, 2023
+* '''Purpose:''' Amend the Violent Offences Act​
+
+<span id="censure-limitation-act-1"></span>
+=== Censure Limitation Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' May 1, 2023
+* '''Purpose:''' Amend the LSA to fix censure loopholes.​
+
+<span id="arrest-wanted-players-1"></span>
+=== Arrest Wanted Players ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' May 11, 2023
+* '''Purpose:''' Make it illegal to not arrest wanted players
+
+<span id="residential-adjustment-act-1"></span>
+=== Residential Adjustment Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' v__d
+* '''Bill introduction date:''' May 12, 2023
+* '''Purpose:''' Allow players to own 4 homes.
+
+<span id="fix-the-legislature-act-1"></span>
+=== Fix the Legislature Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' May 13, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="renaming-sus-secretaries-1"></span>
+=== Renaming Sus Secretaries ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' AB6A5SI
+* '''Bill introduction date:''' May 15, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="cheaper-dealership-vehicles-act-1"></span>
+=== Cheaper Dealership Vehicles Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' May 17, 2023
+* '''Purpose:''' make the vehicles at the dealership cheaper
+
+<span id="amend-the-legislative-standards-act-1"></span>
+=== Amend the Legislative Standards Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Aladeen
+* '''Bill introduction date:''' May 17, 2023
+* '''Purpose:''' Amend the Legislative Standards Act
+
+<span id="budget-priority-act-1"></span>
+=== Budget Priority Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' May 19, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="reformed-foundation-of-contract-law-act-1"></span>
+=== Reformed Foundation of Contract Law Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' andreasp15
+* '''Bill introduction date:''' May 19, 2023
+* '''Purpose:''' Reform the Foundation of Contract Law Act
+
+<span id="new-player-demilitarization-amendment-act-1"></span>
+=== New Player Demilitarization Amendment Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' andreasp15
+* '''Bill introduction date:''' May 19, 2023
+* '''Purpose:''' Amend New Player Demilitarization Act
+
+<span id="dc-government-plots-act-1"></span>
+=== DC Government Plots Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' May 20, 2023
+* '''Purpose:''' start the selling of plots still owned by the government
+
+<span id="rentable-utility-blocks-act-1"></span>
+=== Rentable Utility Blocks Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' May 20, 2023
+* '''Purpose:''' create rentable utility blocks
+
+<span id="free-public-transport-act-3"></span>
+=== Free Public Transport Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' May 25, 2023
+* '''Purpose:''' Make our public transport free
+
+<span id="protect-the-wild-towns-act-1"></span>
+=== Protect the Wild Towns Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' May 26, 2023
+* '''Purpose:''' Make protection for the wild towns
+
+<span id="judicial-adjustment-act-1"></span>
+=== Judicial Adjustment Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Rurge
+* '''Bill introduction date:''' May 30, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="prison-escape-act-1"></span>
+=== Prison Escape Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' Justa_Dumpling
+* '''Bill introduction date:''' May 31, 2023
+* '''Purpose:''' Prison Escape Act
+
+<span id="june-1"></span>
+== JUNE ==
+
+'''22 Bills Introduced''' '''Passed:''' 0<br />
+'''Rejected:''' 17<br />
+'''Vetoed:''' 0<br />
+'''Rescinded:''' 4<br />
+'''Repealed:''' 1<br />
+'''Redundant:''' 0
+
+<span id="fit-act-amendment-1"></span>
+=== FIT Act Amendment ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' crytiee
+* '''Bill introduction date:''' Jun 1, 2023
+* '''Purpose:''' Improve the Financial Institutions Tax Act Amendment with common sense.
+
+<span id="companies-act-1"></span>
+=== Companies Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' Jun 6, 2023
+* '''Purpose:''' Make it easier for new companies to be successful
+
+<span id="employee-act-1"></span>
+=== Employee Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' Jun 6, 2023
+* '''Purpose:''' Make it easier and better to hire employees
+
+<span id="suspended-punishment-act-1"></span>
+=== Suspended Punishment Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' Jun 8, 2023
+* '''Purpose:''' To Establish the Suspended Punishment System.
+
+<span id="farmers-act-1"></span>
+=== Farmers Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' Jun 8, 2023
+* '''Purpose:''' Make better it better for our farmers
+
+<span id="wild-bases-update-act-1"></span>
+=== Wild Bases Update Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' v__d
+* '''Bill introduction date:''' Jun 9, 2023
+* '''Purpose:''' Wild bases shouldn’t be close to each other
+
+<span id="creating-villages-act-1"></span>
+=== Creating Villages Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' Jun 9, 2023
+* '''Purpose:''' Create villages in the Reveille world
+
+<span id="voting-information-protection-act-1"></span>
+=== Voting Information Protection Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Aladeen
+* '''Bill introduction date:''' Jun 9, 2023
+* '''Purpose:''' Prohibit the Disclosure of Voting Information
+
+<span id="perjury-expansion-act-1"></span>
+=== Perjury Expansion Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Bibsfi4a
+* '''Bill introduction date:''' Jun 10, 2023
+* '''Purpose:''' Amend the Corruption and Espionage Offenses Act and expand the definition of Perjury.
+
+<span id="renters-rights-act-1"></span>
+=== Renters Rights Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' nanicholls
+* '''Bill introduction date:''' Jun 10, 2023
+* '''Purpose:''' Protect the Rights of parties in a Rental Agreement
+
+<span id="lowering-members-of-hor-act-1"></span>
+=== Lowering Members of HoR Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' andreasp15
+* '''Bill introduction date:''' Jun 17, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="wild-plot-increase-act-1"></span>
+=== Wild Plot Increase Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' andreasp15
+* '''Bill introduction date:''' Jun 18, 2023
+* '''Purpose:''' Amend the Third WAP Act
+
+<span id="harsher-presidential-requirements-act-1"></span>
+=== Harsher Presidential Requirements Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' andreasp15
+* '''Bill introduction date:''' Jun 18, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="term-limits-act-1"></span>
+=== Term Limits Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' andreasp15
+* '''Bill introduction date:''' Jun 18, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="banking-act-2"></span>
+=== Banking Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' nanicholls
+* '''Bill introduction date:''' Jun 21, 2023
+* '''Purpose:''' Consolidate financial laws
+
+<span id="residential-revamp-act-2"></span>
+=== Residential Revamp Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' nanicholls
+* '''Bill introduction date:''' Jun 21, 2023
+* '''Purpose:''' Amend the Property Standards Act​
+
+<span id="back-in-black-act-2"></span>
+=== Back in Black Act ===
+
+* '''Status:''' Repealed
+* '''Publisher:''' nanicholls
+* '''Bill introduction date:''' Jun 21, 2023
+* '''Purpose:''' Amend Financial Institution Taxation and the Taxation Act​
+
+<span id="grammarly-act-1"></span>
+=== Grammarly Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Jun 22, 2023
+* '''Purpose:''' Amend the LSA​
+
+<span id="modified-organization-act-1"></span>
+=== Modified Organization Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Jun 22, 2023
+* '''Purpose:''' Amend the Legislative Standards Act​
+
+<span id="no-medical-and-health-offense-act-1"></span>
+=== No Medical and Health Offense Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' Jun 29, 2023
+* '''Purpose:''' Amend the Health and Medical offense act
+
+<span id="let-corporations-vote-act-1"></span>
+=== Let Corporations Vote Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' Jun 29, 2023
+* '''Purpose:''' create so that corporations also can vote
+
+<span id="lower-the-bank-robbery-fine-act-2"></span>
+=== Lower the Bank Robbery Fine Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Jun 30, 2023
+* '''Purpose:''' Lower the fine for Bank Robbery​
+
+<span id="july-1"></span>
+== JULY ==
+
+'''24 Bills Introduced''' '''Passed:''' 0<br />
+'''Rejected:''' 16<br />
+'''Vetoed:''' 3<br />
+'''Rescinded:''' 5<br />
+'''Repealed:''' 0<br />
+'''Redundant:''' 0
+
+<span id="private-police-forces-act-1"></span>
+=== Private Police Forces Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' FTGWop
+* '''Bill introduction date:''' Jul 1, 2023
+* '''Purpose:''' Create private police forces
+
+<span id="july-2023-budget-proposal-1"></span>
+=== July 2023 Budget Proposal ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' v__d
+* '''Bill introduction date:''' Jul 2, 2023
+* '''Purpose:''' Propose a Budget for the Month of July
+
+<span id="july-2023-budget-reproposal-1"></span>
+=== July 2023 Budget “Reproposal” ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' v__d
+* '''Bill introduction date:''' Jul 3, 2023
+* '''Purpose:''' Fix the Budget for the Month of July
+
+<span id="witnesses-are-evidence-too-act-1"></span>
+=== Witnesses Are Evidence Too Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' bigpappa140
+* '''Bill introduction date:''' Jul 14, 2023
+* '''Purpose:''' Allow Witness Testimony in DOJ Tickets
+
+<span id="chip-vanity-repeal-act-1"></span>
+=== Chip Vanity Repeal Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Jul 16, 2023
+* '''Purpose:''' Amend the Legislative Standards Act
+
+<span id="repeal-the-free-public-transport-act-1"></span>
+=== Repeal the Free Public Transport Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Jul 17, 2023
+* '''Purpose:'''
+
+<span id="residential-revamp-act-3"></span>
+=== Residential Revamp Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' huney69
+* '''Bill introduction date:''' Jul 17, 2023
+* '''Purpose:''' Repeal the Free Public Transport Act
+
+<span id="recognition-act-1"></span>
+=== Recognition Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' v__d
+* '''Bill introduction date:''' Jul 18, 2023
+* '''Purpose:''' Recognize National Service and Greatness​
+
+<span id="repeal-stupid-laws-act-1"></span>
+=== Repeal Stupid Laws Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' v__d
+* '''Bill introduction date:''' Jul 19, 2023
+* '''Purpose:''' Clean up the laws a bit
+
+<span id="deported-tax-act-1"></span>
+=== Deported Tax Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' steveshat
+* '''Bill introduction date:''' Jul 19, 2023
+* '''Purpose:''' Stop the Taxation of Deported Citizens​
+
+<span id="buff-illegalization-act-1"></span>
+=== Buff Illegalization Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' bigpappa140
+* '''Bill introduction date:''' Jul 19, 2023
+* '''Purpose:''' Amend the Illicit Trafficking Offences Act
+
+<span id="bonus-busting-act-1"></span>
+=== Bonus Busting Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' Intercepticon
+* '''Bill introduction date:''' Jul 21, 2023
+* '''Purpose:''' Prohibit Bonuses
+
+<span id="back-in-black-act-3"></span>
+=== Back in Black Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Jul 25, 2023
+* '''Purpose:''' Amend Financial Institution Taxation and the Taxation Act​
+
+<span id="banking-act-3"></span>
+=== Banking Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Jul 25, 2023
+* '''Purpose:''' Consolidate financial laws​
+
+<span id="the-crb-abolition-act-1"></span>
+=== The CRB Abolition Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Krix
+* '''Bill introduction date:''' Jul 26, 2023
+* '''Purpose:''' Abolish the Commonwealth Reserve Bank
+
+<span id="anti-authoritarian-constitutional-amendment-act-1"></span>
+=== Anti Authoritarian Constitutional Amendment Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Krix
+* '''Bill introduction date:''' Jul 26, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="government-activity-act-3"></span>
+=== Government Activity Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' shadownba
+* '''Bill introduction date:''' Jul 26, 2023
+* '''Purpose:''' Make elected officials active
+
+<span id="judicial-fix-act-1"></span>
+=== Judicial Fix Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' huney69
+* '''Bill introduction date:''' Jul 27, 2023
+* '''Purpose:''' Amend the Constitution and the Judicial Standards Act
+
+<span id="crb-delete-act-1"></span>
+=== CRB Delete Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Jul 27, 2023
+* '''Purpose:''' Remove the Commonwealth Reserve Bank
+
+<span id="establish-guards-act-1"></span>
+=== Establish Guards Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' shadownba
+* '''Bill introduction date:''' Jul 27, 2023
+* '''Purpose:''' Establish guards to our jail
+
+<span id="dump-ubi-act-1"></span>
+=== Dump UBI Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Jul 27, 2023
+* '''Purpose:''' Repeal the Universal Basic Income Act​
+
+<span id="trademark-act-1"></span>
+=== Trademark Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' shadownba
+* '''Bill introduction date:''' Jul 28, 2023
+* '''Purpose:''' Give players the option to trademark their business name.
+
+<span id="threats-act-1"></span>
+=== Threats Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' shadownba
+* '''Bill introduction date:''' Jul 30, 2023
+* '''Purpose:''' Get a player fined if they makes a threat to kill a player
+
+<span id="government-activity-act-4"></span>
+=== Government Activity Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Rory
+* '''Bill introduction date:''' Jul 31, 2023
+* '''Purpose:''' Make elected officials active
+
+<span id="august-1"></span>
+== AUGUST ==
+
+'''7 Bills Introduced''' '''Passed:''' 0<br />
+'''Rejected:''' 5<br />
+'''Vetoed:''' 1<br />
+'''Rescinded:''' 1<br />
+'''Repealed:''' 0<br />
+'''Redundant:''' 0
+
+<span id="cbd-regulation-act-1"></span>
+=== CBD Regulation Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' steveshat
+* '''Bill introduction date:''' Aug 2, 2023
+* '''Purpose:''' Define and regulate inactive businesses in CBD plots​
+
+<span id="hamilton-roads-act-1"></span>
+=== Hamilton Roads Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Aug 7, 2023
+* '''Purpose:''' Rescind the Roads Act​
+
+<span id="criminal-negligence-act-1"></span>
+=== Criminal Negligence Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' steveshat
+* '''Bill introduction date:''' Aug 8, 2023
+* '''Purpose:'''
+
+<span id="heritage-act-1"></span>
+=== Heritage Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' steveshat
+* '''Bill introduction date:''' Aug 12, 2023
+* '''Purpose:''' Amend The Corruption and Espionage Offenses Act​
+
+<span id="animal-murder-amendment-act-1"></span>
+=== Animal Murder Amendment Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' bigpappa140
+* '''Bill introduction date:''' Aug 13, 2023
+* '''Purpose:''' Amend the Animal &amp; Pet Offences Act
+
+<span id="reit-formation-act-1"></span>
+=== REIT Formation Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Aug 18, 2023
+* '''Purpose:''' Establish a Real Estate Investment Trust (REIT)
+
+<span id="event-actions-act-1"></span>
+=== Event Actions Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' shadownba
+* '''Bill introduction date:''' Aug 20, 2023
+* '''Purpose:''' Add a minimum of 2 police officers at an event and include massive fines
+
+<span id="september-1"></span>
+== SEPTEMBER ==
+
+'''15 Bills Introduced'''<br />
+'''Passed:''' 0<br />
+'''Rejected:''' 13<br />
+'''Vetoed:''' 2<br />
+'''Rescinded:''' 0<br />
+'''Repealed:''' 0<br />
+'''Redundant:''' 0
+
+<span id="unorganization-act-1"></span>
+=== Unorganization Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Sep 13, 2023
+* '''Purpose:''' Repeal the Organization Act​
+
+<span id="the-dec-act-1"></span>
+=== The DEC Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Sep 13, 2023
+* '''Purpose:''' Bring Back the DEC​
+
+<span id="a-safer-safety-act-1"></span>
+=== A Safer Safety Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Sep 14, 2023
+* '''Purpose:''' Define and Establish Safe Zones​
+
+<span id="government-activity-act-5"></span>
+=== Government Activity Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' shadownba
+* '''Bill introduction date:''' Sep 14, 2023
+* '''Purpose:''' Make elected officials active
+
+<span id="city-council-2.0-resolution-1"></span>
+=== City Council 2.0 Resolution ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Sep 14, 2023
+* '''Purpose:''' Create a City Council of Reveille​
+
+<span id="stop-recognizing-vindex-resolution-1"></span>
+=== Stop Recognizing Vindex Resolution ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Sep 14, 2023
+* '''Purpose:''' Stop Recognizing Vindex Nation​
+
+<span id="constitutional-amendment-workers-rights-act-2023-cawr-act-2023-1"></span>
+=== Constitutional Amendment (Workers Rights) Act 2023 (CAWR Act 2023) ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' 1950Minecrafter
+* '''Bill introduction date:''' Sep 15, 2023
+* '''Purpose:''' Amend the Constitution​
+
+<span id="congress-members-wage-decrease-resolution-2023-cwd-resolution-2023-1"></span>
+=== Congress Members’ Wage Decrease Resolution 2023 (CWD Resolution 2023) ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' 1950Minecrafter
+* '''Bill introduction date:''' Sep 15, 2023
+* '''Purpose:''' Lower the Congress Members’ Wages​
+
+<span id="motion-of-referendum-act-2023-mor-act-2023-1"></span>
+=== Motion of Referendum Act 2023 (MoR Act 2023) ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' 1950Minecrafter
+* '''Bill introduction date:''' Sep 15, 2023
+* '''Purpose:''' Amend the Legislative Standards Act​
+
+<span id="residential-plot-height-limit-act-2023-rphl-act-2023-1"></span>
+=== Residential Plot Height Limit Act 2023 (RPHL Act 2023) ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' 1950Minecrafter
+* '''Bill introduction date:''' Sep 15, 2023
+* '''Purpose:''' Amend the Property Standards Act​
+
+<span id="skys-the-limit-resolution-1"></span>
+=== Sky’s the Limit Resolution ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Sep 15, 2023
+* '''Purpose:''' Promote the termination of Secretary Skywat4​
+
+<span id="balance-tax-reduction-act-1"></span>
+=== Balance Tax Reduction Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Sep 18, 2023
+* '''Purpose:''' Reduce Personal &amp; Corporate Balance Taxes​
+
+<span id="minimum-rent-act-1"></span>
+=== Minimum Rent Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Galavance
+* '''Bill introduction date:''' Sep 19, 2023
+* '''Purpose:''' To Introduce Minimum Rent
+
+<span id="town-update-act-1"></span>
+=== Town Update Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' shadownba
+* '''Bill introduction date:''' Sep 22, 2023
+* '''Purpose:''' Appoint Senators to Towns
+
+<span id="free-rental-unit-setup-act-1"></span>
+=== Free Rental Unit Setup Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Sep 30, 2023
+* '''Purpose:''' Repeal the Rental Unit Setup Fee Act​
+
+<span id="october-1"></span>
+== OCTOBER ==
+
+'''19 Bills Introduced''' '''Passed:''' 0<br />
+'''Rejected:''' 14<br />
+'''Vetoed:''' 2<br />
+'''Rescinded:''' 1<br />
+'''Repealed:''' 0<br />
+'''Redundant:''' 2
+
+<span id="jail-activities-limitation-act-2"></span>
+=== Jail Activities Limitation Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Oct 7, 2023
+* '''Purpose:''' Amend the Jail Activities Act​
+
+<span id="commercial-standards-act-3"></span>
+=== Commercial Standards Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Oct 10, 2023
+* '''Purpose:''' Establish a standards act for business
+
+<span id="four-more-months-act-1"></span>
+=== Four More Months Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Oct 11, 2023
+* '''Purpose:''' Amend the Constitution​
+
+<span id="no-presidents-in-congress-allowed-act-1"></span>
+=== No Presidents in Congress Allowed Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' 1950Minecrafter
+* '''Bill introduction date:''' Oct 17, 2023
+* '''Purpose:''' Amend the Constitution​
+
+<span id="capitalism-amendment-act-1"></span>
+=== Capitalism Amendment Act ===
+
+* '''Status:''' Redundant
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Oct 17, 2023
+* '''Purpose:''' Fix conflicting Acts in our Government​
+
+<span id="commercial-standards-act-4"></span>
+=== Commercial Standards Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Oct 20, 2023
+* '''Purpose:''' Establish a standards act for business
+
+<span id="town-representation-act-1"></span>
+=== Town Representation Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' shadownba
+* '''Bill introduction date:''' Oct 22, 2023
+* '''Purpose:''' Appoint Senators to Towns
+
+<span id="committees-are-broken-act-3"></span>
+=== Committees are Broken Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' PandaL0g1c
+* '''Bill introduction date:''' Oct 24, 2023
+* '''Purpose:''' Amend the Legislative Standards Act
+
+<span id="stromboli-act-2"></span>
+=== Stromboli Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Oct 24, 2023
+* '''Purpose:''' Amend the Electoral Act​
+
+<span id="jail-activity-limit-act-1"></span>
+=== Jail Activity Limit Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Anthony
+* '''Bill introduction date:''' Oct 24, 2023
+* '''Purpose:''' Amend the Jail Activities Act​
+
+<span id="universal-basic-income-increase-act-1"></span>
+=== Universal Basic Income Increase Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' itsBlazeX
+* '''Bill introduction date:''' Oct 26, 2023
+* '''Purpose:''' Increase Universal Basic Income​
+
+<span id="testing-act-1"></span>
+=== Testing Act ===
+
+* '''Status:''' Redundant
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Oct 27, 2023
+* '''Purpose:''' Test
+
+<span id="referendum-act-1"></span>
+=== Referendum Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' 1950Minecrafter
+* '''Bill introduction date:''' Oct 28, 2023
+* '''Purpose:''' Amend the Legislative Standards Act​
+
+<span id="congressional-wages-act-1"></span>
+=== Congressional Wages Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' 1950Minecrafter
+* '''Bill introduction date:''' Oct 28, 2023
+* '''Purpose:''' Amend the Economic Standards Act​
+
+<span id="height-limit-act-1"></span>
+=== Height Limit Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' 1950Minecrafter
+* '''Bill introduction date:''' Oct 28, 2023
+* '''Purpose:''' Amend the Property Standards Act​
+
+<span id="workers-rights-act-1"></span>
+=== Workers Rights Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' 1950Minecrafter
+* '''Bill introduction date:''' Oct 28, 2023
+* '''Purpose:''' Amend the Constitution​
+
+<span id="no-more-kidnapping-act-1"></span>
+=== No More Kidnapping Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Anthony
+* '''Bill introduction date:''' Oct 28, 2023
+* '''Purpose:''' Amend the Violent Offenses Act​
+
+<span id="arrest-on-private-property-act-1"></span>
+=== Arrest On Private Property Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Anthony
+* '''Bill introduction date:''' Oct 28, 2023
+* '''Purpose:''' Make arrests on citizen’s property illegal.​
+
+<span id="new-player-retention-act-1"></span>
+=== New Player Retention Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Snowy_Heart
+* '''Bill introduction date:''' Oct 28, 2023
+* '''Purpose:''' Increase new player retention and integration into the server.​
+
+<span id="november-1"></span>
+== NOVEMBER ==
+
+'''9 Bills Introduced'''<br />
+'''Passed:''' 0<br />
+'''Rejected:''' 9<br />
+'''Vetoed:''' 0<br />
+'''Rescinded:''' 0<br />
+'''Repealed:''' 0<br />
+'''Redundant:''' 0
+
+<span id="no-christmas-before-december-act-1"></span>
+=== No Christmas Before December Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Anthony
+* '''Bill introduction date:''' Nov 3, 2023
+* '''Purpose:''' Limit when Christmas decorations can be pasted​
+
+<span id="the-thwack-act-1"></span>
+=== The Thwack Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Snowy_Heart
+* '''Bill introduction date:''' Nov 24, 2023
+* '''Purpose:''' Amend the Electoral Act
+
+<span id="jail-time-removal-limit-act-1"></span>
+=== Jail Time Removal Limit Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Anthony
+* '''Bill introduction date:''' Nov 24, 2023
+* '''Purpose:''' Amend the Jail Activities Act​
+
+<span id="stromboli-act-3"></span>
+=== Stromboli Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Nov 25, 2023
+* '''Purpose:''' Amend the Electoral Act &amp; the Constitution​
+
+<span id="freedom-of-knowledge-act-1"></span>
+=== Freedom of Knowledge Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' YeetBoy1872325
+* '''Bill introduction date:''' Nov 26, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="arm-doj-act-1"></span>
+=== Arm DOJ Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Nov 26, 2023
+* '''Purpose:''' Arm the Department of Justice
+
+<span id="commercial-standards-act-5"></span>
+=== Commercial Standards Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Nov 29, 2023
+* '''Purpose:''' Establish a standards act for business
+
+<span id="no-more-contradictions-act-1"></span>
+=== No More Contradictions Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Nov 30, 2023
+* '''Purpose:''' Amend the Judicial Fix Act and Amend the Constitution
+
+<span id="committees-are-broken-act-4"></span>
+=== Committees are Broken Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Nov 30, 2023
+* '''Purpose:''' Amend the Legislative Standards Act
+
+<span id="december-1"></span>
+== DECEMBER ==
+
+'''18 Bills Introduced:''' '''Passed:''' 0<br />
+'''Rejected:''' 13<br />
+'''Vetoed:''' 3<br />
+'''Rescinded:''' 2<br />
+'''Repealed:''' 0<br />
+'''Redundant:''' 0
+
+<span id="gimme-information-act-1"></span>
+=== Gimme Information Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Dec 1, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="leave-no-rivers-incompleted-act-1"></span>
+=== Leave No Rivers Incompleted Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Dec 1, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="this-right-is-useless-act-1"></span>
+=== This Right is Useless Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Dec 1, 2023
+* '''Purpose:''' Amend the Constitution
+
+<span id="this-is-never-gonna-happen-but-never-say-never-act-1"></span>
+=== This Is Never Gonna Happen But Never Say Never Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' zLost
+* '''Bill introduction date:''' Dec 2, 2023
+* '''Purpose:''' Amend the Legislative Standards Act
+
+<span id="naughty-government-act-1"></span>
+=== Naughty Government Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' End
+* '''Bill introduction date:''' Dec 18, 2023
+* '''Purpose:''' Clarify Punitive Charges against the Government and Amend the Executive Standards Act
+
+<span id="make-your-choice-act-1"></span>
+=== Make Your Choice Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Snowy_Heart
+* '''Bill introduction date:''' Dec 18, 2023
+* '''Purpose:''' Amend the Electoral Act
+
+<span id="with-great-power-act-1"></span>
+=== With Great Power Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' Snowy_Heart
+* '''Bill introduction date:''' Dec 18, 2023
+* '''Purpose:''' Define the Investigative Powers and Responsibilities of the DLA.
+
+<span id="in-game-elections-omnibus-act-1"></span>
+=== In Game Elections Omnibus Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' End
+* '''Bill introduction date:''' Dec 24, 2023
+* '''Purpose:''' Enable in-game voting and amend the Electoral Act, the Legislative Standards Act, and the Constitution
+
+<span id="lower-the-bank-robbery-fine-act-3"></span>
+=== Lower the Bank Robbery Fine Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Dec 25, 2023
+* '''Purpose:''' Lower the fine for Bank Robbery​
+
+<span id="endangered-species-act-1"></span>
+=== Endangered Species Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Dec 25, 2023
+* '''Purpose:''' Allow Mobs to become Endangered​
+
+<span id="jail-activities-limitation-act-3"></span>
+=== Jail Activities Limitation Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Dec 25, 2023
+* '''Purpose:''' Amend the Jail Activities Act​
+
+<span id="pie-act-1"></span>
+=== PIE Act ===
+
+* '''Status:''' Rescinded
+* '''Publisher:''' TheReal42Person
+* '''Bill introduction date:''' Dec 25, 2023
+* '''Purpose:''' Start the Process for Private Insurance Companies​
+
+<span id="committees-are-broken-act-5"></span>
+=== Committees are Broken Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' End
+* '''Bill introduction date:''' Dec 27, 2023
+* '''Purpose:''' Amend the Legislative Standards Act
+
+<span id="impeachment-act-1"></span>
+=== Impeachment Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' End
+* '''Bill introduction date:''' Dec 27, 2023
+* '''Purpose:''' Consolidate and protect the impeachment process and amend the constitution.
+
+<span id="appropriations-act---jan-2024-1"></span>
+=== Appropriations Act - JAN 2024 ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' GoldBlooded
+* '''Bill introduction date:''' Dec 28, 2023
+* '''Purpose:''' Propose a Budget for the Month of January​
+
+<span id="contracts-act-1"></span>
+=== Contracts Act ===
+
+* '''Status:''' Vetoed
+* '''Publisher:''' End
+* '''Bill introduction date:''' Dec 28, 2023
+* '''Purpose:''' Establish a better foundation for contract law.
+
+<span id="quorum-act-1"></span>
+=== Quorum Act ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' End
+* '''Bill introduction date:''' Dec 28, 2023
+* '''Purpose:''' Amend the Legislative Standards Act​
+
+<span id="doj-pay-per-arrest-resolution-1"></span>
+=== DOJ Pay Per Arrest Resolution ===
+
+* '''Status:''' Rejected
+* '''Publisher:''' CopTop
+* '''Bill introduction date:''' Dec 30, 2023
+* '''Purpose:''' To Change the DOJ’s Pay

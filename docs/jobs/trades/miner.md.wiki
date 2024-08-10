@@ -1,0 +1,115 @@
+<span id="miner"></span>
+= Miner =
+
+As a Miner, your main role is to mine ores, such as coal and netherite, and sell them. You can create a business or supply ores to other players.
+
+<div class="figure">
+
+[[File:https://media.discordapp.net/attachments/838356841217916989/1165972501935956008/2021-08-06_00.17.56.png?ex=6548cb83&is=65365683&hm=916234b2e78c97798f83a371ffd42868068598762be5b400de79260b7651b0db&=&width=1266&height=671|Image]]
+
+</div>
+<span id="what-miners-do"></span>
+== What Miners Do ==
+
+* Your primary task is mining various ores.
+* To start a mining business, you need to pass the Entrepreneur qualification exam.
+
+<span id="mining-made-easier"></span>
+== Mining Made Easier ==
+
+* You can speed up mining by purchasing a drilling vehicle from the Reveille Dealership (use /gps start revdealership).
+* There are no mining towns, you are able to mine in the wild however!
+
+<span id="getting-started-after-passing-the-exam"></span>
+== Getting Started After Passing the Exam ==
+
+* Consider buying a plot and setting up a store to sell your products.
+* Find available plots for sale/lease in the #realty-adverts section on our Discord.
+* You can also sell to businesses using <code>/find {item name}</code> or find a shop with a minecart or enderchest.
+* To gather resources, buy them from player shops or obtain them in the wild using /warp airport.
+
+<span id="miner-recipes"></span>
+== Miner Recipes ==
+
+<details>
+<summary>
+Click to view Miner Recipes
+</summary>
+* Amethyst block -&gt; 4 amethyst shards
+* Block of raw copper -&gt; block of copper (blast furnace; 900 ticks; 6.3xp)
+* Dripstone block -&gt; 2 pointed dripstone
+* Glowstone -&gt; 4 glowstone dust
+* Block of raw gold -&gt; block of gold (blast furnace; 900 ticks; 6.3xp)
+* Block of raw iron -&gt; iron block (blast furnace; 900 ticks; 6.3xp)
+* Magma block -&gt; 2 magma cream
+* 9 cobblestone -&gt; 1 gravel
+
+<div class="figure">
+
+[[File:https://www.democracycraft.net/attachments/calcite-png.32839/|Miner Recipes]]
+
+</div>
+</details>
+<span id="additional-resources"></span>
+== Additional Resources ==
+
+* To find more ways to make money, read the [https://wiki.democracycraft.net/government/money/ Making Money Guide].
+* You can explore job opportunities with DC #employment channel: [https://discord.gg/democracy DC Employment]
+
+<span id="miner-1"></span>
+= Miner =
+
+As a Miner, your main role is to mine ores, such as coal and netherite, and sell them. You can create a business or supply ores to other players.
+
+<div class="figure">
+
+[[File:https://media.discordapp.net/attachments/838356841217916989/1165972501935956008/2021-08-06_00.17.56.png?ex=6548cb83&is=65365683&hm=916234b2e78c97798f83a371ffd42868068598762be5b400de79260b7651b0db&=&width=1266&height=671|Image]]
+
+</div>
+<span id="what-miners-do-1"></span>
+== What Miners Do ==
+
+* Your primary task is mining various ores.
+* To start a mining business, you need to pass the Entrepreneur qualification exam.
+
+<span id="mining-made-easier-1"></span>
+== Mining Made Easier ==
+
+* You can speed up mining by purchasing a drilling vehicle from the Reveille Dealership (use /gps start revdealership).
+* There are no mining towns, you are able to mine in the wild however!
+
+<span id="getting-started-after-passing-the-exam-1"></span>
+== Getting Started After Passing the Exam ==
+
+* Consider buying a plot and setting up a store to sell your products.
+* Find available plots for sale/lease in the #realty-adverts section on our Discord.
+* You can also sell to businesses using <code>/find {item name}</code> or find a shop with a minecart or enderchest.
+* To gather resources, buy them from player shops or obtain them in the wild using /warp airport.
+
+<span id="miner-recipes-1"></span>
+== Miner Recipes ==
+
+<details>
+<summary>
+Click to view Miner Recipes
+</summary>
+* Amethyst block -&gt; 4 amethyst shards
+* Block of raw copper -&gt; block of copper (blast furnace; 900 ticks; 6.3xp)
+* Dripstone block -&gt; 2 pointed dripstone
+* Glowstone -&gt; 4 glowstone dust
+* Block of raw gold -&gt; block of gold (blast furnace; 900 ticks; 6.3xp)
+* Block of raw iron -&gt; iron block (blast furnace; 900 ticks; 6.3xp)
+* Magma block -&gt; 2 magma cream
+* 9 cobblestone -&gt; 1 gravel
+
+<div class="figure">
+
+[[File:https://www.democracycraft.net/attachments/calcite-png.32839/|Miner Recipes]]
+
+</div>
+</details>
+<span id="additional-resources-1"></span>
+== Additional Resources ==
+
+* To find more ways to make money, read the [https://wiki.democracycraft.net/government/money/ Making Money Guide].
+* You can explore job opportunities with DC #employment channel: [https://discord.gg/democracy DC Employment]

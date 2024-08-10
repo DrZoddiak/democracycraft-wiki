@@ -1,0 +1,273 @@
+<span id="commands"></span>
+= Commands =
+
+Welcome to the commands guide! Whether you’re a seasoned player or new to the server, this resource provides quick references for essential player commands. For commands that are specific to certain plugins, review the specific guide! Let’s dive in!
+
+<div class="figure">
+
+[[File:https://i.imgur.com/WXndBpT.png|Image]]
+
+</div>
+<span id="chat-commands"></span>
+== Chat Commands ==
+
+<code>/g</code> - switch to global chat.
+
+<code>/l</code> - switch to local chat.
+
+<code>/murmur</code> - switch to whisper chat.
+
+<code>/vc</code> - to talk to players in voice chat via text.
+
+<code>/msg &lt;user&gt; &lt;message&gt;</code> - send a direct message to someone.
+
+<code>/tell &lt;user&gt; &lt;message&gt;</code> - send a direct message to someone.
+
+<code>/r &lt;message&gt;</code> - reply to the player who just messaged you.
+
+<code>/mail send &lt;user&gt; &lt;message&gt;</code> - send mail to someone on or offline.
+
+<code>/ad &lt;message&gt;</code> - to send an ad in chat, please note you need to complete the entrepreneur exam to use. Note that there is a small fee to use this command.
+
+<code>/emoji</code> - see a list of emojis available to put in chat. Put them in chat using <code>:emoji_name:</code>
+
+:::tip Other Channels If you are a member of a government department or institution, chances are you may have additional channels to talk in. For example – - Members of the Department of Justice can speak in the <code>/doj</code> channel. - Members of the Senate can speak in the <code>/sen</code> channel. - Members of the courts can speak in the <code>/jud</code> channel. :::
+
+<span id="economy-commands"></span>
+== Economy Commands ==
+
+<code>/pay &lt;user&gt;</code> - send an user money.
+
+<code>/vote</code> - earn money by voting on serverlist sites.
+
+<code>/firm deposit &lt;company&gt; &lt;amount&gt;</code> - send a company money.
+
+<code>/firm sales &lt;company&gt;</code> - view your company chestshop sales.
+
+<code>/csn history</code> - view your personal chestshop sales.
+
+<code>/baltop</code> - view the top balance rankings.
+
+<code>/bal</code> - view your balance.
+
+<span id="job-commands"></span>
+== Job Commands ==
+
+<code>/guides</code> - learn more about the server.
+
+<code>/jobguides</code> - learn more about jobs.
+
+<code>/quitjob</code> - quit your regular job.
+
+<code>/quitprofession</code> - quit your professional job.
+
+<code>/about &lt;player&gt;</code> - view the player’s information and jobs.
+
+<code>/find &lt;item&gt;</code> - search for chestshops with the specified item.
+
+<span id="ticket-commands"></span>
+== Ticket Commands ==
+
+<code>/ticket</code> - open a ticket with staff :)
+
+<span id="location-commands"></span>
+== Location Commands ==
+
+<code>/coords</code> - to show the coordinates of where you are.
+
+<code>/sendcoords &lt;user&gt;</code> - send a direct message of your coordinates to someone.
+
+<code>/map</code> - link to the dynmap.
+
+<code>/gps start &lt;plot number&gt;</code> - to find directions to a specific plot number.
+
+<code>/find &lt;item&gt;</code> - search for chestshops with the specified item.
+
+<code>/home &lt;home name&gt;</code> - go to your set home
+
+<code>/spawn</code> - teleport to Spawn.
+
+<code>/spawn-north</code> - teleport to North Spawn.
+
+<code>/spawn-south</code> - teleport to South Spawn.
+
+<code>/spawn-university</code> or <code>university</code> - teleport to the University.
+
+<code>/spawn-airport</code> or <code>airport</code> - teleport to the Airport.
+
+<code>/spawn-willow</code> - teleport to Willow.
+
+<code>/spawn-aventura</code> - teleport to Aventura.
+
+<code>/spawn-oakridge</code> - teleport to Oakridge.
+
+<span id="general-commands"></span>
+== General Commands ==
+
+<code>/health</code> - learn about your health status.
+
+<code>/government</code> - link to list of government officials.
+
+<code>/constitution</code> - link to the constitution page.
+
+<code>/complaint</code> - to report a player to the police after being murdered.
+
+<code>/laws</code> - link to the rules and laws list.
+
+<code>/rules</code> - link to the rules and laws list.
+
+<code>/sit</code> - sit down.
+
+<code>/crawl</code> - lay down.
+
+<code>/about &lt;user&gt;</code> - view info such as playtime + jobs that you hold!
+
+<code>/plan register</code> - register to view your personal analytics, more information here.
+
+<code>/getresourcepack</code> - get a link to download the guns resource pack.
+
+<code>/cmodify</code> - allows you to change permission to your items such as chests and doors.
+
+<span id="department-commands"></span>
+== Department Commands ==
+
+Each department and government institutions have unique commands. You can find these commands by running the department/institution prefix and choosing commands from the tab options.
+
+:::info Example You are in the Department of Justice. You can view Department of Justice commands by typing <code>/doj</code> and selecting from tabbable commands. :::
+
+<span id="commands-1"></span>
+= Commands =
+
+Welcome to the commands guide! Whether you’re a seasoned player or new to the server, this resource provides quick references for essential player commands. For commands that are specific to certain plugins, review the specific guide! Let’s dive in!
+
+<div class="figure">
+
+[[File:https://i.imgur.com/WXndBpT.png|Image]]
+
+</div>
+<span id="chat-commands-1"></span>
+== Chat Commands ==
+
+<code>/g</code> - switch to global chat.
+
+<code>/l</code> - switch to local chat.
+
+<code>/murmur</code> - switch to whisper chat.
+
+<code>/vc</code> - to talk to players in voice chat via text.
+
+<code>/msg &lt;user&gt; &lt;message&gt;</code> - send a direct message to someone.
+
+<code>/tell &lt;user&gt; &lt;message&gt;</code> - send a direct message to someone.
+
+<code>/r &lt;message&gt;</code> - reply to the player who just messaged you.
+
+<code>/mail send &lt;user&gt; &lt;message&gt;</code> - send mail to someone on or offline.
+
+<code>/ad &lt;message&gt;</code> - to send an ad in chat, please note you need to complete the entrepreneur exam to use. Note that there is a small fee to use this command.
+
+<code>/emoji</code> - see a list of emojis available to put in chat. Put them in chat using <code>:emoji_name:</code>
+
+:::tip Other Channels If you are a member of a government department or institution, chances are you may have additional channels to talk in. For example – - Members of the Department of Justice can speak in the <code>/doj</code> channel. - Members of the Senate can speak in the <code>/sen</code> channel. - Members of the courts can speak in the <code>/jud</code> channel. :::
+
+<span id="economy-commands-1"></span>
+== Economy Commands ==
+
+<code>/pay &lt;user&gt;</code> - send an user money.
+
+<code>/vote</code> - earn money by voting on serverlist sites.
+
+<code>/firm deposit &lt;company&gt; &lt;amount&gt;</code> - send a company money.
+
+<code>/firm sales &lt;company&gt;</code> - view your company chestshop sales.
+
+<code>/csn history</code> - view your personal chestshop sales.
+
+<code>/baltop</code> - view the top balance rankings.
+
+<code>/bal</code> - view your balance.
+
+<span id="job-commands-1"></span>
+== Job Commands ==
+
+<code>/guides</code> - learn more about the server.
+
+<code>/jobguides</code> - learn more about jobs.
+
+<code>/quitjob</code> - quit your regular job.
+
+<code>/quitprofession</code> - quit your professional job.
+
+<code>/about &lt;player&gt;</code> - view the player’s information and jobs.
+
+<code>/find &lt;item&gt;</code> - search for chestshops with the specified item.
+
+<span id="ticket-commands-1"></span>
+== Ticket Commands ==
+
+<code>/ticket</code> - open a ticket with staff :)
+
+<span id="location-commands-1"></span>
+== Location Commands ==
+
+<code>/coords</code> - to show the coordinates of where you are.
+
+<code>/sendcoords &lt;user&gt;</code> - send a direct message of your coordinates to someone.
+
+<code>/map</code> - link to the dynmap.
+
+<code>/gps start &lt;plot number&gt;</code> - to find directions to a specific plot number.
+
+<code>/find &lt;item&gt;</code> - search for chestshops with the specified item.
+
+<code>/home &lt;home name&gt;</code> - go to your set home
+
+<code>/spawn</code> - teleport to Spawn.
+
+<code>/spawn-north</code> - teleport to North Spawn.
+
+<code>/spawn-south</code> - teleport to South Spawn.
+
+<code>/spawn-university</code> or <code>university</code> - teleport to the University.
+
+<code>/spawn-airport</code> or <code>airport</code> - teleport to the Airport.
+
+<code>/spawn-willow</code> - teleport to Willow.
+
+<code>/spawn-aventura</code> - teleport to Aventura.
+
+<code>/spawn-oakridge</code> - teleport to Oakridge.
+
+<span id="general-commands-1"></span>
+== General Commands ==
+
+<code>/health</code> - learn about your health status.
+
+<code>/government</code> - link to list of government officials.
+
+<code>/constitution</code> - link to the constitution page.
+
+<code>/complaint</code> - to report a player to the police after being murdered.
+
+<code>/laws</code> - link to the rules and laws list.
+
+<code>/rules</code> - link to the rules and laws list.
+
+<code>/sit</code> - sit down.
+
+<code>/crawl</code> - lay down.
+
+<code>/about &lt;user&gt;</code> - view info such as playtime + jobs that you hold!
+
+<code>/plan register</code> - register to view your personal analytics, more information here.
+
+<code>/getresourcepack</code> - get a link to download the guns resource pack.
+
+<code>/cmodify</code> - allows you to change permission to your items such as chests and doors.
+
+<span id="department-commands-1"></span>
+== Department Commands ==
+
+Each department and government institutions have unique commands. You can find these commands by running the department/institution prefix and choosing commands from the tab options.
+
+:::info Example You are in the Department of Justice. You can view Department of Justice commands by typing <code>/doj</code> and selecting from tabbable commands. :::

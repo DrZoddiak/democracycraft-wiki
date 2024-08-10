@@ -1,0 +1,57 @@
+<span id="black-market"></span>
+= Black Market =
+
+The Black Market is an area underground where you can sell anything '''without''' legal prosecution. And yes, this means ''anything''.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/GDUBglQ.png|Image]]
+
+</div>
+<span id="location"></span>
+== Location ==
+
+To get to the Black Market, you will need to get into the sewers. There is an entrance near Spawn to the east. You will see a little area under the train platform with an NPC named Doug. There, you will find the sewer entrance.
+
+[[File:https://i.imgur.com/egBeNUs.png|Image]] [[File:https://i.imgur.com/DQHsjo7.png|Image]]
+
+From there you can wander around the sewer looking for the shop, you can use <code>/find</code> if you know what you’re looking for specifically, or you can use [https://map.democracycraft.net/#Reveille;flat;2632,64,3860;0 Dynmap] and toggle “Plots” on in the layers and it will show you all the plots.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/e4fxk25.png|Image]]
+
+</div>
+<span id="how-do-i-get-one"></span>
+== How do I get one? ==
+
+There are 10 Black Market stalls in total, labeled with “bm” in the front. You can always do <code>/as forrent</code> and look, or check Discord for rental rights under Economy &gt; Real-Estate.
+
+<span id="black-market-1"></span>
+= Black Market =
+
+The Black Market is an area underground where you can sell anything '''without''' legal prosecution. And yes, this means ''anything''.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/GDUBglQ.png|Image]]
+
+</div>
+<span id="location-1"></span>
+== Location ==
+
+To get to the Black Market, you will need to get into the sewers. There is an entrance near Spawn to the east. You will see a little area under the train platform with an NPC named Doug. There, you will find the sewer entrance.
+
+[[File:https://i.imgur.com/egBeNUs.png|Image]] [[File:https://i.imgur.com/DQHsjo7.png|Image]]
+
+From there you can wander around the sewer looking for the shop, you can use <code>/find</code> if you know what you’re looking for specifically, or you can use [https://map.democracycraft.net/#Reveille;flat;2632,64,3860;0 Dynmap] and toggle “Plots” on in the layers and it will show you all the plots.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/e4fxk25.png|Image]]
+
+</div>
+<span id="how-do-i-get-one-1"></span>
+== How do I get one? ==
+
+There are 10 Black Market stalls in total, labeled with “bm” in the front. You can always do <code>/as forrent</code> and look, or check Discord for rental rights under Economy &gt; Real-Estate.

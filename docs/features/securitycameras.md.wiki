@@ -1,0 +1,131 @@
+<span id="security-cameras"></span>
+= Security Cameras =
+
+Do you need to keep an eye on your valuables or watch out for unwelcome visitors? These simple steps will help you get started!
+
+<div class="figure">
+
+[[File:https://i.imgur.com/d66TX6p.png|image]]
+
+</div>
+<span id="crafting-the-cameras-and-computers"></span>
+== Crafting the Cameras and Computers ==
+
+To begin, follow the recipe below to craft both a camera.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/ZrGfR4g.png|image]]
+
+</div>
+<span id="linking-cameras"></span>
+== Linking Cameras ==
+
+# Create a group for your cameras with this command: <code>/cctv group create &lt;name&gt;</code>
+# After creating the group, add cameras to it using: <code>/cctv group addcamera &lt;groupName&gt; &lt;cameraName&gt;</code>
+
+The <code>&lt;cameraName&gt;</code> is visible when you right-click the placed camera to open the Camera GUI.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/Y9ZIr6I.png|image]]
+
+</div>
+<span id="setting-up-computers"></span>
+== Setting Up Computers ==
+
+Computers are your tools for accessing the cameras. You can craft them by following the recipe provided.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/lUvrelg.png|image]]
+
+</div>
+Once you’ve placed a computer, right click it and you’ll see a menu with options:
+
+<div class="figure">
+
+[[File:https://i.imgur.com/WJgo7Et.png|image]]
+
+</div>
+* '''Ender Chest:''' “Computer Access” - Add or remove players (left-click) or toggle between private and public access (shift left-click).
+* '''Chest:''' “Add camera group” - Select the camera group for the computer.
+* '''Camera:''' “Add Cameras” - Add new cameras to the group selected for the computer.
+
+<span id="viewing-cameras"></span>
+== Viewing Cameras ==
+
+Now that you’ve set up your cameras, camera group, and computers, you can easily manage them from the main dashboard of the GUI, which will display all cameras belonging to the camera group.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/m5q7LB6.png|image]]
+
+</div>
+''Note: To remove items, use ‘Drop to remove’ by pressing Q or the Drop button while hovering over the item.''
+
+<span id="security-cameras-1"></span>
+= Security Cameras =
+
+Do you need to keep an eye on your valuables or watch out for unwelcome visitors? These simple steps will help you get started!
+
+<div class="figure">
+
+[[File:https://i.imgur.com/d66TX6p.png|image]]
+
+</div>
+<span id="crafting-the-cameras-and-computers-1"></span>
+== Crafting the Cameras and Computers ==
+
+To begin, follow the recipe below to craft both a camera.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/ZrGfR4g.png|image]]
+
+</div>
+<span id="linking-cameras-1"></span>
+== Linking Cameras ==
+
+# Create a group for your cameras with this command: <code>/cctv group create &lt;name&gt;</code>
+# After creating the group, add cameras to it using: <code>/cctv group addcamera &lt;groupName&gt; &lt;cameraName&gt;</code>
+
+The <code>&lt;cameraName&gt;</code> is visible when you right-click the placed camera to open the Camera GUI.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/Y9ZIr6I.png|image]]
+
+</div>
+<span id="setting-up-computers-1"></span>
+== Setting Up Computers ==
+
+Computers are your tools for accessing the cameras. You can craft them by following the recipe provided.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/lUvrelg.png|image]]
+
+</div>
+Once you’ve placed a computer, right click it and you’ll see a menu with options:
+
+<div class="figure">
+
+[[File:https://i.imgur.com/WJgo7Et.png|image]]
+
+</div>
+* '''Ender Chest:''' “Computer Access” - Add or remove players (left-click) or toggle between private and public access (shift left-click).
+* '''Chest:''' “Add camera group” - Select the camera group for the computer.
+* '''Camera:''' “Add Cameras” - Add new cameras to the group selected for the computer.
+
+<span id="viewing-cameras-1"></span>
+== Viewing Cameras ==
+
+Now that you’ve set up your cameras, camera group, and computers, you can easily manage them from the main dashboard of the GUI, which will display all cameras belonging to the camera group.
+
+<div class="figure">
+
+[[File:https://i.imgur.com/m5q7LB6.png|image]]
+
+</div>
+''Note: To remove items, use ‘Drop to remove’ by pressing Q or the Drop button while hovering over the item.''
