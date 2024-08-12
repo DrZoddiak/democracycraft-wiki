@@ -14,7 +14,7 @@ Ready to tie the knot and start a new adventure together? Here’s a simple guid
 * '''Find a Lawyer.''' In Redmont, to get married, you just need to talk to a lawyer. A lawyer will make sure everything is super legal and officiate the union for you. They’ll help you understand what papers and things you need to have the best wedding ever.
 * '''Pick a Nice Place.''' Once everything is set with your lawyer, it’s time to pick a fun place for your wedding! Redmont has so many cool spots, and you get to choose where you want to say, ‘I do.’
 
-:::note Finding a Lawyer You can find lawyers through the businesses forum channel on the DemocracyCraft Discord. :::
+{{Note||| Finding a Lawyer You can find lawyers through the businesses forum channel on the DemocracyCraft Discord.}}
 
 <div class="figure">
 
@@ -49,7 +49,7 @@ Ready to tie the knot and start a new adventure together? Here’s a simple guid
 * '''Find a Lawyer.''' In Redmont, to get married, you just need to talk to a lawyer. A lawyer will make sure everything is super legal and officiate the union for you. They’ll help you understand what papers and things you need to have the best wedding ever.
 * '''Pick a Nice Place.''' Once everything is set with your lawyer, it’s time to pick a fun place for your wedding! Redmont has so many cool spots, and you get to choose where you want to say, ‘I do.’
 
-:::note Finding a Lawyer You can find lawyers through the businesses forum channel on the DemocracyCraft Discord. :::
+{{Note||| Finding a Lawyer You can find lawyers through the businesses forum channel on the DemocracyCraft Discord.}}
 
 <div class="figure">
 

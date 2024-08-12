@@ -28,7 +28,7 @@ This wand will be used to configure the filters for your sorting containers, and
 
 See below for a description per container type.
 
-:::tip Containers are not just barrels You can ''also'' use Hoppers, Dispensers, and Droppers, just swap out the '''Barrel''' in the recipes below. :::
+{{Tip||| Containers are not just barrels You can ''also'' use Hoppers, Dispensers, and Droppers, just swap out the '''Barrel''' in the recipes below.}}
 
 <span id="input-containers"></span>
 ==== Input Containers ====
@@ -76,12 +76,7 @@ These containers look for items that haven’t been assigned to sorting chests, 
 
 You are able to upgrade the range of your containers using <code>Upgrade Antennas</code>! Craft them using the below recipes, then '''right click with then in your hand''' to the container you want upgraded, to extend their range.
 
-<div class="tip">
-
-You cannot apply the same Tier upgrade more than once. This is a good way to check what Tier a current container is on (until we make an easier method).
-
-
-</div>
+{{Tip||| You cannot apply the same Tier upgrade more than once. This is a good way to check what Tier a current container is on (until we make an easier method).}}
 <span id="tier-1-50-blocks"></span>
 ==== Tier 1 (50 blocks) ====
 
@@ -127,7 +122,7 @@ Requires Tier 2.
 
 Run the command <code>/net create &lt;network_name&gt;</code>, please use a descriptive name for your reference! You can then place down the containers you crafted, and use your Network Wand on them.
 
-:::tip Need to edit a network? Do <code>/net select &lt;network_name&gt;</code>, then place your containers and use your Network Wand to your heart’s desire! :::
+{{Tip||| Need to edit a network? Do <code>/net select &lt;network_name&gt;</code>, then place your containers and use your Network Wand to your heart’s desire!}}
 
 <span id="all-available-commands"></span>
 == All Available Commands ==
@@ -171,7 +166,7 @@ This wand will be used to configure the filters for your sorting containers, and
 
 See below for a description per container type.
 
-:::tip Containers are not just barrels You can ''also'' use Hoppers, Dispensers, and Droppers, just swap out the '''Barrel''' in the recipes below. :::
+{{Tip||| Containers are not just barrels You can ''also'' use Hoppers, Dispensers, and Droppers, just swap out the '''Barrel''' in the recipes below.}}
 
 <span id="input-containers-1"></span>
 ==== Input Containers ====
@@ -219,12 +214,7 @@ These containers look for items that haven’t been assigned to sorting chests, 
 
 You are able to upgrade the range of your containers using <code>Upgrade Antennas</code>! Craft them using the below recipes, then '''right click with then in your hand''' to the container you want upgraded, to extend their range.
 
-<div class="tip">
-
-You cannot apply the same Tier upgrade more than once. This is a good way to check what Tier a current container is on (until we make an easier method).
-
-
-</div>
+{{Tip||| You cannot apply the same Tier upgrade more than once. This is a good way to check what Tier a current container is on (until we make an easier method).}}
 <span id="tier-1-50-blocks-1"></span>
 ==== Tier 1 (50 blocks) ====
 
@@ -270,7 +260,7 @@ Requires Tier 2.
 
 Run the command <code>/net create &lt;network_name&gt;</code>, please use a descriptive name for your reference! You can then place down the containers you crafted, and use your Network Wand on them.
 
-:::tip Need to edit a network? Do <code>/net select &lt;network_name&gt;</code>, then place your containers and use your Network Wand to your heart’s desire! :::
+{{Tip||| Need to edit a network? Do <code>/net select &lt;network_name&gt;</code>, then place your containers and use your Network Wand to your heart’s desire!}}
 
 <span id="all-available-commands-1"></span>
 == All Available Commands ==

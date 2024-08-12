@@ -14,12 +14,7 @@ Welcome to this week’s changelog! We’re thrilled to share the latest updates
 * DemocracryBusiness now supports sales exporting.
 ** Command: <code>/business sales export &lt;firm&gt; &lt;days&gt;</code>
 
-<div class="note">
-
-There is no cap on days, however note that the plugin may struggle to go beyond '''50-100''' days!
-
-
-</div>
+{{Note||| There is no cap on days, however note that the plugin may struggle to go beyond '''50-100''' days!}}
 * Server Music Bots
 ** '''New''' (experimental) song sources: mixcloud, reddit, tiktok, and tts!
 ** '''Changes''' Instant song playback &amp; Faster and more responsive
@@ -44,12 +39,7 @@ There is no cap on days, however note that the plugin may struggle to go beyond 
 * Duplicated Transaction Logging has been restored.
 * Book o’ Brews has been migrated to a new book.
 
-<div class="note">
-
-The Old Book o’ Brews will ''''''not'''''' work.
-
-
-</div>
+{{Note||| The Old Book o’ Brews will ''''''not'''''' work.}}
 * AreaShop has finished migrating to a new command structure
 ** Whenever you are specifying a specific region name, do <code>--region &lt;name&gt;. i.e. /as info region --region c001</code>
 
@@ -74,12 +64,7 @@ Welcome to this week’s changelog! We’re thrilled to share the latest updates
 * DemocracryBusiness now supports sales exporting.
 ** Command: <code>/business sales export &lt;firm&gt; &lt;days&gt;</code>
 
-<div class="note">
-
-There is no cap on days, however note that the plugin may struggle to go beyond '''50-100''' days!
-
-
-</div>
+{{Note||| There is no cap on days, however note that the plugin may struggle to go beyond '''50-100''' days!}}
 * Server Music Bots
 ** '''New''' (experimental) song sources: mixcloud, reddit, tiktok, and tts!
 ** '''Changes''' Instant song playback &amp; Faster and more responsive
@@ -104,12 +89,7 @@ There is no cap on days, however note that the plugin may struggle to go beyond 
 * Duplicated Transaction Logging has been restored.
 * Book o’ Brews has been migrated to a new book.
 
-<div class="note">
-
-The Old Book o’ Brews will ''''''not'''''' work.
-
-
-</div>
+{{Note||| The Old Book o’ Brews will ''''''not'''''' work.}}
 * AreaShop has finished migrating to a new command structure
 ** Whenever you are specifying a specific region name, do <code>--region &lt;name&gt;. i.e. /as info region --region c001</code>
 

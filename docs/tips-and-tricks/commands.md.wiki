@@ -31,7 +31,7 @@ Welcome to the commands guide! Whether you’re a seasoned player or new to the 
 
 <code>/emoji</code> - see a list of emojis available to put in chat. Put them in chat using <code>:emoji_name:</code>
 
-:::tip Other Channels If you are a member of a government department or institution, chances are you may have additional channels to talk in. For example – - Members of the Department of Justice can speak in the <code>/doj</code> channel. - Members of the Senate can speak in the <code>/sen</code> channel. - Members of the courts can speak in the <code>/jud</code> channel. :::
+{{Tip||| Other Channels If you are a member of a government department or institution, chances are you may have additional channels to talk in. For example – - Members of the Department of Justice can speak in the <code>/doj</code> channel. - Members of the Senate can speak in the <code>/sen</code> channel. - Members of the courts can speak in the <code>/jud</code> channel.}}
 
 <span id="economy-commands"></span>
 == Economy Commands ==
@@ -133,7 +133,7 @@ Welcome to the commands guide! Whether you’re a seasoned player or new to the 
 
 Each department and government institutions have unique commands. You can find these commands by running the department/institution prefix and choosing commands from the tab options.
 
-:::info Example You are in the Department of Justice. You can view Department of Justice commands by typing <code>/doj</code> and selecting from tabbable commands. :::
+{{Info||| Example You are in the Department of Justice. You can view Department of Justice commands by typing <code>/doj</code> and selecting from tabbable commands.}}
 
 <span id="commands-1"></span>
 = Commands =
@@ -168,7 +168,7 @@ Welcome to the commands guide! Whether you’re a seasoned player or new to the 
 
 <code>/emoji</code> - see a list of emojis available to put in chat. Put them in chat using <code>:emoji_name:</code>
 
-:::tip Other Channels If you are a member of a government department or institution, chances are you may have additional channels to talk in. For example – - Members of the Department of Justice can speak in the <code>/doj</code> channel. - Members of the Senate can speak in the <code>/sen</code> channel. - Members of the courts can speak in the <code>/jud</code> channel. :::
+{{Tip||| Other Channels If you are a member of a government department or institution, chances are you may have additional channels to talk in. For example – - Members of the Department of Justice can speak in the <code>/doj</code> channel. - Members of the Senate can speak in the <code>/sen</code> channel. - Members of the courts can speak in the <code>/jud</code> channel.}}
 
 <span id="economy-commands-1"></span>
 == Economy Commands ==
@@ -270,4 +270,4 @@ Welcome to the commands guide! Whether you’re a seasoned player or new to the 
 
 Each department and government institutions have unique commands. You can find these commands by running the department/institution prefix and choosing commands from the tab options.
 
-:::info Example You are in the Department of Justice. You can view Department of Justice commands by typing <code>/doj</code> and selecting from tabbable commands. :::
+{{Info||| Example You are in the Department of Justice. You can view Department of Justice commands by typing <code>/doj</code> and selecting from tabbable commands.}}

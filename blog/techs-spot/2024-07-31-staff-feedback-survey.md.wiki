@@ -10,13 +10,11 @@ Moving forward however, we still intend to resume this function being a monthly 
 
 We had a great turnout this time, of '''21''' respondants! This is brilliant news, as even I can’t recall this level of participation in a long time. This represents roughly ~90% of the Staff team having participated in the survey…
 
-:::tip Your responses are anonymised!
+{{Tip||| Your responses are anonymised!
 
 As you’ll find below, no individual response is disected and where there is identifiable information - it is removed. Private concerns between Staff are also raised privately with as much of the response obscured. Where it is too evident who said what, we refrain from using their language/response directly and reword it.
 
-We value your input, and strive to act accordingly.
-
-:::
+We value your input, and strive to act accordingly.}}
 
 <span id="the-ratings"></span>
 == The Ratings ==
@@ -32,12 +30,7 @@ Let’s break it down by question!
 * '''15%''' of you voted a 10!
 * '''5%''' of you voted a 4!
 
-<div class="tip">
-
-'''76%''' of you rate the team an A.
-
-
-</div>
+{{Tip||| '''76%''' of you rate the team an A.}}
 <span id="how-valued-do-you-feel-as-a-staff-member"></span>
 === How valued do you feel as a Staff Member? ===
 
@@ -46,12 +39,7 @@ Let’s break it down by question!
 * '''26%''' of you voted a 10!
 * '''5%''' of you voted a 1!
 
-<div class="tip">
-
-'''85%''' of you feel that you are appreciated at an A standard!
-
-
-</div>
+{{Tip||| '''85%''' of you feel that you are appreciated at an A standard!}}
 <span id="how-approachable-are-senior-staff-with-issues-impacting-me-andor-the-server"></span>
 === How approachable are Senior Staff with issues impacting me and/or the server? ===
 
@@ -60,12 +48,7 @@ Let’s break it down by question!
 * '''15%''' of you voted a 9!
 * '''5%''' of you voted a 1 and 6 respectively!
 
-<div class="warning">
-
-'''66%''' of you feel that senior leadership are approachable to issues affecting you/the server! - While we’ve observed a fairly high portion rate <code>10</code>, there’s evidently variance in how approachable we are to you all. - More thought needs to be given from senior leadership as a result to seeing how we can make ourselves more approachable to '''everyone equally.'''
-
-
-</div>
+{{Warning||| '''66%''' of you feel that senior leadership are approachable to issues affecting you/the server! - While we’ve observed a fairly high portion rate <code>10</code>, there’s evidently variance in how approachable we are to you all. - More thought needs to be given from senior leadership as a result to seeing how we can make ourselves more approachable to '''everyone equally.'''}}
 <span id="do-you-feel-like-you-can-raise-issues-with-senior-staff-without-negatively-impacting-your-staff-career"></span>
 === Do you feel like you can raise issues with Senior Staff without negatively impacting your staff career? ===
 
@@ -75,12 +58,7 @@ Let’s break it down by question!
 * '''10%''' of you voted a 7!
 * '''5%''' of you voted 6 and 1!
 
-<div class="warning">
-
-'''77%''' of you feel that you can raise issues to senior leadership without having it negatively affect your Staffing career. - While again, a high portion of <code>10</code> respondants are observed, we’re still concerned about the spread of responses. - This is a more interesting issue, as in order to identify how we can improve we need to identify cases where it outcomes from reporting issues '''appear''' to negatively impact Staff. - Notice the emphasis on appear, it’s not simply enough for us to say we’ve never negatively retaliated against a report. Simply the perception alone is something we need to work on eliminating, and identifying where it occurs will be our first step in that process.
-
-
-</div>
+{{Warning||| '''77%''' of you feel that you can raise issues to senior leadership without having it negatively affect your Staffing career. - While again, a high portion of <code>10</code> respondants are observed, we’re still concerned about the spread of responses. - This is a more interesting issue, as in order to identify how we can improve we need to identify cases where it outcomes from reporting issues '''appear''' to negatively impact Staff. - Notice the emphasis on appear, it’s not simply enough for us to say we’ve never negatively retaliated against a report. Simply the perception alone is something we need to work on eliminating, and identifying where it occurs will be our first step in that process.}}
 <span id="the-5"></span>
 == The 5% ==
 
@@ -218,13 +196,11 @@ Moving forward however, we still intend to resume this function being a monthly 
 
 We had a great turnout this time, of '''21''' respondants! This is brilliant news, as even I can’t recall this level of participation in a long time. This represents roughly ~90% of the Staff team having participated in the survey…
 
-:::tip Your responses are anonymised!
+{{Tip||| Your responses are anonymised!
 
 As you’ll find below, no individual response is disected and where there is identifiable information - it is removed. Private concerns between Staff are also raised privately with as much of the response obscured. Where it is too evident who said what, we refrain from using their language/response directly and reword it.
 
-We value your input, and strive to act accordingly.
-
-:::
+We value your input, and strive to act accordingly.}}
 
 <span id="the-ratings-1"></span>
 == The Ratings ==
@@ -240,12 +216,7 @@ Let’s break it down by question!
 * '''15%''' of you voted a 10!
 * '''5%''' of you voted a 4!
 
-<div class="tip">
-
-'''76%''' of you rate the team an A.
-
-
-</div>
+{{Tip||| '''76%''' of you rate the team an A.}}
 <span id="how-valued-do-you-feel-as-a-staff-member-1"></span>
 === How valued do you feel as a Staff Member? ===
 
@@ -254,12 +225,7 @@ Let’s break it down by question!
 * '''26%''' of you voted a 10!
 * '''5%''' of you voted a 1!
 
-<div class="tip">
-
-'''85%''' of you feel that you are appreciated at an A standard!
-
-
-</div>
+{{Tip||| '''85%''' of you feel that you are appreciated at an A standard!}}
 <span id="how-approachable-are-senior-staff-with-issues-impacting-me-andor-the-server-1"></span>
 === How approachable are Senior Staff with issues impacting me and/or the server? ===
 
@@ -268,12 +234,7 @@ Let’s break it down by question!
 * '''15%''' of you voted a 9!
 * '''5%''' of you voted a 1 and 6 respectively!
 
-<div class="warning">
-
-'''66%''' of you feel that senior leadership are approachable to issues affecting you/the server! - While we’ve observed a fairly high portion rate <code>10</code>, there’s evidently variance in how approachable we are to you all. - More thought needs to be given from senior leadership as a result to seeing how we can make ourselves more approachable to '''everyone equally.'''
-
-
-</div>
+{{Warning||| '''66%''' of you feel that senior leadership are approachable to issues affecting you/the server! - While we’ve observed a fairly high portion rate <code>10</code>, there’s evidently variance in how approachable we are to you all. - More thought needs to be given from senior leadership as a result to seeing how we can make ourselves more approachable to '''everyone equally.'''}}
 <span id="do-you-feel-like-you-can-raise-issues-with-senior-staff-without-negatively-impacting-your-staff-career-1"></span>
 === Do you feel like you can raise issues with Senior Staff without negatively impacting your staff career? ===
 
@@ -283,12 +244,7 @@ Let’s break it down by question!
 * '''10%''' of you voted a 7!
 * '''5%''' of you voted 6 and 1!
 
-<div class="warning">
-
-'''77%''' of you feel that you can raise issues to senior leadership without having it negatively affect your Staffing career. - While again, a high portion of <code>10</code> respondants are observed, we’re still concerned about the spread of responses. - This is a more interesting issue, as in order to identify how we can improve we need to identify cases where it outcomes from reporting issues '''appear''' to negatively impact Staff. - Notice the emphasis on appear, it’s not simply enough for us to say we’ve never negatively retaliated against a report. Simply the perception alone is something we need to work on eliminating, and identifying where it occurs will be our first step in that process.
-
-
-</div>
+{{Warning||| '''77%''' of you feel that you can raise issues to senior leadership without having it negatively affect your Staffing career. - While again, a high portion of <code>10</code> respondants are observed, we’re still concerned about the spread of responses. - This is a more interesting issue, as in order to identify how we can improve we need to identify cases where it outcomes from reporting issues '''appear''' to negatively impact Staff. - Notice the emphasis on appear, it’s not simply enough for us to say we’ve never negatively retaliated against a report. Simply the perception alone is something we need to work on eliminating, and identifying where it occurs will be our first step in that process.}}
 <span id="the-5-1"></span>
 == The 5% ==
 

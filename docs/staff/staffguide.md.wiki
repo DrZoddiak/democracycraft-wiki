@@ -226,12 +226,7 @@ These are a set of principles that guide us as a team. - '''Service''' - The sel
 
 Managers are responsible for adding Senior Administrators and Administrators to our server control panel. To add a user, follow the steps below. 1. Open the <code>DemocracyCraft</code> server. 2. Navigate to <code>Users</code> and click <code>New User</code>. 3. Enter the Staff member’s email address, and select <code>Manage</code> under <code>Subdomain</code>. This is a temporary permission. 4. You will now notice a new user entry, on the right hand side next to the bin click on <code>Import user permissions</code>. 5. Grab the list of permissions in the next section below, that corresponds to the Staff member’s rank in the team. 6. Paste it in the input box, and click <code>Import</code>. 7. Repeat Steps 2-6 after opening the <code>DemocracyCraft Playground</code> server. 8. Great work! All done. :)
 
-<div class="tip">
-
-Remind the Staff member that all activities are logged, and that we have a mandatory two factor authentication requirement!
-
-
-</div>
+{{Tip||| Remind the Staff member that all activities are logged, and that we have a mandatory two factor authentication requirement!}}
 <span id="ranks-and-privilages"></span>
 ==== Ranks and Privilages ====
 
@@ -251,12 +246,7 @@ Remind the Staff member that all activities are logged, and that we have a manda
 
 As a Senior Administrator, you are able to access both the server console and files. To be added to the panel, direct message on Discord either owners to recieve your invitation! You will mainly be using this to configure plugins, fix bugs, and add new features.
 
-<div class="tip">
-
-There is no one set way of learning how to do these things. Trial and error, along with observation goes a great deal in helping you form your own way of doing these things.
-
-
-</div>
+{{Tip||| There is no one set way of learning how to do these things. Trial and error, along with observation goes a great deal in helping you form your own way of doing these things.}}
 Be sure to log any player-facing changes in #changelog, and any internal changes in #internal-changelog. This way we have an accurate record of who’s done what!
 
 <span id="for-system-administrators"></span>
@@ -372,12 +362,7 @@ You will have access to more information than a regular player. This information
 <span id="user-role-management"></span>
 ==== User Role Management ====
 
-<div class="warning">
-
-'''Never''' update a user’s primary group. It should always be <code>Registered</code>.
-
-
-</div>
+{{Warning||| '''Never''' update a user’s primary group. It should always be <code>Registered</code>.}}
 When updating groups, all you should be modifying are <code>Secondary Groups</code>. Do not modify regular Department or otherwise automated roles.
 
 [[File:/img/staffing/registered_group.png|Registered Primary Group]] Staff changes require two separate roles and one option: <code>Show as Staff</code>, <code>Staff</code>, and <code>Moderator/Administrator/Senior Administrator</code>. [[File:/img/staffing/secondary_group.png|Secondary Groups]]
@@ -478,12 +463,7 @@ These are useful commands to know with your position.
 * <code>/lp user &lt;user&gt; clear [context...]</code>
 * <code>/lp user &lt;user&gt; clone &lt;user&gt;</code>
 
-<div class="tip">
-
-Add in-game roles via <code>/lp user &lt;user&gt; parent add &lt;job&gt;</code>
-
-
-</div>
+{{Tip||| Add in-game roles via <code>/lp user &lt;user&gt; parent add &lt;job&gt;</code>}}
 <span id="group-commands"></span>
 ===== Group Commands =====
 
@@ -530,12 +510,7 @@ Players are only allowed one account on our discord, forums, and in-game. This i
 
 Players who join and show as alternative accounts should be alternative accounts tested.
 
-<div class="info">
-
-Players who have alternative accounts will receive all of the punishments associated on their main account. The alternative accounts should be banned.
-
-
-</div>
+{{Info||| Players who have alternative accounts will receive all of the punishments associated on their main account. The alternative accounts should be banned.}}
 <span id="assessing"></span>
 ===== Assessing =====
 
@@ -671,12 +646,7 @@ This is a general guide - moderators should refer to the more specific guides on
 * <code>/as add &lt;buy/sell&gt; &lt;region&gt;</code> - makes a region either a buyable or rentable region.
 ** Used when making wilderness or apartment/shop regions.
 
-<div class="warning">
-
-You must specify the shop/apartment’s region name when maing it rentable, otherwise you run the risk of making the parent plot rentable instead!
-
-
-</div>
+{{Warning||| You must specify the shop/apartment’s region name when maing it rentable, otherwise you run the risk of making the parent plot rentable instead!}}
 * <code>/as del &lt;region&gt;</code> - deletes the specified region from AreaShop.
 * <code>/as setprice &lt;price&gt; &lt;region&gt;</code> - used to set the selling/renting price of an AreaShop region.
 * <code>/as setlandlord &lt;name&gt; &lt;region&gt;</code> - used to set the landlord of an Areashop region.
@@ -804,12 +774,7 @@ Players may merge certain regions to allow for larger plots, provided that they 
 
 A common Sistake in staffing is regions being deleted during merges.
 
-<div class="danger">
-
-To merge a plot correctly, no regions should be deleted, both to save us time when unmerging and to preserve the plot numbering system.
-
-
-</div>
+{{Danger||| To merge a plot correctly, no regions should be deleted, both to save us time when unmerging and to preserve the plot numbering system.}}
 To achieve this the following command ought to be used <code>/rg redefine &lt;plot&gt;</code>
 
 <span id="merging"></span>
@@ -836,12 +801,7 @@ Urban regions are city/town plots and their child regions (apartments/shops).
 
 This guide will show you how to create child regions. For this, you will be using World Edit (selecting the region), World Guard (making the region), and Areashop (renting the region).
 
-<div class="danger">
-
-* Child regions may only be created on Commercial and Industrial plots, not residential and are rent only. You '''cannot''' have rent regions within rent regions.
-
-
-</div>
+{{Danger||| * Child regions may only be created on Commercial and Industrial plots, not residential and are rent only. You '''cannot''' have rent regions within rent regions.}}
 <span id="step-by-step-guide"></span>
 ===== Step by Step Guide =====
 
@@ -893,9 +853,7 @@ Wilderness regions are private wild plots that any players can obtain.
 
 It costs $10/block to claim land in the wilderness.
 
-:::danger Please note the following: - Players may only have '''one''' wild region up to '''4096 blocks''' in their wild region, and unless given permission, your region needs to be at least 20 blocks away from another player’s region.
-
-:::
+{{Danger||| Please note the following: - Players may only have '''one''' wild region up to '''4096 blocks''' in their wild region, and unless given permission, your region needs to be at least 20 blocks away from another player’s region.}}
 
 <span id="step-by-step-guide-1"></span>
 ===== Step By Step Guide =====
@@ -921,12 +879,7 @@ It costs $10/block to claim land in the wilderness.
 ** '''Command:''' <code>/rg define &lt;playerName&gt;</code>
 *** i.e. <code>/rg define Technofied</code>
 
-<div class="danger">
-
-All wild regions should have the same naming convention: <code>&lt;playerName&gt;</code>
-
-
-</div>
+{{Danger||| All wild regions should have the same naming convention: <code>&lt;playerName&gt;</code>}}
 * '''4.0 Adding the region to AreaShop'''
 ** After you’ve created the WorldGuard region, it’s now time to make it buyable.
 ** '''4.1 Add the region'''
@@ -936,12 +889,7 @@ All wild regions should have the same naming convention: <code>&lt;playerName&gt
 ** '''4.3 Set the price'''
 ** '''Command:''' <code>/as setprice &lt;price&gt; &lt;region&gt;</code>
 
-<div class="tip">
-
-Let the player know to not buy the region until you tell them to! A lot of people sometimes buy regions too soon, and if that happens you would need to correct how much they’ve paid.
-
-
-</div>
+{{Tip||| Let the player know to not buy the region until you tell them to! A lot of people sometimes buy regions too soon, and if that happens you would need to correct how much they’ve paid.}}
 <span id="expanding-a-region"></span>
 ===== Expanding a region =====
 
@@ -974,12 +922,7 @@ Search for the player’s full username, before creating a thread. In these thre
 
 Warrants are a legal writ that allow for '''only enforcement agencies''' to break the law under certain circumstances. I.e. trespass, take items, gather evidence. This is a function that requires Staff Support.
 
-<div class="tip">
-
-If you are involved in a case/investigation or have a vested interested in the outcome of a case/investigation, you are asked to recuse yourself from getting the information for the warrant.
-
-
-</div>
+{{Tip||| If you are involved in a case/investigation or have a vested interested in the outcome of a case/investigation, you are asked to recuse yourself from getting the information for the warrant.}}
 <span id="eligibility"></span>
 ==== Eligibility ====
 
@@ -1395,12 +1338,7 @@ These are a set of principles that guide us as a team. - '''Service''' - The sel
 
 Managers are responsible for adding Senior Administrators and Administrators to our server control panel. To add a user, follow the steps below. 1. Open the <code>DemocracyCraft</code> server. 2. Navigate to <code>Users</code> and click <code>New User</code>. 3. Enter the Staff member’s email address, and select <code>Manage</code> under <code>Subdomain</code>. This is a temporary permission. 4. You will now notice a new user entry, on the right hand side next to the bin click on <code>Import user permissions</code>. 5. Grab the list of permissions in the next section below, that corresponds to the Staff member’s rank in the team. 6. Paste it in the input box, and click <code>Import</code>. 7. Repeat Steps 2-6 after opening the <code>DemocracyCraft Playground</code> server. 8. Great work! All done. :)
 
-<div class="tip">
-
-Remind the Staff member that all activities are logged, and that we have a mandatory two factor authentication requirement!
-
-
-</div>
+{{Tip||| Remind the Staff member that all activities are logged, and that we have a mandatory two factor authentication requirement!}}
 <span id="ranks-and-privilages-1"></span>
 ==== Ranks and Privilages ====
 
@@ -1420,12 +1358,7 @@ Remind the Staff member that all activities are logged, and that we have a manda
 
 As a Senior Administrator, you are able to access both the server console and files. To be added to the panel, direct message on Discord either owners to recieve your invitation! You will mainly be using this to configure plugins, fix bugs, and add new features.
 
-<div class="tip">
-
-There is no one set way of learning how to do these things. Trial and error, along with observation goes a great deal in helping you form your own way of doing these things.
-
-
-</div>
+{{Tip||| There is no one set way of learning how to do these things. Trial and error, along with observation goes a great deal in helping you form your own way of doing these things.}}
 Be sure to log any player-facing changes in #changelog, and any internal changes in #internal-changelog. This way we have an accurate record of who’s done what!
 
 <span id="for-system-administrators-1"></span>
@@ -1541,12 +1474,7 @@ You will have access to more information than a regular player. This information
 <span id="user-role-management-1"></span>
 ==== User Role Management ====
 
-<div class="warning">
-
-'''Never''' update a user’s primary group. It should always be <code>Registered</code>.
-
-
-</div>
+{{Warning||| '''Never''' update a user’s primary group. It should always be <code>Registered</code>.}}
 When updating groups, all you should be modifying are <code>Secondary Groups</code>. Do not modify regular Department or otherwise automated roles.
 
 [[File:/img/staffing/registered_group.png|Registered Primary Group]] Staff changes require two separate roles and one option: <code>Show as Staff</code>, <code>Staff</code>, and <code>Moderator/Administrator/Senior Administrator</code>. [[File:/img/staffing/secondary_group.png|Secondary Groups]]
@@ -1647,12 +1575,7 @@ These are useful commands to know with your position.
 * <code>/lp user &lt;user&gt; clear [context...]</code>
 * <code>/lp user &lt;user&gt; clone &lt;user&gt;</code>
 
-<div class="tip">
-
-Add in-game roles via <code>/lp user &lt;user&gt; parent add &lt;job&gt;</code>
-
-
-</div>
+{{Tip||| Add in-game roles via <code>/lp user &lt;user&gt; parent add &lt;job&gt;</code>}}
 <span id="group-commands-1"></span>
 ===== Group Commands =====
 
@@ -1699,12 +1622,7 @@ Players are only allowed one account on our discord, forums, and in-game. This i
 
 Players who join and show as alternative accounts should be alternative accounts tested.
 
-<div class="info">
-
-Players who have alternative accounts will receive all of the punishments associated on their main account. The alternative accounts should be banned.
-
-
-</div>
+{{Info||| Players who have alternative accounts will receive all of the punishments associated on their main account. The alternative accounts should be banned.}}
 <span id="assessing-1"></span>
 ===== Assessing =====
 
@@ -1840,12 +1758,7 @@ This is a general guide - moderators should refer to the more specific guides on
 * <code>/as add &lt;buy/sell&gt; &lt;region&gt;</code> - makes a region either a buyable or rentable region.
 ** Used when making wilderness or apartment/shop regions.
 
-<div class="warning">
-
-You must specify the shop/apartment’s region name when maing it rentable, otherwise you run the risk of making the parent plot rentable instead!
-
-
-</div>
+{{Warning||| You must specify the shop/apartment’s region name when maing it rentable, otherwise you run the risk of making the parent plot rentable instead!}}
 * <code>/as del &lt;region&gt;</code> - deletes the specified region from AreaShop.
 * <code>/as setprice &lt;price&gt; &lt;region&gt;</code> - used to set the selling/renting price of an AreaShop region.
 * <code>/as setlandlord &lt;name&gt; &lt;region&gt;</code> - used to set the landlord of an Areashop region.
@@ -1973,12 +1886,7 @@ Players may merge certain regions to allow for larger plots, provided that they 
 
 A common Sistake in staffing is regions being deleted during merges.
 
-<div class="danger">
-
-To merge a plot correctly, no regions should be deleted, both to save us time when unmerging and to preserve the plot numbering system.
-
-
-</div>
+{{Danger||| To merge a plot correctly, no regions should be deleted, both to save us time when unmerging and to preserve the plot numbering system.}}
 To achieve this the following command ought to be used <code>/rg redefine &lt;plot&gt;</code>
 
 <span id="merging-1"></span>
@@ -2005,12 +1913,7 @@ Urban regions are city/town plots and their child regions (apartments/shops).
 
 This guide will show you how to create child regions. For this, you will be using World Edit (selecting the region), World Guard (making the region), and Areashop (renting the region).
 
-<div class="danger">
-
-* Child regions may only be created on Commercial and Industrial plots, not residential and are rent only. You '''cannot''' have rent regions within rent regions.
-
-
-</div>
+{{Danger||| * Child regions may only be created on Commercial and Industrial plots, not residential and are rent only. You '''cannot''' have rent regions within rent regions.}}
 <span id="step-by-step-guide-2"></span>
 ===== Step by Step Guide =====
 
@@ -2062,9 +1965,7 @@ Wilderness regions are private wild plots that any players can obtain.
 
 It costs $10/block to claim land in the wilderness.
 
-:::danger Please note the following: - Players may only have '''one''' wild region up to '''4096 blocks''' in their wild region, and unless given permission, your region needs to be at least 20 blocks away from another player’s region.
-
-:::
+{{Danger||| Please note the following: - Players may only have '''one''' wild region up to '''4096 blocks''' in their wild region, and unless given permission, your region needs to be at least 20 blocks away from another player’s region.}}
 
 <span id="step-by-step-guide-3"></span>
 ===== Step By Step Guide =====
@@ -2090,12 +1991,7 @@ It costs $10/block to claim land in the wilderness.
 ** '''Command:''' <code>/rg define &lt;playerName&gt;</code>
 *** i.e. <code>/rg define Technofied</code>
 
-<div class="danger">
-
-All wild regions should have the same naming convention: <code>&lt;playerName&gt;</code>
-
-
-</div>
+{{Danger||| All wild regions should have the same naming convention: <code>&lt;playerName&gt;</code>}}
 * '''4.0 Adding the region to AreaShop'''
 ** After you’ve created the WorldGuard region, it’s now time to make it buyable.
 ** '''4.1 Add the region'''
@@ -2105,12 +2001,7 @@ All wild regions should have the same naming convention: <code>&lt;playerName&gt
 ** '''4.3 Set the price'''
 ** '''Command:''' <code>/as setprice &lt;price&gt; &lt;region&gt;</code>
 
-<div class="tip">
-
-Let the player know to not buy the region until you tell them to! A lot of people sometimes buy regions too soon, and if that happens you would need to correct how much they’ve paid.
-
-
-</div>
+{{Tip||| Let the player know to not buy the region until you tell them to! A lot of people sometimes buy regions too soon, and if that happens you would need to correct how much they’ve paid.}}
 <span id="expanding-a-region-1"></span>
 ===== Expanding a region =====
 
@@ -2143,12 +2034,7 @@ Search for the player’s full username, before creating a thread. In these thre
 
 Warrants are a legal writ that allow for '''only enforcement agencies''' to break the law under certain circumstances. I.e. trespass, take items, gather evidence. This is a function that requires Staff Support.
 
-<div class="tip">
-
-If you are involved in a case/investigation or have a vested interested in the outcome of a case/investigation, you are asked to recuse yourself from getting the information for the warrant.
-
-
-</div>
+{{Tip||| If you are involved in a case/investigation or have a vested interested in the outcome of a case/investigation, you are asked to recuse yourself from getting the information for the warrant.}}
 <span id="eligibility-1"></span>
 ==== Eligibility ====
 

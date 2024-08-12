@@ -19,12 +19,7 @@ Welcome to this week’s changelog! We’re thrilled to share the latest updates
 * Hats Update
 ** Take a look at the colorful and decorative hats added into the game! Over '''100+''' new hats added!
 
-<div class="note">
-
-When we had massive amounts of items through new features. This is often to the surprise to the Department of Education. It’s advised to allow the department to catch up before harassing them seeking where the new items are!
-
-
-</div>
+{{Note||| When we had massive amounts of items through new features. This is often to the surprise to the Department of Education. It’s advised to allow the department to catch up before harassing them seeking where the new items are!}}
 * Flower Update
 ** Makeing the house smell like daisys has became easier with the addition of 100+ new flowers!
 ** Obtainable through drops as well as potential crafting recipes!
@@ -80,12 +75,7 @@ Welcome to this week’s changelog! We’re thrilled to share the latest updates
 * Hats Update
 ** Take a look at the colorful and decorative hats added into the game! Over '''100+''' new hats added!
 
-<div class="note">
-
-When we had massive amounts of items through new features. This is often to the surprise to the Department of Education. It’s advised to allow the department to catch up before harassing them seeking where the new items are!
-
-
-</div>
+{{Note||| When we had massive amounts of items through new features. This is often to the surprise to the Department of Education. It’s advised to allow the department to catch up before harassing them seeking where the new items are!}}
 * Flower Update
 ** Makeing the house smell like daisys has became easier with the addition of 100+ new flowers!
 ** Obtainable through drops as well as potential crafting recipes!
