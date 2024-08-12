@@ -9,11 +9,11 @@ Staff maintain full discretion in their enforcement of rules and general moderat
 
 Feel free to ask questions on [https://discord.gg/democracy our Discord server] if you have any questions or concerns.
 
-:::tip Respect the spirit of the rules These rules are here to protect you - not for us to come after you!
+{{Tip||| Respect the spirit of the rules These rules are here to protect you - not for us to come after you!
 
 You will never be punished for raising a concern regading rules, regardless of whether it is about yourself or others.
 
-Something may not be explicitly defined here, that doesn’t necessary make it ok. If you have to consider whether it is allowed, ask! :::
+Something may not be explicitly defined here, that doesn’t necessary make it ok. If you have to consider whether it is allowed, ask!}}
 
 <span id="respect"></span>
 === 1. Respect ===
@@ -35,7 +35,7 @@ Something may not be explicitly defined here, that doesn’t necessary make it o
 * You '''must''' use the #➕ | Create VC channel on our [https://discord.gg/democracy Discord server] when you are streaming or recording.
 ** Inform people who join your voice channel that you are recording.
 
-:::info Areas we moderate in We will moderate only groups and Discords related to DemocracyCraft. Private conversations will only be moderated when there is a blatant necessity for us to intervene. :::
+{{Info||| Areas we moderate in We will moderate only groups and Discords related to DemocracyCraft. Private conversations will only be moderated when there is a blatant necessity for us to intervene.}}
 
 <span id="advertising"></span>
 === 3. Advertising ===
@@ -51,7 +51,7 @@ Something may not be explicitly defined here, that doesn’t necessary make it o
 * Lava casting and flooding are not allowed anywhere.
 * You may not destroy, obstruct or otherwise cause physical disturbances on property that you do not own.
 
-:::danger This does not apply to the Wilderness You are allowed to destroy anything which is '''unclaimed''' in the Wilderness. This rule however still applies to anything that is '''claimed'''. :::
+{{Danger||| This does not apply to the Wilderness You are allowed to destroy anything which is '''unclaimed''' in the Wilderness. This rule however still applies to anything that is '''claimed'''.}}
 
 <span id="lag-prevention"></span>
 === 5. Lag Prevention ===
@@ -73,13 +73,11 @@ Something may not be explicitly defined here, that doesn’t necessary make it o
 ** This includes using bugs in server features.
 * You can only play on this server with '''one (1)''' Minecraft account. Any activities that occur on this account are your responsibility
 
-:::tip If your account is compromised, report it! We will try to help you out, and keep the account banned until you regain access to it. :::
+{{Tip||| If your account is compromised, report it! We will try to help you out, and keep the account banned until you regain access to it.}}
 
-:::info Punishments are not linear Depending on the severity of rules breached, your remorse for actions and compliance with Staff will affect disciplinary action.
+{{Info||| Punishments are not linear Depending on the severity of rules breached, your remorse for actions and compliance with Staff will affect disciplinary action.
 
-On the lower end you may simply be told not to repeat the behaviour again (verbal warning). On the higher end however, you may be deported (banished to the wilderness) or banned.
-
-:::
+On the lower end you may simply be told not to repeat the behaviour again (verbal warning). On the higher end however, you may be deported (banished to the wilderness) or banned.}}
 
 <span id="rules-1"></span>
 = Rules =
@@ -92,11 +90,11 @@ Staff maintain full discretion in their enforcement of rules and general moderat
 
 Feel free to ask questions on [https://discord.gg/democracy our Discord server] if you have any questions or concerns.
 
-:::tip Respect the spirit of the rules These rules are here to protect you - not for us to come after you!
+{{Tip||| Respect the spirit of the rules These rules are here to protect you - not for us to come after you!
 
 You will never be punished for raising a concern regading rules, regardless of whether it is about yourself or others.
 
-Something may not be explicitly defined here, that doesn’t necessary make it ok. If you have to consider whether it is allowed, ask! :::
+Something may not be explicitly defined here, that doesn’t necessary make it ok. If you have to consider whether it is allowed, ask!}}
 
 <span id="respect-1"></span>
 === 1. Respect ===
@@ -118,7 +116,7 @@ Something may not be explicitly defined here, that doesn’t necessary make it o
 * You '''must''' use the #➕ | Create VC channel on our [https://discord.gg/democracy Discord server] when you are streaming or recording.
 ** Inform people who join your voice channel that you are recording.
 
-:::info Areas we moderate in We will moderate only groups and Discords related to DemocracyCraft. Private conversations will only be moderated when there is a blatant necessity for us to intervene. :::
+{{Info||| Areas we moderate in We will moderate only groups and Discords related to DemocracyCraft. Private conversations will only be moderated when there is a blatant necessity for us to intervene.}}
 
 <span id="advertising-1"></span>
 === 3. Advertising ===
@@ -134,7 +132,7 @@ Something may not be explicitly defined here, that doesn’t necessary make it o
 * Lava casting and flooding are not allowed anywhere.
 * You may not destroy, obstruct or otherwise cause physical disturbances on property that you do not own.
 
-:::danger This does not apply to the Wilderness You are allowed to destroy anything which is '''unclaimed''' in the Wilderness. This rule however still applies to anything that is '''claimed'''. :::
+{{Danger||| This does not apply to the Wilderness You are allowed to destroy anything which is '''unclaimed''' in the Wilderness. This rule however still applies to anything that is '''claimed'''.}}
 
 <span id="lag-prevention-1"></span>
 === 5. Lag Prevention ===
@@ -156,10 +154,8 @@ Something may not be explicitly defined here, that doesn’t necessary make it o
 ** This includes using bugs in server features.
 * You can only play on this server with '''one (1)''' Minecraft account. Any activities that occur on this account are your responsibility
 
-:::tip If your account is compromised, report it! We will try to help you out, and keep the account banned until you regain access to it. :::
+{{Tip||| If your account is compromised, report it! We will try to help you out, and keep the account banned until you regain access to it.}}
 
-:::info Punishments are not linear Depending on the severity of rules breached, your remorse for actions and compliance with Staff will affect disciplinary action.
+{{Info||| Punishments are not linear Depending on the severity of rules breached, your remorse for actions and compliance with Staff will affect disciplinary action.
 
-On the lower end you may simply be told not to repeat the behaviour again (verbal warning). On the higher end however, you may be deported (banished to the wilderness) or banned.
-
-:::
+On the lower end you may simply be told not to repeat the behaviour again (verbal warning). On the higher end however, you may be deported (banished to the wilderness) or banned.}}

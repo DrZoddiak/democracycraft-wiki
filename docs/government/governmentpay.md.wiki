@@ -116,11 +116,9 @@ See below the current table of pay levels that apply to all jobs in the public s
 |
 |}
 
-:::tip All professions and trade jobs get paid!
+{{Tip||| All professions and trade jobs get paid!
 
-Congress has legislated a '''Universal Basic Income''' at $5 per 15 minutes that all trade jobs and professions are eligible for.
-
-:::
+Congress has legislated a '''Universal Basic Income''' at $5 per 15 minutes that all trade jobs and professions are eligible for.}}
 
 <span id="wages-and-allowances-1"></span>
 = Wages and Allowances =
@@ -240,8 +238,6 @@ See below the current table of pay levels that apply to all jobs in the public s
 |
 |}
 
-:::tip All professions and trade jobs get paid!
+{{Tip||| All professions and trade jobs get paid!
 
-Congress has legislated a '''Universal Basic Income''' at $5 per 15 minutes that all trade jobs and professions are eligible for.
-
-:::
+Congress has legislated a '''Universal Basic Income''' at $5 per 15 minutes that all trade jobs and professions are eligible for.}}

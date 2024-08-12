@@ -56,7 +56,7 @@ Usage: <code>/bolt password &lt;password&gt;</code> Description: Enter a passwor
 
 Usage: <code>/bolt mode &lt;mode&gt;</code> Description: Toggle a player mode. For example: persist, no lock, no spam.
 
-:::info Example <code>/bolt persist</code> - Toggles persistent mode which let you perform your last action (command) on all blocks you left click without needing to re-type the command. Run this command again to toggle this mode off. <code>/bolt nolock</code> - Toggles nolock mode which lets you place down all blocks without any of them locking by default. Run this command again to toggle this mode off. <code>/bolt nospam</code> - Toggles nospam mode which reduces messages that you see in game, such as when you interact with a protection it will no longer say who it is protected by in chat (including your own protections). Run this command again to toggle this mode off. :::
+{{Info||| Example <code>/bolt persist</code> - Toggles persistent mode which let you perform your last action (command) on all blocks you left click without needing to re-type the command. Run this command again to toggle this mode off. <code>/bolt nolock</code> - Toggles nolock mode which lets you place down all blocks without any of them locking by default. Run this command again to toggle this mode off. <code>/bolt nospam</code> - Toggles nospam mode which reduces messages that you see in game, such as when you interact with a protection it will no longer say who it is protected by in chat (including your own protections). Run this command again to toggle this mode off.}}
 
 <span id="help"></span>
 === Help ===
@@ -151,7 +151,7 @@ Usage: <code>/bolt password &lt;password&gt;</code> Description: Enter a passwor
 
 Usage: <code>/bolt mode &lt;mode&gt;</code> Description: Toggle a player mode. For example: persist, no lock, no spam.
 
-:::info Example <code>/bolt persist</code> - Toggles persistent mode which let you perform your last action (command) on all blocks you left click without needing to re-type the command. Run this command again to toggle this mode off. <code>/bolt nolock</code> - Toggles nolock mode which lets you place down all blocks without any of them locking by default. Run this command again to toggle this mode off. <code>/bolt nospam</code> - Toggles nospam mode which reduces messages that you see in game, such as when you interact with a protection it will no longer say who it is protected by in chat (including your own protections). Run this command again to toggle this mode off. :::
+{{Info||| Example <code>/bolt persist</code> - Toggles persistent mode which let you perform your last action (command) on all blocks you left click without needing to re-type the command. Run this command again to toggle this mode off. <code>/bolt nolock</code> - Toggles nolock mode which lets you place down all blocks without any of them locking by default. Run this command again to toggle this mode off. <code>/bolt nospam</code> - Toggles nospam mode which reduces messages that you see in game, such as when you interact with a protection it will no longer say who it is protected by in chat (including your own protections). Run this command again to toggle this mode off.}}
 
 <span id="help-1"></span>
 === Help ===

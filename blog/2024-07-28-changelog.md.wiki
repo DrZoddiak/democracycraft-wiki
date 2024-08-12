@@ -23,12 +23,7 @@ Welcome back and welcome in to this weeks release of the rolling Changelog. As w
 ** Thanks end for not deleting the server while you implemented this!
 * Flower Recipes are now properly working in-game and are live.
 
-<div class="note">
-
-The system staff don’t allow end to do much when it comes to editing or pushing updates. This is a direct result to the server previously being down for a couple days due to him breaking a database previously.
-
-
-</div>
+{{Note||| The system staff don’t allow end to do much when it comes to editing or pushing updates. This is a direct result to the server previously being down for a couple days due to him breaking a database previously.}}
 * New Chat Filter has been implemented to prevent further abuse!
 ** While the changelog on discord says you can call Nacho a whale, it was written in bad faith.
 ** You can '''only''' call tech a non-male.
@@ -66,12 +61,7 @@ The system staff don’t allow end to do much when it comes to editing or pushin
 * Crashes mitigated, due to an issue arrising from the 1.21 update DC has pushed an update to paper to resolve this going forward.
 ** This will help a couple thousand servers in the long run!
 
-<div class="note">
-
-DemocracryCraft is an active member of the greater MC community in providing feedback as well as a testing ground for various plugins that are utilized on larged platform servers. As well as providing feedback to hosting providers and mojang directly!
-
-
-</div>
+{{Note||| DemocracryCraft is an active member of the greater MC community in providing feedback as well as a testing ground for various plugins that are utilized on larged platform servers. As well as providing feedback to hosting providers and mojang directly!}}
 * You can no longer submit tickets when a only System Staff members are online.
 ** System staff do no take tickets in-game and are primarily engaged in behind the scenes activities. A warning has been set up to notify players to direct the ticket to discord for further assistance.
 
@@ -105,12 +95,7 @@ Welcome back and welcome in to this weeks release of the rolling Changelog. As w
 ** Thanks end for not deleting the server while you implemented this!
 * Flower Recipes are now properly working in-game and are live.
 
-<div class="note">
-
-The system staff don’t allow end to do much when it comes to editing or pushing updates. This is a direct result to the server previously being down for a couple days due to him breaking a database previously.
-
-
-</div>
+{{Note||| The system staff don’t allow end to do much when it comes to editing or pushing updates. This is a direct result to the server previously being down for a couple days due to him breaking a database previously.}}
 * New Chat Filter has been implemented to prevent further abuse!
 ** While the changelog on discord says you can call Nacho a whale, it was written in bad faith.
 ** You can '''only''' call tech a non-male.
@@ -148,12 +133,7 @@ The system staff don’t allow end to do much when it comes to editing or pushin
 * Crashes mitigated, due to an issue arrising from the 1.21 update DC has pushed an update to paper to resolve this going forward.
 ** This will help a couple thousand servers in the long run!
 
-<div class="note">
-
-DemocracryCraft is an active member of the greater MC community in providing feedback as well as a testing ground for various plugins that are utilized on larged platform servers. As well as providing feedback to hosting providers and mojang directly!
-
-
-</div>
+{{Note||| DemocracryCraft is an active member of the greater MC community in providing feedback as well as a testing ground for various plugins that are utilized on larged platform servers. As well as providing feedback to hosting providers and mojang directly!}}
 * You can no longer submit tickets when a only System Staff members are online.
 ** System staff do no take tickets in-game and are primarily engaged in behind the scenes activities. A warning has been set up to notify players to direct the ticket to discord for further assistance.
 

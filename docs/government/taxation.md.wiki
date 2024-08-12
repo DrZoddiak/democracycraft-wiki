@@ -56,13 +56,9 @@ Bracket amounts are inclusive and shall be taxed at the following rates weekly:
 | 20% of profits
 |}
 
-:::tip You are able to get company exemptions The Department of Commerce may decide to grant or deny exemptions to non-profits and/or financial institutions on a case by case basis.
+{{Tip||| You are able to get company exemptions The Department of Commerce may decide to grant or deny exemptions to non-profits and/or financial institutions on a case by case basis.}}
 
-:::
-
-:::danger All Towns are Exempt So long as the Town balance is used strictly for Town related purposes. Misuse of tax exempt Town accounts can qualify as corruption and or tax evasion.
-
-:::
+{{Danger||| All Towns are Exempt So long as the Town balance is used strictly for Town related purposes. Misuse of tax exempt Town accounts can qualify as corruption and or tax evasion.}}
 
 <span id="pruning-tax"></span>
 === Pruning Tax ===
@@ -71,9 +67,7 @@ All players who have been inactive for '''at least 4 consecutive months''' will 
 
 The total of personal funds shall be returned to the citizen if they become active once again.
 
-:::tip All record keeping happens on our Forums This way you are able to ask the Department of Commerce to check your record in the case you are prune taxed
-
-:::
+{{Tip||| All record keeping happens on our Forums This way you are able to ask the Department of Commerce to check your record in the case you are prune taxed}}
 
 <span id="property-tax"></span>
 === Property Tax ===
@@ -457,13 +451,9 @@ Bracket amounts are inclusive and shall be taxed at the following rates weekly:
 | 20% of profits
 |}
 
-:::tip You are able to get company exemptions The Department of Commerce may decide to grant or deny exemptions to non-profits and/or financial institutions on a case by case basis.
+{{Tip||| You are able to get company exemptions The Department of Commerce may decide to grant or deny exemptions to non-profits and/or financial institutions on a case by case basis.}}
 
-:::
-
-:::danger All Towns are Exempt So long as the Town balance is used strictly for Town related purposes. Misuse of tax exempt Town accounts can qualify as corruption and or tax evasion.
-
-:::
+{{Danger||| All Towns are Exempt So long as the Town balance is used strictly for Town related purposes. Misuse of tax exempt Town accounts can qualify as corruption and or tax evasion.}}
 
 <span id="pruning-tax-1"></span>
 === Pruning Tax ===
@@ -472,9 +462,7 @@ All players who have been inactive for '''at least 4 consecutive months''' will 
 
 The total of personal funds shall be returned to the citizen if they become active once again.
 
-:::tip All record keeping happens on our Forums This way you are able to ask the Department of Commerce to check your record in the case you are prune taxed
-
-:::
+{{Tip||| All record keeping happens on our Forums This way you are able to ask the Department of Commerce to check your record in the case you are prune taxed}}
 
 <span id="property-tax-1"></span>
 === Property Tax ===

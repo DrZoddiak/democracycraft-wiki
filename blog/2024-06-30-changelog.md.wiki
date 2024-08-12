@@ -24,7 +24,7 @@ Welcome to this week’s changelog! We had a quiet week regarding rolling out ch
 
 * Fuel is disabled for the custom textured vehicles from MTVehicles.
 ** Is a potential temporary change
-* Furniture per chunk doubled to '''20''' :::note We should take a slow and cautious approach to changing this limit. We don’t want to lag players out. If you notice your client side needs to catch up, reduce the number of these items in your area. :::
+* Furniture per chunk doubled to '''20''' {{Note||| We should take a slow and cautious approach to changing this limit. We don’t want to lag players out. If you notice your client side needs to catch up, reduce the number of these items in your area.}}
 * Rollout of new feature logging system.
 ** Designed to assist with backend management of ongoing project development.
 * Rollout of new ‘Bug Tracking’ system.
@@ -61,7 +61,7 @@ Welcome to this week’s changelog! We had a quiet week regarding rolling out ch
 
 * Fuel is disabled for the custom textured vehicles from MTVehicles.
 ** Is a potential temporary change
-* Furniture per chunk doubled to '''20''' :::note We should take a slow and cautious approach to changing this limit. We don’t want to lag players out. If you notice your client side needs to catch up, reduce the number of these items in your area. :::
+* Furniture per chunk doubled to '''20''' {{Note||| We should take a slow and cautious approach to changing this limit. We don’t want to lag players out. If you notice your client side needs to catch up, reduce the number of these items in your area.}}
 * Rollout of new feature logging system.
 ** Designed to assist with backend management of ongoing project development.
 * Rollout of new ‘Bug Tracking’ system.

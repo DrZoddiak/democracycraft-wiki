@@ -39,12 +39,7 @@ It’s not very complicated, basically I work on the server first - be that bug 
 
 When I wake up the first thing I do DC-wise is just read over what I’ve been pinged/DMd about. You lot have been doing a better job of putting things in tickets and pinging me in them, or other desiganted channels as appropriate. It’s appreciated, because I will forget otherwise (sorry :P), please continue to do this!! After this, some time during the day if I decide to work on DC I tackle server stuff in roughly this order.
 
-<div class="note">
-
-Notice how I said ''DC-wise'', implying its just the first things I do when I get around to DC, that’s because my job isn’t DC - it isn’t anyones. Make sure you’re taking care of yourself first when you wake up, not a Minecraft server!
-
-
-</div>
+{{Note||| Notice how I said ''DC-wise'', implying its just the first things I do when I get around to DC, that’s because my job isn’t DC - it isn’t anyones. Make sure you’re taking care of yourself first when you wake up, not a Minecraft server!}}
 # '''Tickets'''
 #* What can I complete right now?
 #* What needs to be written down to do later?
@@ -75,15 +70,15 @@ A lot of the debugging work I do behind the scenes is just done silently because
 
 Unfortunately after doing silent debugging all day, and then jumping on to do features, it looks like ''all'' that time I invested was actually adding features/new things, which sucks because, no, it wasn’t. :(
 
-:::tip Moving forward I’ll probably post in server announcements (or #support?) temporarily what’s been done on pressing issues like lag, things being offline etc. That way you can see that the work I do silently isn’t so silent.
+{{Tip||| Moving forward I’ll probably post in server announcements (or #support?) temporarily what’s been done on pressing issues like lag, things being offline etc. That way you can see that the work I do silently isn’t so silent.
 
-I also encourage you to check our bug tracker, I do a lot of my thinking there on bugs. :::
+I also encourage you to check our bug tracker, I do a lot of my thinking there on bugs.}}
 
 I’m going to be honest, 80% of my time as is, is spent on bug fixes/improving existing systems. This includes Staff and player relations in that 80% figure, and then the remaining 20% is the fun feature stuff. Don’t get me wrong though, I do enjoy problem solving, which is largely in part why I do so much bug fixing.
 
-:::info Did you know? The summer furniture expansion pack only took me '''~30 minutes''' to implement!
+{{Info||| Did you know? The summer furniture expansion pack only took me '''~30 minutes''' to implement!
 
-I generally don’t struggle to add features once I have an idea on how they work. :::
+I generally don’t struggle to add features once I have an idea on how they work.}}
 
 I’ve been working on Minecraft servers for a long time, it’s almost always easier for me to add new features, this means when I when I get to doing them, I do them quite quick. That’s why you see new things from me more often, I only need a little time to do a lot with features.
 
@@ -143,12 +138,7 @@ It’s not very complicated, basically I work on the server first - be that bug 
 
 When I wake up the first thing I do DC-wise is just read over what I’ve been pinged/DMd about. You lot have been doing a better job of putting things in tickets and pinging me in them, or other desiganted channels as appropriate. It’s appreciated, because I will forget otherwise (sorry :P), please continue to do this!! After this, some time during the day if I decide to work on DC I tackle server stuff in roughly this order.
 
-<div class="note">
-
-Notice how I said ''DC-wise'', implying its just the first things I do when I get around to DC, that’s because my job isn’t DC - it isn’t anyones. Make sure you’re taking care of yourself first when you wake up, not a Minecraft server!
-
-
-</div>
+{{Note||| Notice how I said ''DC-wise'', implying its just the first things I do when I get around to DC, that’s because my job isn’t DC - it isn’t anyones. Make sure you’re taking care of yourself first when you wake up, not a Minecraft server!}}
 # '''Tickets'''
 #* What can I complete right now?
 #* What needs to be written down to do later?
@@ -179,15 +169,15 @@ A lot of the debugging work I do behind the scenes is just done silently because
 
 Unfortunately after doing silent debugging all day, and then jumping on to do features, it looks like ''all'' that time I invested was actually adding features/new things, which sucks because, no, it wasn’t. :(
 
-:::tip Moving forward I’ll probably post in server announcements (or #support?) temporarily what’s been done on pressing issues like lag, things being offline etc. That way you can see that the work I do silently isn’t so silent.
+{{Tip||| Moving forward I’ll probably post in server announcements (or #support?) temporarily what’s been done on pressing issues like lag, things being offline etc. That way you can see that the work I do silently isn’t so silent.
 
-I also encourage you to check our bug tracker, I do a lot of my thinking there on bugs. :::
+I also encourage you to check our bug tracker, I do a lot of my thinking there on bugs.}}
 
 I’m going to be honest, 80% of my time as is, is spent on bug fixes/improving existing systems. This includes Staff and player relations in that 80% figure, and then the remaining 20% is the fun feature stuff. Don’t get me wrong though, I do enjoy problem solving, which is largely in part why I do so much bug fixing.
 
-:::info Did you know? The summer furniture expansion pack only took me '''~30 minutes''' to implement!
+{{Info||| Did you know? The summer furniture expansion pack only took me '''~30 minutes''' to implement!
 
-I generally don’t struggle to add features once I have an idea on how they work. :::
+I generally don’t struggle to add features once I have an idea on how they work.}}
 
 I’ve been working on Minecraft servers for a long time, it’s almost always easier for me to add new features, this means when I when I get to doing them, I do them quite quick. That’s why you see new things from me more often, I only need a little time to do a lot with features.
 

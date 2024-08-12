@@ -15,12 +15,7 @@ Welcome back and welcome in to this weeks release of the rolling Changelog. We a
 ** Color codes are not supported in these advertisements.
 ** Syntax: <code>/register-business-shoutout &lt;slot&gt; &lt;ad&gt;</code>
 
-<div class="note">
-
-Did you know that staff work to remove our interaction with government action regularly. If you have something you fee we can automate open a ticket in #support
-
-
-</div>
+{{Note||| Did you know that staff work to remove our interaction with government action regularly. If you have something you fee we can automate open a ticket in #support}}
 * Hat Recipes Implmented!
 ** The previously released hates from the previous [https://wiki.democracycraft.net/blog/2024-07-07-changelog Changelog] now has reciepes in <code>/ia</code>
 * Profession Update
@@ -77,12 +72,7 @@ Welcome back and welcome in to this weeks release of the rolling Changelog. We a
 ** Color codes are not supported in these advertisements.
 ** Syntax: <code>/register-business-shoutout &lt;slot&gt; &lt;ad&gt;</code>
 
-<div class="note">
-
-Did you know that staff work to remove our interaction with government action regularly. If you have something you fee we can automate open a ticket in #support
-
-
-</div>
+{{Note||| Did you know that staff work to remove our interaction with government action regularly. If you have something you fee we can automate open a ticket in #support}}
 * Hat Recipes Implmented!
 ** The previously released hates from the previous [https://wiki.democracycraft.net/blog/2024-07-07-changelog Changelog] now has reciepes in <code>/ia</code>
 * Profession Update

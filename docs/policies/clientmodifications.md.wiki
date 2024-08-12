@@ -25,7 +25,7 @@ The Official DemocracyCraft Resourcepack (full texture overhaul with custom home
 
 Guns &amp; Ammo Resourcepack (see custom textures for guns and ammo) <code>/getrp</code> or <code>/getresourcepack</code> in-game and select it from the GUI
 
-:::tip It never hurts to ask! If you have a mod you are thinking of playing with but don’t see it here. You can always ask a staff member for approval within a Support Ticket on discord! :::
+{{Tip||| It never hurts to ask! If you have a mod you are thinking of playing with but don’t see it here. You can always ask a staff member for approval within a Support Ticket on discord!}}
 
 <span id="modifications"></span>
 == Modifications ==
@@ -40,7 +40,7 @@ Before downloading a modification, make sure it supports the current Minecraft v
 
 '''Other Allowed Mods''' - Vivecraft - https://www.vivecraft.org/ - Questcraft - https://sidequestvr.com/app/7150/questcraft
 
-:::danger Getting caught Staff are consistently monitoring gameplay to ensure 100% compliance with the rules. Violating the rules could result in '''disciplinary action'''! :::
+{{Danger||| Getting caught Staff are consistently monitoring gameplay to ensure 100% compliance with the rules. Violating the rules could result in '''disciplinary action'''!}}
 
 <span id="modpacks"></span>
 == Modpacks ==
@@ -51,7 +51,7 @@ Here are some modpacks that you can use on our server. All mods within these mod
 
 '''Forge''' There are currently '''no''' approved forge modpacks.
 
-:::info Have a suggestion? Open a Support Ticket on the DemocracyCraft discord to give us a recommendation! :::
+{{Info||| Have a suggestion? Open a Support Ticket on the DemocracyCraft discord to give us a recommendation!}}
 
 <span id="client-modifications-1"></span>
 = Client Modifications =
@@ -80,7 +80,7 @@ The Official DemocracyCraft Resourcepack (full texture overhaul with custom home
 
 Guns &amp; Ammo Resourcepack (see custom textures for guns and ammo) <code>/getrp</code> or <code>/getresourcepack</code> in-game and select it from the GUI
 
-:::tip It never hurts to ask! If you have a mod you are thinking of playing with but don’t see it here. You can always ask a staff member for approval within a Support Ticket on discord! :::
+{{Tip||| It never hurts to ask! If you have a mod you are thinking of playing with but don’t see it here. You can always ask a staff member for approval within a Support Ticket on discord!}}
 
 <span id="modifications-1"></span>
 == Modifications ==
@@ -95,7 +95,7 @@ Before downloading a modification, make sure it supports the current Minecraft v
 
 '''Other Allowed Mods''' - Vivecraft - https://www.vivecraft.org/ - Questcraft - https://sidequestvr.com/app/7150/questcraft
 
-:::danger Getting caught Staff are consistently monitoring gameplay to ensure 100% compliance with the rules. Violating the rules could result in '''disciplinary action'''! :::
+{{Danger||| Getting caught Staff are consistently monitoring gameplay to ensure 100% compliance with the rules. Violating the rules could result in '''disciplinary action'''!}}
 
 <span id="modpacks-1"></span>
 == Modpacks ==
@@ -106,4 +106,4 @@ Here are some modpacks that you can use on our server. All mods within these mod
 
 '''Forge''' There are currently '''no''' approved forge modpacks.
 
-:::info Have a suggestion? Open a Support Ticket on the DemocracyCraft discord to give us a recommendation! :::
+{{Info||| Have a suggestion? Open a Support Ticket on the DemocracyCraft discord to give us a recommendation!}}
